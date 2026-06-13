@@ -282,7 +282,7 @@ Transform:
   m_GameObject: {fileID: 110689721}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.19, y: -3.01, z: 0}
+  m_LocalPosition: {x: -8.05, y: 0.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1247,9 +1247,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f3f7ab9d21b0a84e9e3f88103b26f8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  maxLength: 3
-  extendSpeed: 8
-  pullSpeed: 5
+  maxLength: 15
+  extendSpeed: 100
+  pullSpeed: 10
   stopDistance: 0.5
 --- !u!212 &1158049188
 SpriteRenderer:
@@ -1361,7 +1361,7 @@ GameObject:
   - component: {fileID: 1338067063}
   m_Layer: 0
   m_Name: Lokvanj
-  m_TagString: Untagged
+  m_TagString: Pullable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1437,7 +1437,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.9, y: 0.9}
   m_EdgeRadius: 0
 --- !u!212 &1338067065
 SpriteRenderer:
