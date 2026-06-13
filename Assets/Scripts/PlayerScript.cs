@@ -19,7 +19,7 @@ public class PlayerScript : MonoBehaviour
     {
         horizontal = Input.GetAxisRaw("Horizontal");
 
-        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && isGrounded)
+        if (Input.GetKeyDown(KeyCode.W)&& isGrounded)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
