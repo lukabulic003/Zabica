@@ -1,52 +1,36 @@
 using UnityEngine;
-
-[RequireComponent(typeof(Rigidbody2D))]
+using System.Collections.Generic;
 public class LokvanjScript : MonoBehaviour
 {
-    [SerializeField] private int flowersNeeded = 2;
-    [SerializeField] private float gravityWhenSinking = 2f;
-
-    private Rigidbody2D rb;
-    private int flowerCount;
-    private bool isSinking;
-
-    private void Awake()
+    private HashSet<Collider2D> lotusiNaPlatformi = new HashSet<Collider2D>();
+    public int potrebanBrojZaPad = 2;
+    public float brzinaPada = 2f;
+    private bool pada = false;
+    void OnCollisionEnter2D(Collision2D other)
     {
-        rb = GetComponent<Rigidbody2D>();
-
-        rb.gravityScale = 0f;
-
-        flowerCount = 0;
-        isSinking = false;
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Flower"))
+        Debug.Log(gameObject.name + " - ENTER kolizija sa: " + other.gameObject.name + " (tag: " + other.gameObject.tag + ")");
+        if (other.gameObject.CompareTag("Lotus"))
         {
-            flowerCount++;
-
-            CheckIfShouldSink();
+            lotusiNaPlatformi.Add(other.collider);
         }
     }
-
-    private void OnTriggerExit2D(Collider2D other)
+    void OnCollisionExit2D(Collision2D other)
     {
-        if (other.CompareTag("Flower"))
+        Debug.Log(gameObject.name + " - EXIT kolizija sa: " + other.gameObject.name);
+        if (other.gameObject.CompareTag("Lotus"))
         {
-            flowerCount--;
+            lotusiNaPlatformi.Remove(other.collider);
         }
     }
-
-    private void CheckIfShouldSink()
+    void Update()
     {
-        if (isSinking)
-            return;
-
-        if (flowerCount >= flowersNeeded)
+        if (lotusiNaPlatformi.Count >= potrebanBrojZaPad)
         {
-            isSinking = true;
-            rb.gravityScale = gravityWhenSinking;
+            pada = true;
+        }
+        if (pada)
+        {
+            transform.position += Vector3.down * brzinaPada * Time.deltaTime;
         }
     }
 }

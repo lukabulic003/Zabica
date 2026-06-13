@@ -8,6 +8,7 @@ TagManager:
   - Wather
   - Pullable
   - Consubamle
+  - Lotus
   layers:
   - Default
   - TransparentFX

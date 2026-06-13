@@ -59,7 +59,7 @@ public class PlayerScript : MonoBehaviour
             spriteRenderer.sprite = idleSprite;
         }
 
-        if (Input.GetKeyDown(KeyCode.W)&& isGrounded)
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
