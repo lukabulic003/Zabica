@@ -2,30 +2,107 @@ using UnityEngine;
 
 public class ToungeScript : MonoBehaviour
 {
+    [SerializeField] private float maxLength = 3f;
+    [SerializeField] private float extendSpeed = 8f;
+    [SerializeField] private float pullSpeed = 5f;
+    [SerializeField] private float stopDistance = 0.5f;
 
-    [SerializeField] private Vector3 shortSize = new Vector3(1f, 1f, 1f);
-    [SerializeField] private Vector3 longSize = new Vector3(3f, 1f, 1f);
+    private Vector3 startPosition;
+    private Vector3 startScale;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private float currentLength;
+
+    private Rigidbody2D grabbedRb;
+
+    private void Start()
     {
-        transform.localPosition = new Vector3(0f, 0f, 0f);
-        transform.localScale = shortSize;
+        startPosition = transform.localPosition;
+        startScale = transform.localScale;
+
+        currentLength = 1f;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
+        bool tongueExtended = Input.GetKey(KeyCode.Space);
+
+        float targetLength = tongueExtended
+            ? maxLength
+            : 1f;
+
+        currentLength = Mathf.MoveTowards(
+            currentLength,
+            targetLength,
+            extendSpeed * Time.deltaTime
+        );
+
+        transform.localScale = new Vector3(
+            startScale.x * currentLength,
+            startScale.y,
+            startScale.z
+        );
+
+        transform.localPosition = new Vector3(
+            startPosition.x +
+            (startScale.x * (currentLength - 1f)) / 2f,
+            startPosition.y,
+            startPosition.z
+        );
+
+        if (!tongueExtended && grabbedRb != null)
         {
-            transform.localScale = longSize/2;
-            transform.localScale = longSize;
-            transform.localPosition = new Vector3(1f, 0f, 0f);
+            grabbedRb.linearVelocity = Vector2.zero;
+            grabbedRb = null;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        if (grabbedRb == null)
+            return;
+
+        float distance = Vector2.Distance(
+            grabbedRb.position,
+            transform.parent.position
+        );
+
+        if (distance > stopDistance)
+        {
+            Vector2 direction =
+                ((Vector2)transform.parent.position -
+                grabbedRb.position).normalized;
+
+            grabbedRb.linearVelocity =
+                direction * pullSpeed;
         }
         else
         {
-            transform.localScale = shortSize;
-            transform.localPosition = new Vector3(0f, 0f, 0f);
+            grabbedRb.linearVelocity = Vector2.zero;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Pullable"))
+        {
+            Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
+
+            if (rb != null)
+            {
+                grabbedRb = rb;
+            }
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Pullable"))
+        {
+            if (grabbedRb == other.GetComponent<Rigidbody2D>())
+            {
+                grabbedRb.linearVelocity = Vector2.zero;
+                grabbedRb = null;
+            }
         }
     }
 }
