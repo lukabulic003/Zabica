@@ -1,108 +1,92 @@
 using UnityEngine;
 
-public class ToungeScript : MonoBehaviour
+public class TongueScript : MonoBehaviour
 {
-    [SerializeField] private float maxLength = 3f;
-    [SerializeField] private float extendSpeed = 8f;
-    [SerializeField] private float pullSpeed = 5f;
-    [SerializeField] private float stopDistance = 0.5f;
+    [SerializeField] private SpriteRenderer playerSprite;
 
-    private Vector3 startPosition;
-    private Vector3 startScale;
+    [SerializeField] private float minLength = 0.2f;
+    [SerializeField] private float maxLength = 4f;
+    [SerializeField] private float growSpeed = 8f;
 
     private float currentLength;
 
-    private Rigidbody2D grabbedRb;
+    private SpriteRenderer tongueRenderer;
 
     private void Start()
     {
-        startPosition = transform.localPosition;
-        startScale = transform.localScale;
+        tongueRenderer = GetComponent<SpriteRenderer>();
+        currentLength = minLength;
 
-        currentLength = 1f;
+        transform.localScale =
+            new Vector3(minLength, 1f, 1f);
     }
 
     private void Update()
     {
-        bool tongueExtended = Input.GetKey(KeyCode.Space);
+        float horizontal =
+        Input.GetAxisRaw("Horizontal");
 
-        float targetLength = tongueExtended
-            ? maxLength
-            : 1f;
-
-        currentLength = Mathf.MoveTowards(
-            currentLength,
-            targetLength,
-            extendSpeed * Time.deltaTime
-        );
-
-        transform.localScale = new Vector3(
-            startScale.x * currentLength,
-            startScale.y,
-            startScale.z
-        );
-
-        transform.localPosition = new Vector3(
-            startPosition.x +
-            (startScale.x * (currentLength - 1f)) / 2f,
-            startPosition.y,
-            startPosition.z
-        );
-
-        if (!tongueExtended && grabbedRb != null)
+        if (Mathf.Abs(horizontal) > 0.1f &&
+            !Input.GetKey(KeyCode.Space))
         {
-            grabbedRb.linearVelocity = Vector2.zero;
-            grabbedRb = null;
-        }
-    }
-
-    private void FixedUpdate()
-    {
-        if (grabbedRb == null)
-            return;
-
-        float distance = Vector2.Distance(
-            grabbedRb.position,
-            transform.parent.position
-        );
-
-        if (distance > stopDistance)
-        {
-            Vector2 direction =
-                ((Vector2)transform.parent.position -
-                grabbedRb.position).normalized;
-
-            grabbedRb.linearVelocity =
-                direction * pullSpeed;
+            tongueRenderer.enabled = false;
         }
         else
         {
-            grabbedRb.linearVelocity = Vector2.zero;
+            tongueRenderer.enabled = true;
+        }
+
+        UpdateDirection();
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            currentLength +=
+                growSpeed * Time.deltaTime;
+        }
+        else
+        {
+            currentLength -=
+                growSpeed * Time.deltaTime;
+        }
+
+        currentLength =
+            Mathf.Clamp(
+                currentLength,
+                minLength,
+                maxLength);
+
+        transform.localScale =
+            new Vector3(
+                currentLength,
+                1f,
+                1f);
+    }
+
+    private void UpdateDirection()
+    {
+        if (playerSprite.flipX)
+        {
+            transform.localRotation =
+                Quaternion.Euler(0f, 180f, 0f);
+
+            transform.localPosition =
+                new Vector3(-1f, 1f, 0f);
+        }
+        else
+        {
+            transform.localRotation =
+                Quaternion.identity;
+
+            transform.localPosition =
+                new Vector3(1f, 1f, 0f);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Pullable"))
-        {
-            Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
+        if (!other.CompareTag("TongueTarget"))
+            return;
 
-            if (rb != null)
-            {
-                grabbedRb = rb;
-            }
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("Pullable"))
-        {
-            if (grabbedRb == other.GetComponent<Rigidbody2D>())
-            {
-                grabbedRb.linearVelocity = Vector2.zero;
-                grabbedRb = null;
-            }
-        }
+        Debug.Log("Pogodio sam metu");
     }
 }
