@@ -1,16 +1,52 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class LokvanjScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private int flowersNeeded = 2;
+    [SerializeField] private float gravityWhenSinking = 2f;
+
+    private Rigidbody2D rb;
+    private int flowerCount;
+    private bool isSinking;
+
+    private void Awake()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
+
+        rb.gravityScale = 0f;
+
+        flowerCount = 0;
+        isSinking = false;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
+        if (other.CompareTag("Flower"))
+        {
+            flowerCount++;
+
+            CheckIfShouldSink();
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Flower"))
+        {
+            flowerCount--;
+        }
+    }
+
+    private void CheckIfShouldSink()
+    {
+        if (isSinking)
+            return;
+
+        if (flowerCount >= flowersNeeded)
+        {
+            isSinking = true;
+            rb.gravityScale = gravityWhenSinking;
+        }
     }
 }
