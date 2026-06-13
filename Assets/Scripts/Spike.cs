@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Water : MonoBehaviour
+public class Spike : MonoBehaviour
 {
     public Transform SpawnPoint;
 
