@@ -8,34 +8,20 @@ public class TongueScript : MonoBehaviour
     [SerializeField] private float maxLength = 4f;
     [SerializeField] private float growSpeed = 8f;
 
-    private float currentLength;
+    [SerializeField] private float mouthOffset = 1f;
 
-    private SpriteRenderer tongueRenderer;
+    private float currentLength;
 
     private void Start()
     {
-        tongueRenderer = GetComponent<SpriteRenderer>();
         currentLength = minLength;
 
         transform.localScale =
-            new Vector3(minLength, 1f, 1f);
+            new Vector3(minLength, 2f, 2f);
     }
 
     private void Update()
     {
-        float horizontal =
-        Input.GetAxisRaw("Horizontal");
-
-        if (Mathf.Abs(horizontal) > 0.1f &&
-            !Input.GetKey(KeyCode.Space))
-        {
-            tongueRenderer.enabled = false;
-        }
-        else
-        {
-            tongueRenderer.enabled = true;
-        }
-
         UpdateDirection();
 
         if (Input.GetKey(KeyCode.Space))
@@ -58,9 +44,10 @@ public class TongueScript : MonoBehaviour
         transform.localScale =
             new Vector3(
                 currentLength,
-                1f,
-                1f);
+                2f,
+                2f);
     }
+
 
     private void UpdateDirection()
     {
@@ -70,7 +57,10 @@ public class TongueScript : MonoBehaviour
                 Quaternion.Euler(0f, 180f, 0f);
 
             transform.localPosition =
-                new Vector3(-1f, 1f, 0f);
+                new Vector3(
+                    -mouthOffset,
+                    1f,
+                    1f);
         }
         else
         {
@@ -78,15 +68,10 @@ public class TongueScript : MonoBehaviour
                 Quaternion.identity;
 
             transform.localPosition =
-                new Vector3(1f, 1f, 0f);
+                new Vector3(
+                    mouthOffset,
+                    1f,
+                    1f);
         }
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (!other.CompareTag("TongueTarget"))
-            return;
-
-        Debug.Log("Pogodio sam metu");
     }
 }
