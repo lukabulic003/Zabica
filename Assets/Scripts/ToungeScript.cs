@@ -18,6 +18,7 @@ public class ToungeScript : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
+            transform.localScale = longSize/2;
             transform.localScale = longSize;
             transform.localPosition = new Vector3(1f, 0f, 0f);
         }
