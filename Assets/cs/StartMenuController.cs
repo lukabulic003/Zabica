@@ -6,7 +6,7 @@ public class StartMenuController : MonoBehaviour
 
     public void onStartClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("MainMeni");
     }
 
     public void onEndClick()

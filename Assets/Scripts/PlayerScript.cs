@@ -24,32 +24,35 @@ public class PlayerScript : MonoBehaviour
 
     [SerializeField] private float animationSpeed = 0.1f;
 
+    [SerializeField] private float shrinkPercent = 0.05f;
+
+    // Minimalna dozvoljena velicina zabe
+    [SerializeField] private float minScale = 0.1f;
+
+    // 0.3 = 30% originalne velicine
+    [SerializeField] private float bubblePopThreshold = 0.3f;
+
+    private float originalScale;
+
     private float animationTimer;
     private int currentFrame;
+
     public bool isInWater = false;
+
     private float vertical;
- 
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        originalScale = transform.localScale.x;
     }
 
     private void Update()
     {
-
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
 
-        if (!isInWater)
-        {
-            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
-            {
-                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            }
-        }
-        else { 
-
+        // Okretanje sprite-a
         if (horizontal > 0)
         {
             spriteRenderer.flipX = false;
@@ -59,6 +62,7 @@ public class PlayerScript : MonoBehaviour
             spriteRenderer.flipX = true;
         }
 
+        // Animacije rade i na kopnu i u vodi
         if (!isGrounded)
         {
             UpdateJumpSprite();
@@ -72,10 +76,36 @@ public class PlayerScript : MonoBehaviour
             spriteRenderer.sprite = idleSprite;
         }
 
-        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+        // Skok samo van vode
+        if (!isInWater)
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
         }
+
+        // Smanjivanje samo u vodi
+        if (isInWater && Input.GetKeyDown(KeyCode.Space))
+        {
+            Vector3 newScale =
+                transform.localScale * (1f - shrinkPercent);
+
+            if (newScale.x >= minScale)
+            {
+                transform.localScale = newScale;
+
+                float currentPercent =
+                    transform.localScale.x / originalScale * 100f;
+
+                Debug.Log(
+                    $"Zaba se smanjila. Trenutna velicina: {currentPercent:F1}%");
+            }
+            else
+            {
+                Debug.Log(
+                    "Dostignuta minimalna velicina.");
+            }
         }
     }
 
@@ -99,7 +129,8 @@ public class PlayerScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("Wather"))
+        if (collision.gameObject.CompareTag("Ground") ||
+            collision.gameObject.CompareTag("Wather"))
         {
             isGrounded = true;
         }
@@ -173,8 +204,18 @@ public class PlayerScript : MonoBehaviour
                 case 2:
                     spriteRenderer.sprite = walk3;
                     break;
-
             }
         }
+    }
+
+    public bool CanPopBubble()
+    {
+        float currentPercent =
+            transform.localScale.x / originalScale;
+
+        Debug.Log(
+            $"Velicina zabe: {currentPercent * 100f:F1}%");
+
+        return currentPercent >= bubblePopThreshold;
     }
 }
