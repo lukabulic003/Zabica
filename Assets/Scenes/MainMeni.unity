@@ -2484,7 +2484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Bug
   transitionAnimator: {fileID: 0}
   nextSceneName: TransitionScene
-  transitionDuration: 1
+  transitionDuration: 0.3
 --- !u!61 &543970988
 BoxCollider2D:
   m_ObjectHideFlags: 0

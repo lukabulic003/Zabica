@@ -30,7 +30,7 @@ public class Bug2Script : MonoBehaviour
 
             gameObject.SetActive(false);
             AudioManager.Instance.PlaySfx(AudioManager.Instance.bubblePopSound);
-            UnityEngine.SceneManagement.SceneManager.LoadScene("EndScene");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("BetterStartScene");
         }
         else
         {
