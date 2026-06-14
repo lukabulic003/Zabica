@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2c1226e814a283242b26eb3274b17d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7624976185795097852
+    second: BG203Collider 2_0
+  - first:
+      213: -8523899162458895998
+    second: BG203Collider 2_1
+  - first:
+      213: -346979265259514319
+    second: BG203Collider 2_2
+  - first:
+      213: 431350921007920431
+    second: BG203Collider 2_3
+  - first:
+      213: 3325934351950069627
+    second: BG203Collider 2_4
+  - first:
+      213: 3317750322843563157
+    second: BG203Collider 2_5
+  - first:
+      213: -8957367059270191402
+    second: BG203Collider 2_6
+  - first:
+      213: 1457932274030966743
+    second: BG203Collider 2_7
+  - first:
+      213: 7682035074686881637
+    second: BG203Collider 2_8
+  - first:
+      213: 3188377048452050951
+    second: BG203Collider 2_9
+  - first:
+      213: 8169064896443162347
+    second: BG203Collider 2_10
+  - first:
+      213: -3295455228557402894
+    second: BG203Collider 2_11
+  - first:
+      213: 6548269511327548586
+    second: BG203Collider 2_12
+  - first:
+      213: -2491867864962927177
+    second: BG203Collider 2_13
+  - first:
+      213: -4255575072451166593
+    second: BG203Collider 2_14
+  - first:
+      213: 6502486994569721866
+    second: BG203Collider 2_15
+  - first:
+      213: 1767272242750708554
+    second: BG203Collider 2_16
+  - first:
+      213: -4557510538776317763
+    second: BG203Collider 2_17
+  - first:
+      213: -8121296693283810818
+    second: BG203Collider 2_18
+  - first:
+      213: 1956570653633700377
+    second: BG203Collider 2_19
+  - first:
+      213: 5864124443936410691
+    second: BG203Collider 2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG203Collider 2_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 296
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bced0de84ae2690800000000000000
+      internalID: -7624976185795097852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 791
+        width: 147
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28943609fd605b980800000000000000
+      internalID: -8523899162458895998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 427
+        width: 447
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d7c552384f2bf0800000000000000
+      internalID: -346979265259514319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_3
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 178
+        width: 242
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f63490677cf500800000000000000
+      internalID: 431350921007920431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 726
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb04aeba7182e20800000000000000
+      internalID: 3325934351950069627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 704
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594378627540b0e20800000000000000
+      internalID: 3317750322843563157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 708
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d63a652e1a01b380800000000000000
+      internalID: -8957367059270191402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 708
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77134cdad9b3410800000000000000
+      internalID: 1457932274030966743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 684
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f8dc203321c9a60800000000000000
+      internalID: 7682035074686881637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 612
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003ef668046f3c20800000000000000
+      internalID: 3188377048452050951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_10
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 587
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee9b93ed395e5170800000000000000
+      internalID: 8169064896443162347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 485
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd1a00ee03442d0800000000000000
+      internalID: -3295455228557402894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_12
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 128
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa403342d6020ea50800000000000000
+      internalID: 6548269511327548586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 87
+        width: 194
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b57ca9116b1b6dd0800000000000000
+      internalID: -2491867864962927177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_14
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 0
+        width: 427
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7a83c40921f4c0800000000000000
+      internalID: -4255575072451166593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_15
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 84
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08fceb48797d3a50800000000000000
+      internalID: 6502486994569721866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 59
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b509acdbc968810800000000000000
+      internalID: 1767272242750708554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0732ccf4870c0c0800000000000000
+      internalID: -4557510538776317763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_18
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 41
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef193499fab5b4f80800000000000000
+      internalID: -8121296693283810818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 24
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9126ac3a4a2272b10800000000000000
+      internalID: 1956570653633700377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG203Collider 2_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 81
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc38fbc1e816150800000000000000
+      internalID: 5864124443936410691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG203Collider 2_0: -7624976185795097852
+      BG203Collider 2_1: -8523899162458895998
+      BG203Collider 2_10: 8169064896443162347
+      BG203Collider 2_11: -3295455228557402894
+      BG203Collider 2_12: 6548269511327548586
+      BG203Collider 2_13: -2491867864962927177
+      BG203Collider 2_14: -4255575072451166593
+      BG203Collider 2_15: 6502486994569721866
+      BG203Collider 2_16: 1767272242750708554
+      BG203Collider 2_17: -4557510538776317763
+      BG203Collider 2_18: -8121296693283810818
+      BG203Collider 2_19: 1956570653633700377
+      BG203Collider 2_2: -346979265259514319
+      BG203Collider 2_20: 5864124443936410691
+      BG203Collider 2_3: 431350921007920431
+      BG203Collider 2_4: 3325934351950069627
+      BG203Collider 2_5: 3317750322843563157
+      BG203Collider 2_6: -8957367059270191402
+      BG203Collider 2_7: 1457932274030966743
+      BG203Collider 2_8: 7682035074686881637
+      BG203Collider 2_9: 3188377048452050951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
