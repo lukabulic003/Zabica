@@ -1,21 +1,32 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 public class BugScript : MonoBehaviour
 {
-    void Start()
+    [SerializeField] private Animator transitionAnimator;
+    [SerializeField] private string nextSceneName;
+    [SerializeField] private float transitionDuration = 1f;
+
+    private bool finished = false;
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
+        if (finished) return;
 
-    }
-
-    void Update()
-    {
-
-    }
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Jezik"))
+        if (other.CompareTag("Jezik"))
         {
-            Debug.Log("GOTOV LEVEL");
+            finished = true;
+            StartCoroutine(LoadNextLevel());
         }
+    }
+
+    private IEnumerator LoadNextLevel()
+    {
+        transitionAnimator.SetTrigger("Start");
+
+        yield return new WaitForSeconds(transitionDuration);
+
+        SceneManager.LoadScene(nextSceneName);
     }
 }
