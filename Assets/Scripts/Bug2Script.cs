@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class Bug2Script : MonoBehaviour
 {
+
+    
+    [SerializeField] private AudioSource bubblePopSound;
     
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -26,6 +29,7 @@ public class Bug2Script : MonoBehaviour
             // Destroy(gameObject);
 
             gameObject.SetActive(false);
+            AudioManager.Instance.PlaySfx(AudioManager.Instance.bubblePopSound);
             UnityEngine.SceneManagement.SceneManager.LoadScene("EndScene");
         }
         else

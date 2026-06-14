@@ -32,8 +32,7 @@ public class PlayerScript : MonoBehaviour
     // 0.3 = 30% originalne velicine
     [SerializeField] private float bubblePopThreshold = 0.3f;
 
-
-    [SerializeField] private AudioClip clickSound;
+    [SerializeField] private AudioSource jumpSound;
 
     private float originalScale;
 
@@ -85,6 +84,7 @@ public class PlayerScript : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.W) && isGrounded)
             {
                 rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                AudioManager.Instance.PlaySfx(AudioManager.Instance.jumpSound);
             }
         }
 
@@ -149,11 +149,7 @@ public class PlayerScript : MonoBehaviour
 
     private void UpdateJumpSprite()
     {
-
         
-       AudioManager.Instance.PlaySfx(clickSound);
-
-     
         if (isGrounded)
         {
             spriteRenderer.sprite = idleSprite;
@@ -161,6 +157,8 @@ public class PlayerScript : MonoBehaviour
         }
 
         float verticalVelocity = rb.linearVelocity.y;
+
+
 
         if (verticalVelocity > 1f)
         {
