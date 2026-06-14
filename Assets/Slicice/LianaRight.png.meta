@@ -1,0 +1,5174 @@
+fileFormatVersion: 2
+guid: 3a0fc44882f9c694c810c242767749a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5329196193772922008
+    second: LianaRight_0
+  - first:
+      213: 6003481902510796233
+    second: LianaRight_1
+  - first:
+      213: -7880115876060406869
+    second: LianaRight_2
+  - first:
+      213: -4694207357225261737
+    second: LianaRight_3
+  - first:
+      213: -1903373284794426226
+    second: LianaRight_4
+  - first:
+      213: -483813140744783974
+    second: LianaRight_5
+  - first:
+      213: -2944195594956219390
+    second: LianaRight_6
+  - first:
+      213: 2310247443957583691
+    second: LianaRight_7
+  - first:
+      213: 3863404293254311215
+    second: LianaRight_8
+  - first:
+      213: 3662502217870382184
+    second: LianaRight_9
+  - first:
+      213: 2485786377413402050
+    second: LianaRight_10
+  - first:
+      213: -1983286473746187906
+    second: LianaRight_11
+  - first:
+      213: -6878720290682662111
+    second: LianaRight_12
+  - first:
+      213: 3778317356016949811
+    second: LianaRight_13
+  - first:
+      213: -5110601612558996359
+    second: LianaRight_14
+  - first:
+      213: -4368891161646337400
+    second: LianaRight_15
+  - first:
+      213: 2854381115011897719
+    second: LianaRight_16
+  - first:
+      213: 8533932566399614445
+    second: LianaRight_17
+  - first:
+      213: 3445755755293834518
+    second: LianaRight_18
+  - first:
+      213: -5531846336241906189
+    second: LianaRight_19
+  - first:
+      213: -814022820237927906
+    second: LianaRight_20
+  - first:
+      213: -957550613202377151
+    second: LianaRight_21
+  - first:
+      213: 4558428770712736735
+    second: LianaRight_22
+  - first:
+      213: -6370291591778162346
+    second: LianaRight_23
+  - first:
+      213: 6968692239313590584
+    second: LianaRight_24
+  - first:
+      213: 2019721906584678122
+    second: LianaRight_25
+  - first:
+      213: 3218972301304559216
+    second: LianaRight_26
+  - first:
+      213: 541932144471194737
+    second: LianaRight_27
+  - first:
+      213: 153199463875288504
+    second: LianaRight_28
+  - first:
+      213: -544547886280687956
+    second: LianaRight_29
+  - first:
+      213: 13942571026715082
+    second: LianaRight_30
+  - first:
+      213: -8924460881066378586
+    second: LianaRight_31
+  - first:
+      213: 8101014428331519546
+    second: LianaRight_32
+  - first:
+      213: -8729551853002497607
+    second: LianaRight_33
+  - first:
+      213: 4607956216499762592
+    second: LianaRight_34
+  - first:
+      213: -735832618952464140
+    second: LianaRight_35
+  - first:
+      213: -3375547969316940318
+    second: LianaRight_36
+  - first:
+      213: 9065585250381057033
+    second: LianaRight_37
+  - first:
+      213: 4110017611640411974
+    second: LianaRight_38
+  - first:
+      213: 518982928007669772
+    second: LianaRight_39
+  - first:
+      213: 7453912274380387658
+    second: LianaRight_40
+  - first:
+      213: -8334980573889435466
+    second: LianaRight_41
+  - first:
+      213: -1480892047286610687
+    second: LianaRight_42
+  - first:
+      213: 4000882711139100081
+    second: LianaRight_43
+  - first:
+      213: -3614147502351588012
+    second: LianaRight_44
+  - first:
+      213: -1252484640063958050
+    second: LianaRight_45
+  - first:
+      213: -6952031709315256843
+    second: LianaRight_46
+  - first:
+      213: -1253758575723911239
+    second: LianaRight_47
+  - first:
+      213: 3983071689657827318
+    second: LianaRight_48
+  - first:
+      213: 7518514244346613198
+    second: LianaRight_49
+  - first:
+      213: -213893301957335866
+    second: LianaRight_50
+  - first:
+      213: -1909041813881083355
+    second: LianaRight_51
+  - first:
+      213: 8898520072668825401
+    second: LianaRight_52
+  - first:
+      213: 7838910058669310728
+    second: LianaRight_53
+  - first:
+      213: 7620837725110267017
+    second: LianaRight_54
+  - first:
+      213: 1915273389838032002
+    second: LianaRight_55
+  - first:
+      213: -2631871095364645286
+    second: LianaRight_56
+  - first:
+      213: -7260975954714469419
+    second: LianaRight_57
+  - first:
+      213: 4333340589940280794
+    second: LianaRight_58
+  - first:
+      213: -9106492030689050194
+    second: LianaRight_59
+  - first:
+      213: -3013962733759079629
+    second: LianaRight_60
+  - first:
+      213: -5256861547951344703
+    second: LianaRight_61
+  - first:
+      213: -1602135378842374666
+    second: LianaRight_62
+  - first:
+      213: -2168600652020242464
+    second: LianaRight_63
+  - first:
+      213: -550094554188305479
+    second: LianaRight_64
+  - first:
+      213: -293968305554339611
+    second: LianaRight_65
+  - first:
+      213: 8657694930175421716
+    second: LianaRight_66
+  - first:
+      213: -8089803002801392142
+    second: LianaRight_67
+  - first:
+      213: -3072033435868826001
+    second: LianaRight_68
+  - first:
+      213: -864881555422866954
+    second: LianaRight_69
+  - first:
+      213: -7301432854089425830
+    second: LianaRight_70
+  - first:
+      213: 5552574346506264709
+    second: LianaRight_71
+  - first:
+      213: -3569159427310929728
+    second: LianaRight_72
+  - first:
+      213: 7989865563433370684
+    second: LianaRight_73
+  - first:
+      213: 1120009326523869830
+    second: LianaRight_74
+  - first:
+      213: 7959109041982437416
+    second: LianaRight_75
+  - first:
+      213: -4160587050235756192
+    second: LianaRight_76
+  - first:
+      213: -3191231781573348028
+    second: LianaRight_77
+  - first:
+      213: 8011793803962199148
+    second: LianaRight_78
+  - first:
+      213: 1757802312249436084
+    second: LianaRight_79
+  - first:
+      213: 8799592461907611366
+    second: LianaRight_80
+  - first:
+      213: 1482860798969473963
+    second: LianaRight_81
+  - first:
+      213: -5019790794921613383
+    second: LianaRight_82
+  - first:
+      213: -3686012750378612877
+    second: LianaRight_83
+  - first:
+      213: 2622175393677489185
+    second: LianaRight_84
+  - first:
+      213: -6141359603585176759
+    second: LianaRight_85
+  - first:
+      213: -7250615450312379127
+    second: LianaRight_86
+  - first:
+      213: 7970601210039051935
+    second: LianaRight_87
+  - first:
+      213: 7233624338010031026
+    second: LianaRight_88
+  - first:
+      213: 7514887032349302885
+    second: LianaRight_89
+  - first:
+      213: -27025368134740463
+    second: LianaRight_90
+  - first:
+      213: -5859955736496258194
+    second: LianaRight_91
+  - first:
+      213: -7400748810431610044
+    second: LianaRight_92
+  - first:
+      213: 2433851789198564928
+    second: LianaRight_93
+  - first:
+      213: 2346260110394844047
+    second: LianaRight_94
+  - first:
+      213: -790410511913284469
+    second: LianaRight_95
+  - first:
+      213: -93687346496892595
+    second: LianaRight_96
+  - first:
+      213: -7362014787953462991
+    second: LianaRight_97
+  - first:
+      213: -6310217082760666313
+    second: LianaRight_98
+  - first:
+      213: -4734218481655256211
+    second: LianaRight_99
+  - first:
+      213: -1813088662591659886
+    second: LianaRight_100
+  - first:
+      213: 6339005340877415936
+    second: LianaRight_101
+  - first:
+      213: -1232620905054302252
+    second: LianaRight_102
+  - first:
+      213: 1579258467302098812
+    second: LianaRight_103
+  - first:
+      213: 804104295700359765
+    second: LianaRight_104
+  - first:
+      213: -1514514302993098370
+    second: LianaRight_105
+  - first:
+      213: 7994268471313866451
+    second: LianaRight_106
+  - first:
+      213: -3541626993278518840
+    second: LianaRight_107
+  - first:
+      213: -4323429863234116210
+    second: LianaRight_108
+  - first:
+      213: -1154353747976994649
+    second: LianaRight_109
+  - first:
+      213: 5805268575776758615
+    second: LianaRight_110
+  - first:
+      213: 3323759632617095970
+    second: LianaRight_111
+  - first:
+      213: -3388704246385932469
+    second: LianaRight_112
+  - first:
+      213: 7011544421925660907
+    second: LianaRight_113
+  - first:
+      213: -7677858384981861074
+    second: LianaRight_114
+  - first:
+      213: 7505550936015837991
+    second: LianaRight_115
+  - first:
+      213: -1477236647456071675
+    second: LianaRight_116
+  - first:
+      213: 3766963404841542559
+    second: LianaRight_117
+  - first:
+      213: 4217390205712582546
+    second: LianaRight_118
+  - first:
+      213: 6959142335017285017
+    second: LianaRight_119
+  - first:
+      213: 3990002269226090201
+    second: LianaRight_120
+  - first:
+      213: 8850504108974415368
+    second: LianaRight_121
+  - first:
+      213: -7918555205375821621
+    second: LianaRight_122
+  - first:
+      213: 8380664019377352220
+    second: LianaRight_123
+  - first:
+      213: -2097563936410302819
+    second: LianaRight_124
+  - first:
+      213: 5835613450631846572
+    second: LianaRight_125
+  - first:
+      213: 381472701972863691
+    second: LianaRight_126
+  - first:
+      213: -4116224184945109999
+    second: LianaRight_127
+  - first:
+      213: 4346697680099494092
+    second: LianaRight_128
+  - first:
+      213: 1498089530272385210
+    second: LianaRight_129
+  - first:
+      213: -5770931320651036474
+    second: LianaRight_130
+  - first:
+      213: 3451192379298258039
+    second: LianaRight_131
+  - first:
+      213: -8733283106806270605
+    second: LianaRight_132
+  - first:
+      213: -2710171061966741682
+    second: LianaRight_133
+  - first:
+      213: -9104234188797279359
+    second: LianaRight_134
+  - first:
+      213: -1693000402867813209
+    second: LianaRight_135
+  - first:
+      213: 4274527419836773769
+    second: LianaRight_136
+  - first:
+      213: 6130089803798634377
+    second: LianaRight_137
+  - first:
+      213: -1473734274523456750
+    second: LianaRight_138
+  - first:
+      213: 672434248343625748
+    second: LianaRight_139
+  - first:
+      213: -7075379569627620508
+    second: LianaRight_140
+  - first:
+      213: -3681221520365334759
+    second: LianaRight_141
+  - first:
+      213: -1322778061439550246
+    second: LianaRight_142
+  - first:
+      213: -3909602921781760859
+    second: LianaRight_143
+  - first:
+      213: -7077580356632467055
+    second: LianaRight_144
+  - first:
+      213: -840792182973650656
+    second: LianaRight_145
+  - first:
+      213: -7830405366941838112
+    second: LianaRight_146
+  - first:
+      213: 3515863944417032325
+    second: LianaRight_147
+  - first:
+      213: -227928221202709785
+    second: LianaRight_148
+  - first:
+      213: 8122567476109388684
+    second: LianaRight_149
+  - first:
+      213: 923692503531992959
+    second: LianaRight_150
+  - first:
+      213: 658848331449036880
+    second: LianaRight_151
+  - first:
+      213: -2347632471850690635
+    second: LianaRight_152
+  - first:
+      213: 2612369830733503544
+    second: LianaRight_153
+  - first:
+      213: 4825166192246945233
+    second: LianaRight_154
+  - first:
+      213: 6373140772072395029
+    second: LianaRight_155
+  - first:
+      213: -7142960424112186612
+    second: LianaRight_156
+  - first:
+      213: -3446170283876378637
+    second: LianaRight_157
+  - first:
+      213: 8666970383131210540
+    second: LianaRight_158
+  - first:
+      213: -8868111401665520600
+    second: LianaRight_159
+  - first:
+      213: 4318452143270789282
+    second: LianaRight_160
+  - first:
+      213: -8559564603022652382
+    second: LianaRight_161
+  - first:
+      213: -6449336015634144131
+    second: LianaRight_162
+  - first:
+      213: -1789713818918992282
+    second: LianaRight_163
+  - first:
+      213: 4298599130023217372
+    second: LianaRight_164
+  - first:
+      213: -151861917724616109
+    second: LianaRight_165
+  - first:
+      213: 1356109967995821752
+    second: LianaRight_166
+  - first:
+      213: -8302872397259089699
+    second: LianaRight_167
+  - first:
+      213: 2753832969832562891
+    second: LianaRight_168
+  - first:
+      213: -3352130008552837940
+    second: LianaRight_169
+  - first:
+      213: -5888506864721908805
+    second: LianaRight_170
+  - first:
+      213: 2967145394037894639
+    second: LianaRight_171
+  - first:
+      213: -76977365644282444
+    second: LianaRight_172
+  - first:
+      213: 1921137699359377315
+    second: LianaRight_173
+  - first:
+      213: -4647776183811506485
+    second: LianaRight_174
+  - first:
+      213: 5465237893672439219
+    second: LianaRight_175
+  - first:
+      213: 7335664138706062165
+    second: LianaRight_176
+  - first:
+      213: 6989592811455515378
+    second: LianaRight_177
+  - first:
+      213: -6438485128802018313
+    second: LianaRight_178
+  - first:
+      213: -8685111287605693736
+    second: LianaRight_179
+  - first:
+      213: -6659701373161116911
+    second: LianaRight_180
+  - first:
+      213: -3555258596961904746
+    second: LianaRight_181
+  - first:
+      213: 7743859019965904681
+    second: LianaRight_182
+  - first:
+      213: -6585378463120601889
+    second: LianaRight_183
+  - first:
+      213: -7772239073129243313
+    second: LianaRight_184
+  - first:
+      213: 5596953601892373148
+    second: LianaRight_185
+  - first:
+      213: 8756682595910940419
+    second: LianaRight_186
+  - first:
+      213: 6627582309758736117
+    second: LianaRight_187
+  - first:
+      213: -1002502180191118211
+    second: LianaRight_188
+  - first:
+      213: 4394536350105600061
+    second: LianaRight_189
+  - first:
+      213: 5384153792725792598
+    second: LianaRight_190
+  - first:
+      213: 791116636417979941
+    second: LianaRight_191
+  - first:
+      213: 1402056560930934585
+    second: LianaRight_192
+  - first:
+      213: 5076719527342657325
+    second: LianaRight_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LianaRight_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 723
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1dcb0c44ea06b0800000000000000
+      internalID: -5329196193772922008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 792
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd64a68bf6a05350800000000000000
+      internalID: 6003481902510796233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 807
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babd0828c5434a290800000000000000
+      internalID: -7880115876060406869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 824
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75520929743dadeb0800000000000000
+      internalID: -4694207357225261737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 823
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c1cdcf41cd595e0800000000000000
+      internalID: -1903373284794426226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 800
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97bd3803862949f0800000000000000
+      internalID: -483813140744783974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 824
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c5d5594bd1427d0800000000000000
+      internalID: -2944195594956219390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 822
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f88506fc5af0020800000000000000
+      internalID: 2310247443957583691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 805
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d642b4cb19d9530800000000000000
+      internalID: 3863404293254311215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 810
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649e35cc52d3d230800000000000000
+      internalID: 3662502217870382184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_10
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 827
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1b3d3a894f7220800000000000000
+      internalID: 2485786377413402050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_11
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 818
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e797584c573f974e0800000000000000
+      internalID: -1983286473746187906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 801
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12396943750e980a0800000000000000
+      internalID: -6878720290682662111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_13
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 818
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a551eed974f6430800000000000000
+      internalID: 3778317356016949811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_14
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 818
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce1e619ee7319b0800000000000000
+      internalID: -5110601612558996359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_15
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 824
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882f9b7c2a49e53c0800000000000000
+      internalID: -4368891161646337400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 803
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7791edd308ccc9720800000000000000
+      internalID: 2854381115011897719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_17
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 827
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf265547e9e6670800000000000000
+      internalID: 8533932566399614445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 818
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dfb016a98c1df20800000000000000
+      internalID: 3445755755293834518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_19
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 810
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4140f01fea33b0800000000000000
+      internalID: -5531846336241906189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_20
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 485
+        width: 160
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a18a0de8204b4f0800000000000000
+      internalID: -814022820237927906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_21
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 828
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1466d956ac816b2f0800000000000000
+      internalID: -957550613202377151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_22
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 823
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d04cb0dac24f30800000000000000
+      internalID: 4558428770712736735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 808
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659a76c6c8d2897a0800000000000000
+      internalID: -6370291591778162346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_24
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 813
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839de418ba4c5b060800000000000000
+      internalID: 6968692239313590584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_25
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 794
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeed038f5e770c10800000000000000
+      internalID: 2019721906584678122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 811
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0767411d0461cac20800000000000000
+      internalID: 3218972301304559216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 810
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c32930a64558700800000000000000
+      internalID: 541932144471194737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 814
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1118c916402200800000000000000
+      internalID: 153199463875288504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_29
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 813
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caebc0325906178f0800000000000000
+      internalID: -544547886280687956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_30
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 799
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac19d49c1b8813000800000000000000
+      internalID: 13942571026715082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 798
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa3b2ccc12f52480800000000000000
+      internalID: -8924460881066378586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_32
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 802
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea30993b59c6070800000000000000
+      internalID: 8101014428331519546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_33
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 814
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ee6147d66ad680800000000000000
+      internalID: -8729551853002497607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_34
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57501d3cfb2ff30800000000000000
+      internalID: 4607956216499762592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_35
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 798
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f86135b12cc9c5f0800000000000000
+      internalID: -735832618952464140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_36
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 814
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5929e9105a721d0800000000000000
+      internalID: -3375547969316940318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_37
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 811
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccbf1f0cd6fcd70800000000000000
+      internalID: 9065585250381057033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_38
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 804
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6471d62fd37b90930800000000000000
+      internalID: 4110017611640411974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_39
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 793
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a36c293cc33700800000000000000
+      internalID: 518982928007669772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 814
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fd5598bd917760800000000000000
+      internalID: 7453912274380387658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 797
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8e9832453345c80800000000000000
+      internalID: -8334980573889435466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 790
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d7c27780d27be0800000000000000
+      internalID: -1480892047286610687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 799
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a271d0adf58730800000000000000
+      internalID: 4000882711139100081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_44
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 796
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e774cef7f7ddc0800000000000000
+      internalID: -3614147502351588012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_45
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 801
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3da561bd74e9ee0800000000000000
+      internalID: -1252484640063958050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_46
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 798
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd230b6efb658f90800000000000000
+      internalID: -6952031709315256843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 705
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b760e3d731c99ee0800000000000000
+      internalID: -1253758575723911239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_48
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 775
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff38f83996b64730800000000000000
+      internalID: 3983071689657827318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_49
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 689
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd8ef4ded0275860800000000000000
+      internalID: 7518514244346613198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_50
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 804
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46ff4dc29180df0800000000000000
+      internalID: -213893301957335866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_51
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 788
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a2046b598b185e0800000000000000
+      internalID: -1909041813881083355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_52
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 781
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937cb161cd4ed7b70800000000000000
+      internalID: 8898520072668825401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_53
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 804
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80388318a2769cc60800000000000000
+      internalID: 7838910058669310728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_54
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 803
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce718b887a2c960800000000000000
+      internalID: 7620837725110267017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 793
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cdd01200b649a10800000000000000
+      internalID: 1915273389838032002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_56
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 796
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0c2ade27b97bd0800000000000000
+      internalID: -2631871095364645286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 782
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db5798e6d4db3b90800000000000000
+      internalID: -7260975954714469419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 764
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add0c2abe4e132c30800000000000000
+      internalID: 4333340589940280794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_59
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 791
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea18ad01fbd3f9180800000000000000
+      internalID: -9106492030689050194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_60
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 785
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b5600ccd04c26d0800000000000000
+      internalID: -3013962733759079629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_61
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 795
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c333f03640eb07b0800000000000000
+      internalID: -5256861547951344703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_62
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 769
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda3068c5214c9e0800000000000000
+      internalID: -1602135378842374666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_63
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 764
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e727ac523597e1e0800000000000000
+      internalID: -2168600652020242464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 768
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbaab0eaebad58f0800000000000000
+      internalID: -550094554188305479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_65
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 771
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c534326d9bebf0800000000000000
+      internalID: -293968305554339611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_66
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 769
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d6ec62baf462870800000000000000
+      internalID: 8657694930175421716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_67
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 779
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f57223d70f3bbf80800000000000000
+      internalID: -8089803002801392142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_68
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 759
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667aeccdd1fd55d0800000000000000
+      internalID: -3072033435868826001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_69
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 769
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19b34cec25ff3f0800000000000000
+      internalID: -864881555422866954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_70
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 722
+        width: 19
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c12acf0891caa90800000000000000
+      internalID: -7301432854089425830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_71
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 777
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e37803f4be0d40800000000000000
+      internalID: 5552574346506264709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_72
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 781
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8356c396cc77ec0800000000000000
+      internalID: -3569159427310929728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_73
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 774
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348297d564b1ee60800000000000000
+      internalID: 7989865563433370684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 747
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a64946c821b8f00800000000000000
+      internalID: 1120009326523869830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_75
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 757
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82876f7218f647e60800000000000000
+      internalID: 7959109041982437416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_76
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 759
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618b9d1f10a246c0800000000000000
+      internalID: -4160587050235756192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_77
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 756
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445326f3a9776b3d0800000000000000
+      internalID: -3191231781573348028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_78
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ca7d2340c9f2f60800000000000000
+      internalID: 8011793803962199148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_79
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 757
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7ecf6c3e7f46810800000000000000
+      internalID: 1757802312249436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_80
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 765
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee453cc8be6e1a70800000000000000
+      internalID: 8799592461907611366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_81
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 752
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6de54a0e249410800000000000000
+      internalID: 1482860798969473963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 733
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7ebe53ede165ab0800000000000000
+      internalID: -5019790794921613383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_83
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 705
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3774f10dee6a8dcc0800000000000000
+      internalID: -3686012750378612877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_84
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 748
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124baeea0a6d36420800000000000000
+      internalID: 2622175393677489185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_85
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 741
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2f569af185caa0800000000000000
+      internalID: -6141359603585176759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_86
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 751
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905fb21d9a3a06b90800000000000000
+      internalID: -7250615450312379127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_87
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 751
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962daa02934d9e60800000000000000
+      internalID: 7970601210039051935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_88
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 731
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b345b1920ff26460800000000000000
+      internalID: 7233624338010031026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_89
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 740
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ae5ab0fd3a4860800000000000000
+      internalID: 7514887032349302885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 721
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1169764229cff9ff0800000000000000
+      internalID: -27025368134740463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_91
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 740
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c0a61e414daea0800000000000000
+      internalID: -5859955736496258194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_92
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4434452fa224b4990800000000000000
+      internalID: -7400748810431610044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_93
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 733
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1123ae47c6c120800000000000000
+      internalID: 2433851789198564928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_94
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 725
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e0cea3279f8020800000000000000
+      internalID: 2346260110394844047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_95
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 710
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c8ca2c3d5e705f0800000000000000
+      internalID: -790410511913284469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_96
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 722
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d419a10dad723bef0800000000000000
+      internalID: -93687346496892595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_97
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 694
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1317cd45e8ed4d990800000000000000
+      internalID: -7362014787953462991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 702
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e2760ffa9d68a0800000000000000
+      internalID: -6310217082760666313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_99
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 715
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b69d7bf5dac4eb0800000000000000
+      internalID: -4734218481655256211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_100
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290afefa77d96d6e0800000000000000
+      internalID: -1813088662591659886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_101
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 710
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066d44a5cba8f750800000000000000
+      internalID: 6339005340877415936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_102
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 712
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df848b41d9d4eee0800000000000000
+      internalID: -1232620905054302252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_103
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 700
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c1107537aae510800000000000000
+      internalID: 1579258467302098812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_104
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 719
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae59bb890c82b00800000000000000
+      internalID: 804104295700359765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 698
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7919d2044d5bfae0800000000000000
+      internalID: -1514514302993098370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 704
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de94c7b1d851fe60800000000000000
+      internalID: 7994268471313866451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_107
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 605
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f2b2930d99dec0800000000000000
+      internalID: -3541626993278518840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_108
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 684
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856d9622771004c0800000000000000
+      internalID: -4323429863234116210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_109
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 684
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0c0bad169eaffe0800000000000000
+      internalID: -1154353747976994649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_110
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 671
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b59e41305709050800000000000000
+      internalID: 5805268575776758615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_111
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 699
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ccec96cd502e20800000000000000
+      internalID: 3323759632617095970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 641
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b470f492177e8f0d0800000000000000
+      internalID: -3388704246385932469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_113
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 684
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be820c3c0820e4160800000000000000
+      internalID: 7011544421925660907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_114
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 681
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd6675a74c27590800000000000000
+      internalID: -7677858384981861074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 672
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b13d86fc2192860800000000000000
+      internalID: 7505550936015837991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_116
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 688
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500213b881dcf7be0800000000000000
+      internalID: -1477236647456071675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_117
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 681
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e97b2241f64430800000000000000
+      internalID: 3766963404841542559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_118
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 595
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c5b22c0e278a30800000000000000
+      internalID: 4217390205712582546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_119
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 670
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99576142517d39060800000000000000
+      internalID: 6959142335017285017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_120
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 644
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de39368ce55f5730800000000000000
+      internalID: 3990002269226090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_121
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 676
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e1e8a589e43da70800000000000000
+      internalID: 8850504108974415368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_122
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 674
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8f049bef3ab1290800000000000000
+      internalID: -7918555205375821621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_123
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 646
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e62e0e5891e4470800000000000000
+      internalID: 8380664019377352220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_124
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 640
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96089496b4f3e2e0800000000000000
+      internalID: -2097563936410302819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 632
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1763d3834cf050800000000000000
+      internalID: 5835613450631846572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_126
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 641
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad99cb6634b4500800000000000000
+      internalID: 381472701972863691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_127
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 602
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114997899eb30e6c0800000000000000
+      internalID: -4116224184945109999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 608
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc84850a282925c30800000000000000
+      internalID: 4346697680099494092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_129
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 605
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab80e959d784ac410800000000000000
+      internalID: 1498089530272385210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_130
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 605
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c84b612a8889efa0800000000000000
+      internalID: -5770931320651036474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_131
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 609
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c9b9b0f2915ef20800000000000000
+      internalID: 3451192379298258039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_132
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 623
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37574e709452dc680800000000000000
+      internalID: -8733283106806270605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_133
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 580
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fddea37c9836ad0800000000000000
+      internalID: -2710171061966741682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18385c8dd3347a180800000000000000
+      internalID: -9104234188797279359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_135
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 569
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4887e7a114188e0800000000000000
+      internalID: -1693000402867813209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_136
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 574
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b90a7a0c225b30800000000000000
+      internalID: 4274527419836773769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_137
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 574
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f59aca234721550800000000000000
+      internalID: 6130089803798634377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_138
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 590
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b16b94c7e3c8be0800000000000000
+      internalID: -1473734274523456750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_139
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410245bd267f45900800000000000000
+      internalID: 672434248343625748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 577
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1a45b4c33fcd90800000000000000
+      internalID: -7075379569627620508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_141
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 568
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc91bf78ca9ecc0800000000000000
+      internalID: -3681221520365334759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_142
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 579
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc373b8c5c84ade0800000000000000
+      internalID: -1322778061439550246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_143
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 554
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac6e5a4bdc4eb9c0800000000000000
+      internalID: -3909602921781760859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_144
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 575
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a3ad0a2267cd90800000000000000
+      internalID: -7077580356632467055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_145
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 569
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0292eebd6f7e454f0800000000000000
+      internalID: -840792182973650656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 509
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49e185ecfc45390800000000000000
+      internalID: -7830405366941838112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 556
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b49d21abdac030800000000000000
+      internalID: 3515863944417032325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_148
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 546
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20dec8d7c36dcf0800000000000000
+      internalID: -227928221202709785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_149
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 558
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b24a5951829b070800000000000000
+      internalID: 8122567476109388684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_150
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 551
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7737b2207d91dc00800000000000000
+      internalID: 923692503531992959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_151
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 557
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050f0e41113b42900800000000000000
+      internalID: 658848331449036880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_152
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 544
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7da2484b88b6fd0800000000000000
+      internalID: -2347632471850690635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_153
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 544
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c51d62580014420800000000000000
+      internalID: 2612369830733503544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_154
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 543
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57a17461f66f240800000000000000
+      internalID: 4825166192246945233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_155
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 534
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5111fee04c1f17850800000000000000
+      internalID: 6373140772072395029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_156
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 504
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b9e1cd65b1fdc90800000000000000
+      internalID: -7142960424112186612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_157
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 510
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f79a0aa26ebc20d0800000000000000
+      internalID: -3446170283876378637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_158
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 524
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23fd55d4a3474870800000000000000
+      internalID: 8666970383131210540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_159
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 527
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c922b5aa32ee480800000000000000
+      internalID: -8868111401665520600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a00e2b18593eeb30800000000000000
+      internalID: 4318452143270789282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_161
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 508
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc3d41851563980800000000000000
+      internalID: -8559564603022652382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746ef6501b5f76a0800000000000000
+      internalID: -6449336015634144131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_163
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 516
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c9b593c8a927e0800000000000000
+      internalID: -1789713818918992282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_164
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 505
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd846d04221b7ab30800000000000000
+      internalID: 4298599130023217372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_165
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 508
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5d13f36a74edf0800000000000000
+      internalID: -151861917724616109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_166
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 520
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed1c6b4ded1d210800000000000000
+      internalID: 1356109967995821752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_167
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 518
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d9f19b8546cc80800000000000000
+      internalID: -8302872397259089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_168
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 516
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc001a1ee74973620800000000000000
+      internalID: 2753832969832562891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce74f7487da71d0800000000000000
+      internalID: -3352130008552837940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 499
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2dc68432d74ea0800000000000000
+      internalID: -5888506864721908805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_171
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 500
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda098e30b6d2920800000000000000
+      internalID: 2967145394037894639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_172
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 486
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f6096e758eeef0800000000000000
+      internalID: -76977365644282444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_173
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 432
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74de61f8049aa10800000000000000
+      internalID: 1921137699359377315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_174
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 496
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef4609f28cf7fb0800000000000000
+      internalID: -4647776183811506485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_175
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd895188ec68db40800000000000000
+      internalID: 5465237893672439219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_176
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 406
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b852b0ba38dc560800000000000000
+      internalID: 7335664138706062165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_177
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 484
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0e6b21a5000160800000000000000
+      internalID: 6989592811455515378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 461
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbde1e43e7e5a6a0800000000000000
+      internalID: -6438485128802018313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_179
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 481
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f683bc49487780800000000000000
+      internalID: -8685111287605693736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_180
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 467
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bec8eb2ecf393a0800000000000000
+      internalID: -6659701373161116911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_181
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 452
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979e63842f29aec0800000000000000
+      internalID: -3555258596961904746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_182
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 443
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b5cbffb6b77b60800000000000000
+      internalID: 7743859019965904681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc403abd290c94a0800000000000000
+      internalID: -6585378463120601889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_184
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 426
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d58b8fdb5732490800000000000000
+      internalID: -7772239073129243313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 430
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925321a5af5cad40800000000000000
+      internalID: 5596953601892373148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_186
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307fd141d6cf58970800000000000000
+      internalID: 8756682595910940419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_187
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 357
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f615dc0ff6e9fb50800000000000000
+      internalID: 6627582309758736117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_188
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 347
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c572f14956612f0800000000000000
+      internalID: -1002502180191118211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_189
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 368
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300694f6878cfc30800000000000000
+      internalID: 4394536350105600061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_190
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 356
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573e77195b58ba40800000000000000
+      internalID: 5384153792725792598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_191
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 318
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267899a36c9afa00800000000000000
+      internalID: 791116636417979941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_192
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 300
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4b45830b157310800000000000000
+      internalID: 1402056560930934585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaRight_193
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f4c833381247640800000000000000
+      internalID: 5076719527342657325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LianaRight_0: -5329196193772922008
+      LianaRight_1: 6003481902510796233
+      LianaRight_10: 2485786377413402050
+      LianaRight_100: -1813088662591659886
+      LianaRight_101: 6339005340877415936
+      LianaRight_102: -1232620905054302252
+      LianaRight_103: 1579258467302098812
+      LianaRight_104: 804104295700359765
+      LianaRight_105: -1514514302993098370
+      LianaRight_106: 7994268471313866451
+      LianaRight_107: -3541626993278518840
+      LianaRight_108: -4323429863234116210
+      LianaRight_109: -1154353747976994649
+      LianaRight_11: -1983286473746187906
+      LianaRight_110: 5805268575776758615
+      LianaRight_111: 3323759632617095970
+      LianaRight_112: -3388704246385932469
+      LianaRight_113: 7011544421925660907
+      LianaRight_114: -7677858384981861074
+      LianaRight_115: 7505550936015837991
+      LianaRight_116: -1477236647456071675
+      LianaRight_117: 3766963404841542559
+      LianaRight_118: 4217390205712582546
+      LianaRight_119: 6959142335017285017
+      LianaRight_12: -6878720290682662111
+      LianaRight_120: 3990002269226090201
+      LianaRight_121: 8850504108974415368
+      LianaRight_122: -7918555205375821621
+      LianaRight_123: 8380664019377352220
+      LianaRight_124: -2097563936410302819
+      LianaRight_125: 5835613450631846572
+      LianaRight_126: 381472701972863691
+      LianaRight_127: -4116224184945109999
+      LianaRight_128: 4346697680099494092
+      LianaRight_129: 1498089530272385210
+      LianaRight_13: 3778317356016949811
+      LianaRight_130: -5770931320651036474
+      LianaRight_131: 3451192379298258039
+      LianaRight_132: -8733283106806270605
+      LianaRight_133: -2710171061966741682
+      LianaRight_134: -9104234188797279359
+      LianaRight_135: -1693000402867813209
+      LianaRight_136: 4274527419836773769
+      LianaRight_137: 6130089803798634377
+      LianaRight_138: -1473734274523456750
+      LianaRight_139: 672434248343625748
+      LianaRight_14: -5110601612558996359
+      LianaRight_140: -7075379569627620508
+      LianaRight_141: -3681221520365334759
+      LianaRight_142: -1322778061439550246
+      LianaRight_143: -3909602921781760859
+      LianaRight_144: -7077580356632467055
+      LianaRight_145: -840792182973650656
+      LianaRight_146: -7830405366941838112
+      LianaRight_147: 3515863944417032325
+      LianaRight_148: -227928221202709785
+      LianaRight_149: 8122567476109388684
+      LianaRight_15: -4368891161646337400
+      LianaRight_150: 923692503531992959
+      LianaRight_151: 658848331449036880
+      LianaRight_152: -2347632471850690635
+      LianaRight_153: 2612369830733503544
+      LianaRight_154: 4825166192246945233
+      LianaRight_155: 6373140772072395029
+      LianaRight_156: -7142960424112186612
+      LianaRight_157: -3446170283876378637
+      LianaRight_158: 8666970383131210540
+      LianaRight_159: -8868111401665520600
+      LianaRight_16: 2854381115011897719
+      LianaRight_160: 4318452143270789282
+      LianaRight_161: -8559564603022652382
+      LianaRight_162: -6449336015634144131
+      LianaRight_163: -1789713818918992282
+      LianaRight_164: 4298599130023217372
+      LianaRight_165: -151861917724616109
+      LianaRight_166: 1356109967995821752
+      LianaRight_167: -8302872397259089699
+      LianaRight_168: 2753832969832562891
+      LianaRight_169: -3352130008552837940
+      LianaRight_17: 8533932566399614445
+      LianaRight_170: -5888506864721908805
+      LianaRight_171: 2967145394037894639
+      LianaRight_172: -76977365644282444
+      LianaRight_173: 1921137699359377315
+      LianaRight_174: -4647776183811506485
+      LianaRight_175: 5465237893672439219
+      LianaRight_176: 7335664138706062165
+      LianaRight_177: 6989592811455515378
+      LianaRight_178: -6438485128802018313
+      LianaRight_179: -8685111287605693736
+      LianaRight_18: 3445755755293834518
+      LianaRight_180: -6659701373161116911
+      LianaRight_181: -3555258596961904746
+      LianaRight_182: 7743859019965904681
+      LianaRight_183: -6585378463120601889
+      LianaRight_184: -7772239073129243313
+      LianaRight_185: 5596953601892373148
+      LianaRight_186: 8756682595910940419
+      LianaRight_187: 6627582309758736117
+      LianaRight_188: -1002502180191118211
+      LianaRight_189: 4394536350105600061
+      LianaRight_19: -5531846336241906189
+      LianaRight_190: 5384153792725792598
+      LianaRight_191: 791116636417979941
+      LianaRight_192: 1402056560930934585
+      LianaRight_193: 5076719527342657325
+      LianaRight_2: -7880115876060406869
+      LianaRight_20: -814022820237927906
+      LianaRight_21: -957550613202377151
+      LianaRight_22: 4558428770712736735
+      LianaRight_23: -6370291591778162346
+      LianaRight_24: 6968692239313590584
+      LianaRight_25: 2019721906584678122
+      LianaRight_26: 3218972301304559216
+      LianaRight_27: 541932144471194737
+      LianaRight_28: 153199463875288504
+      LianaRight_29: -544547886280687956
+      LianaRight_3: -4694207357225261737
+      LianaRight_30: 13942571026715082
+      LianaRight_31: -8924460881066378586
+      LianaRight_32: 8101014428331519546
+      LianaRight_33: -8729551853002497607
+      LianaRight_34: 4607956216499762592
+      LianaRight_35: -735832618952464140
+      LianaRight_36: -3375547969316940318
+      LianaRight_37: 9065585250381057033
+      LianaRight_38: 4110017611640411974
+      LianaRight_39: 518982928007669772
+      LianaRight_4: -1903373284794426226
+      LianaRight_40: 7453912274380387658
+      LianaRight_41: -8334980573889435466
+      LianaRight_42: -1480892047286610687
+      LianaRight_43: 4000882711139100081
+      LianaRight_44: -3614147502351588012
+      LianaRight_45: -1252484640063958050
+      LianaRight_46: -6952031709315256843
+      LianaRight_47: -1253758575723911239
+      LianaRight_48: 3983071689657827318
+      LianaRight_49: 7518514244346613198
+      LianaRight_5: -483813140744783974
+      LianaRight_50: -213893301957335866
+      LianaRight_51: -1909041813881083355
+      LianaRight_52: 8898520072668825401
+      LianaRight_53: 7838910058669310728
+      LianaRight_54: 7620837725110267017
+      LianaRight_55: 1915273389838032002
+      LianaRight_56: -2631871095364645286
+      LianaRight_57: -7260975954714469419
+      LianaRight_58: 4333340589940280794
+      LianaRight_59: -9106492030689050194
+      LianaRight_6: -2944195594956219390
+      LianaRight_60: -3013962733759079629
+      LianaRight_61: -5256861547951344703
+      LianaRight_62: -1602135378842374666
+      LianaRight_63: -2168600652020242464
+      LianaRight_64: -550094554188305479
+      LianaRight_65: -293968305554339611
+      LianaRight_66: 8657694930175421716
+      LianaRight_67: -8089803002801392142
+      LianaRight_68: -3072033435868826001
+      LianaRight_69: -864881555422866954
+      LianaRight_7: 2310247443957583691
+      LianaRight_70: -7301432854089425830
+      LianaRight_71: 5552574346506264709
+      LianaRight_72: -3569159427310929728
+      LianaRight_73: 7989865563433370684
+      LianaRight_74: 1120009326523869830
+      LianaRight_75: 7959109041982437416
+      LianaRight_76: -4160587050235756192
+      LianaRight_77: -3191231781573348028
+      LianaRight_78: 8011793803962199148
+      LianaRight_79: 1757802312249436084
+      LianaRight_8: 3863404293254311215
+      LianaRight_80: 8799592461907611366
+      LianaRight_81: 1482860798969473963
+      LianaRight_82: -5019790794921613383
+      LianaRight_83: -3686012750378612877
+      LianaRight_84: 2622175393677489185
+      LianaRight_85: -6141359603585176759
+      LianaRight_86: -7250615450312379127
+      LianaRight_87: 7970601210039051935
+      LianaRight_88: 7233624338010031026
+      LianaRight_89: 7514887032349302885
+      LianaRight_9: 3662502217870382184
+      LianaRight_90: -27025368134740463
+      LianaRight_91: -5859955736496258194
+      LianaRight_92: -7400748810431610044
+      LianaRight_93: 2433851789198564928
+      LianaRight_94: 2346260110394844047
+      LianaRight_95: -790410511913284469
+      LianaRight_96: -93687346496892595
+      LianaRight_97: -7362014787953462991
+      LianaRight_98: -6310217082760666313
+      LianaRight_99: -4734218481655256211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
