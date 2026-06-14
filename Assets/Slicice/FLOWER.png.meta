@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 33545bae233da1f479134219408ffdc0
+guid: c27149ae6ae0e68409293d9760925ff6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1269061557814170584
-    second: BG0_0
+      213: 4025446551185488718
+    second: FLOWER_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG0_0
+      name: FLOWER_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 140
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d31e9753cc9c9110800000000000000
-      internalID: 1269061557814170584
+      spriteID: e4b7bb18f424dd730800000000000000
+      internalID: 4025446551185488718
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BG0_0: 1269061557814170584
+      FLOWER_0: 4025446551185488718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
