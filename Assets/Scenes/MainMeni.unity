@@ -1405,7 +1405,7 @@ Transform:
   m_GameObject: {fileID: 543970984}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.74, y: -3.19, z: 0}
+  m_LocalPosition: {x: 8.15, y: -3.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2846,7 +2846,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5289312227607400582, guid: 88ae619325d59c84d955a5dd4871f900, type: 3}
       propertyPath: m_Name
-      value: Voda
+      value: Wather
       objectReference: {fileID: 0}
     - target: {fileID: 5289312227607400582, guid: 88ae619325d59c84d955a5dd4871f900, type: 3}
       propertyPath: m_TagString
@@ -3096,7 +3096,6 @@ GameObject:
   - component: {fileID: 891385949}
   - component: {fileID: 891385948}
   - component: {fileID: 891385947}
-  - component: {fileID: 891385952}
   - component: {fileID: 891385951}
   m_Layer: 0
   m_Name: LilyPadMID2_0
@@ -3282,33 +3281,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LokvanjScript
   potrebanBrojZaPad: 2
   brzinaPada: 2
---- !u!50 &891385952
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 891385946}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &987230948
 GameObject:
   m_ObjectHideFlags: 0
@@ -3611,10 +3583,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f3f7ab9d21b0a84e9e3f88103b26f8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  playerSprite: {fileID: 1158049188}
+  playerSprite: {fileID: 1390562440}
   minLength: 0.2
-  maxLength: 15
-  growSpeed: 8
+  maxLength: 2.5
+  growSpeed: 25
+  mouthOffset: 1
 --- !u!212 &1158049188
 SpriteRenderer:
   serializedVersion: 2
@@ -7173,7 +7146,7 @@ Transform:
   m_GameObject: {fileID: 2107912369}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6, y: 3.32, z: 0}
+  m_LocalPosition: {x: -4.67, y: 3.19, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
