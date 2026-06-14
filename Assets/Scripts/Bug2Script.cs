@@ -23,8 +23,9 @@ public class Bug2Script : MonoBehaviour
         {
             Debug.Log("Buba je pojedena!");
 
-            Destroy(gameObject);
+            // Destroy(gameObject);
 
+            gameObject.SetActive(false);
             UnityEngine.SceneManagement.SceneManager.LoadScene("EndScene");
         }
         else

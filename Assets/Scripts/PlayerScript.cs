@@ -32,6 +32,9 @@ public class PlayerScript : MonoBehaviour
     // 0.3 = 30% originalne velicine
     [SerializeField] private float bubblePopThreshold = 0.3f;
 
+
+    [SerializeField] private AudioClip clickSound;
+
     private float originalScale;
 
     private float animationTimer;
@@ -146,6 +149,11 @@ public class PlayerScript : MonoBehaviour
 
     private void UpdateJumpSprite()
     {
+
+        
+       AudioManager.Instance.PlaySfx(clickSound);
+
+     
         if (isGrounded)
         {
             spriteRenderer.sprite = idleSprite;
