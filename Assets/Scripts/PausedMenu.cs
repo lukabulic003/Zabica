@@ -15,7 +15,7 @@ public class PausedMenu : MonoBehaviour
     [SerializeField] private Slider _sliderBrightness;
     [SerializeField] private Slider sfxSlider;
     [SerializeField] private Slider volumeSlider;
-    [SerializeField] private TextMeshProUGUI _sliderText;
+//    [SerializeField] private TextMeshProUGUI _sliderText;
     [SerializeField] private AudioMixer mixer;
 
 
@@ -46,7 +46,7 @@ public class PausedMenu : MonoBehaviour
 
         _sliderBrightness.onValueChanged.AddListener((v) =>
         {
-            _sliderText.text = v.ToString("0.00");
+         //   _sliderText.text = v.ToString("0.00");
 
             panel.color = new Color(
                 panel.color.r,

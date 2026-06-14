@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Bug2Script : MonoBehaviour
 {
-    [SerializeField] private string nextSceneName = "Level2";
+    
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -25,7 +25,7 @@ public class Bug2Script : MonoBehaviour
 
             Destroy(gameObject);
 
-            SceneManager.LoadScene(nextSceneName);
+            UnityEngine.SceneManagement.SceneManager.LoadScene("EndScene");
         }
         else
         {

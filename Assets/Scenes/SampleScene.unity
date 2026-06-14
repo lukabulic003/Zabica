@@ -1495,7 +1495,6 @@ MonoBehaviour:
   _sliderBrightness: {fileID: 1573967760}
   sfxSlider: {fileID: 1841805870}
   volumeSlider: {fileID: 139194732}
-  _sliderText: {fileID: 0}
   mixer: {fileID: 24100000, guid: 8f32c3386440e1049b7b3ed9c2d0bd4b, type: 2}
 --- !u!224 &409157557
 RectTransform:
