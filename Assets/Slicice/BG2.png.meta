@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 87d5b4272f13be7459b2a4675ae42068
+guid: 5bf8f58a0dc66db4c8757c8c1a2f7f7c
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -86,15 +86,6 @@ TextureImporter:
   - first:
       213: -9055936468821025816
     second: BG2_27
-  - first:
-      213: 2717941343071037067
-    second: BG2_28
-  - first:
-      213: -7551202437830680057
-    second: BG2_29
-  - first:
-      213: 1178631266961029767
-    second: BG2_30
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -136,9 +127,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -186,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -193,10 +197,10 @@ TextureImporter:
       name: BG2_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 893
-        width: 51
-        height: 152
+        x: 4
+        y: 0
+        width: 641
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +219,10 @@ TextureImporter:
       name: BG2_1
       rect:
         serializedVersion: 2
-        x: 105
-        y: 568
-        width: 641
-        height: 512
+        x: 645
+        y: 369
+        width: 117
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +241,10 @@ TextureImporter:
       name: BG2_2
       rect:
         serializedVersion: 2
-        x: 746
-        y: 938
-        width: 117
-        height: 142
+        x: 794
+        y: 462
+        width: 29
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,10 +263,10 @@ TextureImporter:
       name: BG2_3
       rect:
         serializedVersion: 2
-        x: 895
-        y: 1031
-        width: 29
-        height: 49
+        x: 829
+        y: 334
+        width: 51
+        height: 177
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +285,10 @@ TextureImporter:
       name: BG2_4
       rect:
         serializedVersion: 2
-        x: 930
-        y: 903
-        width: 51
-        height: 177
+        x: 861
+        y: 439
+        width: 47
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,10 +307,10 @@ TextureImporter:
       name: BG2_5
       rect:
         serializedVersion: 2
-        x: 962
-        y: 1008
-        width: 47
-        height: 68
+        x: 899
+        y: 475
+        width: 38
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,10 +329,10 @@ TextureImporter:
       name: BG2_6
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1044
-        width: 38
-        height: 22
+        x: 932
+        y: 472
+        width: 76
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +351,10 @@ TextureImporter:
       name: BG2_7
       rect:
         serializedVersion: 2
-        x: 1033
-        y: 1041
-        width: 76
-        height: 39
+        x: 1008
+        y: 448
+        width: 29
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +373,10 @@ TextureImporter:
       name: BG2_8
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 1017
-        width: 29
-        height: 50
+        x: 1032
+        y: 421
+        width: 55
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +395,10 @@ TextureImporter:
       name: BG2_9
       rect:
         serializedVersion: 2
-        x: 1133
-        y: 990
-        width: 55
-        height: 90
+        x: 1084
+        y: 452
+        width: 83
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +417,10 @@ TextureImporter:
       name: BG2_10
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 1021
-        width: 83
-        height: 46
+        x: 1158
+        y: 399
+        width: 403
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +439,10 @@ TextureImporter:
       name: BG2_11
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 968
-        width: 403
-        height: 112
+        x: 1564
+        y: 162
+        width: 351
+        height: 349
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +461,10 @@ TextureImporter:
       name: BG2_12
       rect:
         serializedVersion: 2
-        x: 1665
-        y: 731
-        width: 369
-        height: 349
+        x: 946
+        y: 451
+        width: 27
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +483,10 @@ TextureImporter:
       name: BG2_13
       rect:
         serializedVersion: 2
-        x: 1047
-        y: 1020
-        width: 27
-        height: 19
+        x: 1113
+        y: 436
+        width: 32
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +505,10 @@ TextureImporter:
       name: BG2_14
       rect:
         serializedVersion: 2
-        x: 1214
-        y: 1005
-        width: 32
-        height: 21
+        x: 1077
+        y: 428
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +527,10 @@ TextureImporter:
       name: BG2_15
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 997
-        width: 21
-        height: 20
+        x: 1016
+        y: 257
+        width: 39
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +549,10 @@ TextureImporter:
       name: BG2_16
       rect:
         serializedVersion: 2
-        x: 1117
-        y: 826
-        width: 39
-        height: 158
+        x: 1069
+        y: 345
+        width: 28
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +571,10 @@ TextureImporter:
       name: BG2_17
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 842
-        width: 43
-        height: 154
+        x: 1203
+        y: 304
+        width: 15
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +593,10 @@ TextureImporter:
       name: BG2_18
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 925
-        width: 37
-        height: 46
+        x: 1363
+        y: 354
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +615,10 @@ TextureImporter:
       name: BG2_19
       rect:
         serializedVersion: 2
-        x: 1574
-        y: 917
-        width: 20
-        height: 64
+        x: 1390
+        y: 273
+        width: 43
+        height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +637,10 @@ TextureImporter:
       name: BG2_20
       rect:
         serializedVersion: 2
-        x: 2004
-        y: 969
-        width: 40
-        height: 16
+        x: 1437
+        y: 356
+        width: 37
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +659,10 @@ TextureImporter:
       name: BG2_21
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 914
-        width: 28
-        height: 50
+        x: 1473
+        y: 348
+        width: 20
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +681,10 @@ TextureImporter:
       name: BG2_22
       rect:
         serializedVersion: 2
-        x: 1304
-        y: 873
-        width: 15
-        height: 57
+        x: 845
+        y: 302
+        width: 18
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +703,10 @@ TextureImporter:
       name: BG2_23
       rect:
         serializedVersion: 2
-        x: 1464
-        y: 923
-        width: 22
-        height: 28
+        x: 1459
+        y: 302
+        width: 24
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +725,10 @@ TextureImporter:
       name: BG2_24
       rect:
         serializedVersion: 2
-        x: 946
-        y: 871
-        width: 18
-        height: 33
+        x: 0
+        y: 40
+        width: 72
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +747,10 @@ TextureImporter:
       name: BG2_25
       rect:
         serializedVersion: 2
-        x: 1560
-        y: 871
-        width: 24
-        height: 38
+        x: 1438
+        y: 127
+        width: 69
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +769,10 @@ TextureImporter:
       name: BG2_26
       rect:
         serializedVersion: 2
-        x: 2033
-        y: 846
-        width: 22
-        height: 63
+        x: 1688
+        y: 126
+        width: 43
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +791,10 @@ TextureImporter:
       name: BG2_27
       rect:
         serializedVersion: 2
-        x: 100
-        y: 609
-        width: 73
-        height: 152
+        x: 1779
+        y: 140
+        width: 51
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,77 +809,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: BG2_28
-      rect:
-        serializedVersion: 2
-        x: 1539
-        y: 696
-        width: 69
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b86e812504118b520800000000000000
-      internalID: 2717941343071037067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BG2_29
-      rect:
-        serializedVersion: 2
-        x: 1789
-        y: 695
-        width: 43
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 702e90a046db43790800000000000000
-      internalID: -7551202437830680057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BG2_30
-      rect:
-        serializedVersion: 2
-        x: 1880
-        y: 709
-        width: 51
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78a716484e65b5010800000000000000
-      internalID: 1178631266961029767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -906,10 +844,7 @@ TextureImporter:
       BG2_25: 5066632655063017295
       BG2_26: -2806004591833746108
       BG2_27: -9055936468821025816
-      BG2_28: 2717941343071037067
-      BG2_29: -7551202437830680057
       BG2_3: 4578268321555554512
-      BG2_30: 1178631266961029767
       BG2_4: -1071724956307255786
       BG2_5: 6283513026192946265
       BG2_6: 5107647146414454289

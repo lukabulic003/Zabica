@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7450dbdd91c6617449c9395f33ddc2ae
+guid: 3fe34f4096993d044b80c51320ec3401
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2876,18 +2876,6 @@ TextureImporter:
   - first:
       213: 3513350816408654715
     second: BG1_957
-  - first:
-      213: -3847260090753780930
-    second: BG1_958
-  - first:
-      213: -3807254955472038914
-    second: BG1_959
-  - first:
-      213: -7141854397832775071
-    second: BG1_960
-  - first:
-      213: 7893121961863811646
-    second: BG1_961
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -2923,15 +2911,15 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
-  spriteExtrude: 2
-  spriteMeshType: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -2955,7 +2943,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -2979,6 +2967,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2986,7 +2987,7 @@ TextureImporter:
       name: BG1_0
       rect:
         serializedVersion: 2
-        x: 343
+        x: 247
         y: 867
         width: 97
         height: 125
@@ -3008,7 +3009,7 @@ TextureImporter:
       name: BG1_1
       rect:
         serializedVersion: 2
-        x: 440
+        x: 344
         y: 958
         width: 26
         height: 43
@@ -3030,7 +3031,7 @@ TextureImporter:
       name: BG1_2
       rect:
         serializedVersion: 2
-        x: 458
+        x: 362
         y: 959
         width: 11
         height: 14
@@ -3052,7 +3053,7 @@ TextureImporter:
       name: BG1_3
       rect:
         serializedVersion: 2
-        x: 464
+        x: 368
         y: 969
         width: 12
         height: 13
@@ -3074,7 +3075,7 @@ TextureImporter:
       name: BG1_4
       rect:
         serializedVersion: 2
-        x: 469
+        x: 373
         y: 959
         width: 14
         height: 18
@@ -3096,7 +3097,7 @@ TextureImporter:
       name: BG1_5
       rect:
         serializedVersion: 2
-        x: 482
+        x: 386
         y: 949
         width: 26
         height: 41
@@ -3118,7 +3119,7 @@ TextureImporter:
       name: BG1_6
       rect:
         serializedVersion: 2
-        x: 517
+        x: 421
         y: 919
         width: 26
         height: 52
@@ -3140,7 +3141,7 @@ TextureImporter:
       name: BG1_7
       rect:
         serializedVersion: 2
-        x: 1181
+        x: 1085
         y: 996
         width: 6
         height: 10
@@ -3162,7 +3163,7 @@ TextureImporter:
       name: BG1_8
       rect:
         serializedVersion: 2
-        x: 1190
+        x: 1094
         y: 984
         width: 13
         height: 11
@@ -3184,7 +3185,7 @@ TextureImporter:
       name: BG1_9
       rect:
         serializedVersion: 2
-        x: 1196
+        x: 1100
         y: 973
         width: 113
         height: 70
@@ -3206,7 +3207,7 @@ TextureImporter:
       name: BG1_10
       rect:
         serializedVersion: 2
-        x: 1220
+        x: 1124
         y: 975
         width: 8
         height: 11
@@ -3228,7 +3229,7 @@ TextureImporter:
       name: BG1_11
       rect:
         serializedVersion: 2
-        x: 1222
+        x: 1126
         y: 966
         width: 22
         height: 21
@@ -3250,7 +3251,7 @@ TextureImporter:
       name: BG1_12
       rect:
         serializedVersion: 2
-        x: 1243
+        x: 1147
         y: 798
         width: 151
         height: 198
@@ -3272,7 +3273,7 @@ TextureImporter:
       name: BG1_13
       rect:
         serializedVersion: 2
-        x: 1273
+        x: 1177
         y: 973
         width: 30
         height: 23
@@ -3294,7 +3295,7 @@ TextureImporter:
       name: BG1_14
       rect:
         serializedVersion: 2
-        x: 1283
+        x: 1187
         y: 978
         width: 42
         height: 35
@@ -3316,7 +3317,7 @@ TextureImporter:
       name: BG1_15
       rect:
         serializedVersion: 2
-        x: 1289
+        x: 1193
         y: 988
         width: 7
         height: 8
@@ -3338,10 +3339,10 @@ TextureImporter:
       name: BG1_16
       rect:
         serializedVersion: 2
-        x: 1296
+        x: 1200
         y: 1040
         width: 32
-        height: 34
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3360,7 +3361,7 @@ TextureImporter:
       name: BG1_17
       rect:
         serializedVersion: 2
-        x: 1302
+        x: 1206
         y: 1029
         width: 12
         height: 7
@@ -3382,7 +3383,7 @@ TextureImporter:
       name: BG1_18
       rect:
         serializedVersion: 2
-        x: 1303
+        x: 1207
         y: 1003
         width: 6
         height: 6
@@ -3404,7 +3405,7 @@ TextureImporter:
       name: BG1_19
       rect:
         serializedVersion: 2
-        x: 1303
+        x: 1207
         y: 977
         width: 7
         height: 10
@@ -3426,7 +3427,7 @@ TextureImporter:
       name: BG1_20
       rect:
         serializedVersion: 2
-        x: 1311
+        x: 1215
         y: 1004
         width: 7
         height: 24
@@ -3448,7 +3449,7 @@ TextureImporter:
       name: BG1_21
       rect:
         serializedVersion: 2
-        x: 1322
+        x: 1226
         y: 1023
         width: 11
         height: 20
@@ -3470,7 +3471,7 @@ TextureImporter:
       name: BG1_22
       rect:
         serializedVersion: 2
-        x: 1323
+        x: 1227
         y: 1056
         width: 6
         height: 12
@@ -3492,7 +3493,7 @@ TextureImporter:
       name: BG1_23
       rect:
         serializedVersion: 2
-        x: 1333
+        x: 1237
         y: 1038
         width: 6
         height: 10
@@ -3514,7 +3515,7 @@ TextureImporter:
       name: BG1_24
       rect:
         serializedVersion: 2
-        x: 1334
+        x: 1238
         y: 1044
         width: 9
         height: 15
@@ -3536,7 +3537,7 @@ TextureImporter:
       name: BG1_25
       rect:
         serializedVersion: 2
-        x: 1338
+        x: 1242
         y: 970
         width: 68
         height: 93
@@ -3558,7 +3559,7 @@ TextureImporter:
       name: BG1_26
       rect:
         serializedVersion: 2
-        x: 1338
+        x: 1242
         y: 980
         width: 9
         height: 14
@@ -3580,7 +3581,7 @@ TextureImporter:
       name: BG1_27
       rect:
         serializedVersion: 2
-        x: 1346
+        x: 1250
         y: 982
         width: 6
         height: 10
@@ -3602,7 +3603,7 @@ TextureImporter:
       name: BG1_28
       rect:
         serializedVersion: 2
-        x: 1349
+        x: 1253
         y: 972
         width: 10
         height: 18
@@ -3624,7 +3625,7 @@ TextureImporter:
       name: BG1_29
       rect:
         serializedVersion: 2
-        x: 1359
+        x: 1263
         y: 982
         width: 8
         height: 6
@@ -3646,7 +3647,7 @@ TextureImporter:
       name: BG1_30
       rect:
         serializedVersion: 2
-        x: 1367
+        x: 1271
         y: 983
         width: 7
         height: 7
@@ -3668,7 +3669,7 @@ TextureImporter:
       name: BG1_31
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 975
         width: 8
         height: 13
@@ -3690,7 +3691,7 @@ TextureImporter:
       name: BG1_32
       rect:
         serializedVersion: 2
-        x: 1378
+        x: 1282
         y: 978
         width: 9
         height: 11
@@ -3712,7 +3713,7 @@ TextureImporter:
       name: BG1_33
       rect:
         serializedVersion: 2
-        x: 1407
+        x: 1311
         y: 937
         width: 21
         height: 33
@@ -3734,7 +3735,7 @@ TextureImporter:
       name: BG1_34
       rect:
         serializedVersion: 2
-        x: 1442
+        x: 1346
         y: 921
         width: 23
         height: 65
@@ -3756,7 +3757,7 @@ TextureImporter:
       name: BG1_35
       rect:
         serializedVersion: 2
-        x: 477
+        x: 381
         y: 956
         width: 9
         height: 13
@@ -3778,7 +3779,7 @@ TextureImporter:
       name: BG1_36
       rect:
         serializedVersion: 2
-        x: 936
+        x: 840
         y: 962
         width: 14
         height: 6
@@ -3800,7 +3801,7 @@ TextureImporter:
       name: BG1_37
       rect:
         serializedVersion: 2
-        x: 940
+        x: 844
         y: 930
         width: 23
         height: 33
@@ -3822,7 +3823,7 @@ TextureImporter:
       name: BG1_38
       rect:
         serializedVersion: 2
-        x: 1221
+        x: 1125
         y: 948
         width: 13
         height: 17
@@ -3844,7 +3845,7 @@ TextureImporter:
       name: BG1_39
       rect:
         serializedVersion: 2
-        x: 1393
+        x: 1297
         y: 905
         width: 16
         height: 58
@@ -3866,7 +3867,7 @@ TextureImporter:
       name: BG1_40
       rect:
         serializedVersion: 2
-        x: 1430
+        x: 1334
         y: 954
         width: 7
         height: 10
@@ -3888,7 +3889,7 @@ TextureImporter:
       name: BG1_41
       rect:
         serializedVersion: 2
-        x: 1497
+        x: 1401
         y: 871
         width: 110
         height: 95
@@ -3910,7 +3911,7 @@ TextureImporter:
       name: BG1_42
       rect:
         serializedVersion: 2
-        x: 390
+        x: 294
         y: 918
         width: 7
         height: 10
@@ -3932,7 +3933,7 @@ TextureImporter:
       name: BG1_43
       rect:
         serializedVersion: 2
-        x: 395
+        x: 299
         y: 932
         width: 6
         height: 9
@@ -3954,7 +3955,7 @@ TextureImporter:
       name: BG1_44
       rect:
         serializedVersion: 2
-        x: 399
+        x: 303
         y: 909
         width: 26
         height: 19
@@ -3976,7 +3977,7 @@ TextureImporter:
       name: BG1_45
       rect:
         serializedVersion: 2
-        x: 401
+        x: 305
         y: 932
         width: 7
         height: 8
@@ -3998,7 +3999,7 @@ TextureImporter:
       name: BG1_46
       rect:
         serializedVersion: 2
-        x: 414
+        x: 318
         y: 923
         width: 11
         height: 15
@@ -4020,7 +4021,7 @@ TextureImporter:
       name: BG1_47
       rect:
         serializedVersion: 2
-        x: 423
+        x: 327
         y: 904
         width: 16
         height: 57
@@ -4042,7 +4043,7 @@ TextureImporter:
       name: BG1_48
       rect:
         serializedVersion: 2
-        x: 435
+        x: 339
         y: 924
         width: 18
         height: 35
@@ -4064,7 +4065,7 @@ TextureImporter:
       name: BG1_49
       rect:
         serializedVersion: 2
-        x: 442
+        x: 346
         y: 949
         width: 8
         height: 12
@@ -4086,7 +4087,7 @@ TextureImporter:
       name: BG1_50
       rect:
         serializedVersion: 2
-        x: 442
+        x: 346
         y: 896
         width: 52
         height: 45
@@ -4108,7 +4109,7 @@ TextureImporter:
       name: BG1_51
       rect:
         serializedVersion: 2
-        x: 458
+        x: 362
         y: 927
         width: 27
         height: 22
@@ -4130,7 +4131,7 @@ TextureImporter:
       name: BG1_52
       rect:
         serializedVersion: 2
-        x: 460
+        x: 364
         y: 948
         width: 6
         height: 8
@@ -4152,7 +4153,7 @@ TextureImporter:
       name: BG1_53
       rect:
         serializedVersion: 2
-        x: 463
+        x: 367
         y: 942
         width: 13
         height: 17
@@ -4174,7 +4175,7 @@ TextureImporter:
       name: BG1_54
       rect:
         serializedVersion: 2
-        x: 477
+        x: 381
         y: 946
         width: 7
         height: 11
@@ -4196,7 +4197,7 @@ TextureImporter:
       name: BG1_55
       rect:
         serializedVersion: 2
-        x: 484
+        x: 388
         y: 928
         width: 19
         height: 20
@@ -4218,7 +4219,7 @@ TextureImporter:
       name: BG1_56
       rect:
         serializedVersion: 2
-        x: 503
+        x: 407
         y: 925
         width: 13
         height: 31
@@ -4240,7 +4241,7 @@ TextureImporter:
       name: BG1_57
       rect:
         serializedVersion: 2
-        x: 884
+        x: 788
         y: 686
         width: 220
         height: 247
@@ -4262,7 +4263,7 @@ TextureImporter:
       name: BG1_58
       rect:
         serializedVersion: 2
-        x: 946
+        x: 850
         y: 936
         width: 7
         height: 6
@@ -4284,7 +4285,7 @@ TextureImporter:
       name: BG1_59
       rect:
         serializedVersion: 2
-        x: 965
+        x: 869
         y: 925
         width: 18
         height: 32
@@ -4306,7 +4307,7 @@ TextureImporter:
       name: BG1_60
       rect:
         serializedVersion: 2
-        x: 979
+        x: 883
         y: 937
         width: 7
         height: 7
@@ -4328,7 +4329,7 @@ TextureImporter:
       name: BG1_61
       rect:
         serializedVersion: 2
-        x: 980
+        x: 884
         y: 943
         width: 9
         height: 13
@@ -4350,7 +4351,7 @@ TextureImporter:
       name: BG1_62
       rect:
         serializedVersion: 2
-        x: 982
+        x: 886
         y: 923
         width: 9
         height: 7
@@ -4372,7 +4373,7 @@ TextureImporter:
       name: BG1_63
       rect:
         serializedVersion: 2
-        x: 983
+        x: 887
         y: 909
         width: 26
         height: 28
@@ -4394,7 +4395,7 @@ TextureImporter:
       name: BG1_64
       rect:
         serializedVersion: 2
-        x: 987
+        x: 891
         y: 930
         width: 9
         height: 14
@@ -4416,7 +4417,7 @@ TextureImporter:
       name: BG1_65
       rect:
         serializedVersion: 2
-        x: 989
+        x: 893
         y: 943
         width: 8
         height: 12
@@ -4438,7 +4439,7 @@ TextureImporter:
       name: BG1_66
       rect:
         serializedVersion: 2
-        x: 995
+        x: 899
         y: 936
         width: 11
         height: 15
@@ -4460,7 +4461,7 @@ TextureImporter:
       name: BG1_67
       rect:
         serializedVersion: 2
-        x: 1002
+        x: 906
         y: 944
         width: 6
         height: 7
@@ -4482,7 +4483,7 @@ TextureImporter:
       name: BG1_68
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 908
         y: 910
         width: 37
         height: 36
@@ -4504,7 +4505,7 @@ TextureImporter:
       name: BG1_69
       rect:
         serializedVersion: 2
-        x: 1035
+        x: 939
         y: 925
         width: 7
         height: 11
@@ -4526,7 +4527,7 @@ TextureImporter:
       name: BG1_70
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 944
         y: 914
         width: 10
         height: 18
@@ -4548,7 +4549,7 @@ TextureImporter:
       name: BG1_71
       rect:
         serializedVersion: 2
-        x: 1042
+        x: 946
         y: 933
         width: 11
         height: 7
@@ -4570,7 +4571,7 @@ TextureImporter:
       name: BG1_72
       rect:
         serializedVersion: 2
-        x: 1234
+        x: 1138
         y: 943
         width: 29
         height: 17
@@ -4592,7 +4593,7 @@ TextureImporter:
       name: BG1_73
       rect:
         serializedVersion: 2
-        x: 1386
+        x: 1290
         y: 942
         width: 8
         height: 7
@@ -4614,7 +4615,7 @@ TextureImporter:
       name: BG1_74
       rect:
         serializedVersion: 2
-        x: 1409
+        x: 1313
         y: 917
         width: 15
         height: 26
@@ -4636,7 +4637,7 @@ TextureImporter:
       name: BG1_75
       rect:
         serializedVersion: 2
-        x: 1421
+        x: 1325
         y: 868
         width: 19
         height: 72
@@ -4658,7 +4659,7 @@ TextureImporter:
       name: BG1_76
       rect:
         serializedVersion: 2
-        x: 1428
+        x: 1332
         y: 941
         width: 15
         height: 17
@@ -4680,7 +4681,7 @@ TextureImporter:
       name: BG1_77
       rect:
         serializedVersion: 2
-        x: 1459
+        x: 1363
         y: 932
         width: 6
         height: 7
@@ -4702,7 +4703,7 @@ TextureImporter:
       name: BG1_78
       rect:
         serializedVersion: 2
-        x: 1465
+        x: 1369
         y: 930
         width: 15
         height: 9
@@ -4724,7 +4725,7 @@ TextureImporter:
       name: BG1_79
       rect:
         serializedVersion: 2
-        x: 1466
+        x: 1370
         y: 940
         width: 18
         height: 18
@@ -4746,7 +4747,7 @@ TextureImporter:
       name: BG1_80
       rect:
         serializedVersion: 2
-        x: 1467
+        x: 1371
         y: 919
         width: 15
         height: 8
@@ -4768,7 +4769,7 @@ TextureImporter:
       name: BG1_81
       rect:
         serializedVersion: 2
-        x: 1482
+        x: 1386
         y: 916
         width: 21
         height: 23
@@ -4790,7 +4791,7 @@ TextureImporter:
       name: BG1_82
       rect:
         serializedVersion: 2
-        x: 1500
+        x: 1404
         y: 912
         width: 20
         height: 23
@@ -4812,7 +4813,7 @@ TextureImporter:
       name: BG1_83
       rect:
         serializedVersion: 2
-        x: 1793
+        x: 1697
         y: 804
         width: 91
         height: 139
@@ -4834,7 +4835,7 @@ TextureImporter:
       name: BG1_84
       rect:
         serializedVersion: 2
-        x: 300
+        x: 204
         y: 892
         width: 40
         height: 25
@@ -4856,7 +4857,7 @@ TextureImporter:
       name: BG1_85
       rect:
         serializedVersion: 2
-        x: 437
+        x: 341
         y: 904
         width: 9
         height: 17
@@ -4878,7 +4879,7 @@ TextureImporter:
       name: BG1_86
       rect:
         serializedVersion: 2
-        x: 1436
+        x: 1340
         y: 875
         width: 23
         height: 44
@@ -4900,7 +4901,7 @@ TextureImporter:
       name: BG1_87
       rect:
         serializedVersion: 2
-        x: 1462
+        x: 1366
         y: 906
         width: 20
         height: 14
@@ -4922,7 +4923,7 @@ TextureImporter:
       name: BG1_88
       rect:
         serializedVersion: 2
-        x: 1520
+        x: 1424
         y: 915
         width: 7
         height: 8
@@ -4944,7 +4945,7 @@ TextureImporter:
       name: BG1_89
       rect:
         serializedVersion: 2
-        x: 1872
+        x: 1776
         y: 917
         width: 7
         height: 7
@@ -4966,7 +4967,7 @@ TextureImporter:
       name: BG1_90
       rect:
         serializedVersion: 2
-        x: 1882
+        x: 1786
         y: 911
         width: 6
         height: 6
@@ -4988,7 +4989,7 @@ TextureImporter:
       name: BG1_91
       rect:
         serializedVersion: 2
-        x: 1888
+        x: 1792
         y: 910
         width: 7
         height: 13
@@ -5010,7 +5011,7 @@ TextureImporter:
       name: BG1_92
       rect:
         serializedVersion: 2
-        x: 1892
+        x: 1796
         y: 904
         width: 14
         height: 20
@@ -5032,7 +5033,7 @@ TextureImporter:
       name: BG1_93
       rect:
         serializedVersion: 2
-        x: 835
+        x: 739
         y: 834
         width: 78
         height: 80
@@ -5054,7 +5055,7 @@ TextureImporter:
       name: BG1_94
       rect:
         serializedVersion: 2
-        x: 1463
+        x: 1367
         y: 877
         width: 12
         height: 30
@@ -5076,7 +5077,7 @@ TextureImporter:
       name: BG1_95
       rect:
         serializedVersion: 2
-        x: 1472
+        x: 1376
         y: 890
         width: 25
         height: 19
@@ -5098,7 +5099,7 @@ TextureImporter:
       name: BG1_96
       rect:
         serializedVersion: 2
-        x: 1874
+        x: 1778
         y: 897
         width: 14
         height: 14
@@ -5120,7 +5121,7 @@ TextureImporter:
       name: BG1_97
       rect:
         serializedVersion: 2
-        x: 1887
+        x: 1791
         y: 884
         width: 16
         height: 25
@@ -5142,7 +5143,7 @@ TextureImporter:
       name: BG1_98
       rect:
         serializedVersion: 2
-        x: 1902
+        x: 1806
         y: 887
         width: 25
         height: 24
@@ -5164,7 +5165,7 @@ TextureImporter:
       name: BG1_99
       rect:
         serializedVersion: 2
-        x: 1907
+        x: 1811
         y: 906
         width: 6
         height: 9
@@ -5186,7 +5187,7 @@ TextureImporter:
       name: BG1_100
       rect:
         serializedVersion: 2
-        x: 366
+        x: 270
         y: 890
         width: 6
         height: 12
@@ -5208,7 +5209,7 @@ TextureImporter:
       name: BG1_101
       rect:
         serializedVersion: 2
-        x: 378
+        x: 282
         y: 887
         width: 9
         height: 15
@@ -5230,7 +5231,7 @@ TextureImporter:
       name: BG1_102
       rect:
         serializedVersion: 2
-        x: 379
+        x: 283
         y: 874
         width: 14
         height: 25
@@ -5252,7 +5253,7 @@ TextureImporter:
       name: BG1_103
       rect:
         serializedVersion: 2
-        x: 893
+        x: 797
         y: 897
         width: 6
         height: 8
@@ -5274,7 +5275,7 @@ TextureImporter:
       name: BG1_104
       rect:
         serializedVersion: 2
-        x: 1394
+        x: 1298
         y: 899
         width: 6
         height: 6
@@ -5296,7 +5297,7 @@ TextureImporter:
       name: BG1_105
       rect:
         serializedVersion: 2
-        x: 1400
+        x: 1304
         y: 891
         width: 9
         height: 14
@@ -5318,7 +5319,7 @@ TextureImporter:
       name: BG1_106
       rect:
         serializedVersion: 2
-        x: 1588
+        x: 1492
         y: 898
         width: 6
         height: 6
@@ -5340,7 +5341,7 @@ TextureImporter:
       name: BG1_107
       rect:
         serializedVersion: 2
-        x: 1860
+        x: 1764
         y: 877
         width: 28
         height: 24
@@ -5362,7 +5363,7 @@ TextureImporter:
       name: BG1_108
       rect:
         serializedVersion: 2
-        x: 1873
+        x: 1777
         y: 897
         width: 9
         height: 7
@@ -5384,7 +5385,7 @@ TextureImporter:
       name: BG1_109
       rect:
         serializedVersion: 2
-        x: 370
+        x: 274
         y: 878
         width: 9
         height: 10
@@ -5406,7 +5407,7 @@ TextureImporter:
       name: BG1_110
       rect:
         serializedVersion: 2
-        x: 392
+        x: 296
         y: 867
         width: 18
         height: 27
@@ -5428,7 +5429,7 @@ TextureImporter:
       name: BG1_111
       rect:
         serializedVersion: 2
-        x: 605
+        x: 509
         y: 810
         width: 51
         height: 85
@@ -5450,7 +5451,7 @@ TextureImporter:
       name: BG1_112
       rect:
         serializedVersion: 2
-        x: 676
+        x: 580
         y: 877
         width: 27
         height: 14
@@ -5472,7 +5473,7 @@ TextureImporter:
       name: BG1_113
       rect:
         serializedVersion: 2
-        x: 706
+        x: 610
         y: 883
         width: 16
         height: 11
@@ -5494,7 +5495,7 @@ TextureImporter:
       name: BG1_114
       rect:
         serializedVersion: 2
-        x: 881
+        x: 785
         y: 845
         width: 32
         height: 50
@@ -5516,7 +5517,7 @@ TextureImporter:
       name: BG1_115
       rect:
         serializedVersion: 2
-        x: 900
+        x: 804
         y: 884
         width: 6
         height: 11
@@ -5538,7 +5539,7 @@ TextureImporter:
       name: BG1_116
       rect:
         serializedVersion: 2
-        x: 1383
+        x: 1287
         y: 877
         width: 8
         height: 14
@@ -5560,7 +5561,7 @@ TextureImporter:
       name: BG1_117
       rect:
         serializedVersion: 2
-        x: 1388
+        x: 1292
         y: 823
         width: 24
         height: 70
@@ -5582,7 +5583,7 @@ TextureImporter:
       name: BG1_118
       rect:
         serializedVersion: 2
-        x: 1396
+        x: 1300
         y: 885
         width: 6
         height: 8
@@ -5604,7 +5605,7 @@ TextureImporter:
       name: BG1_119
       rect:
         serializedVersion: 2
-        x: 1441
+        x: 1345
         y: 873
         width: 8
         height: 13
@@ -5626,7 +5627,7 @@ TextureImporter:
       name: BG1_120
       rect:
         serializedVersion: 2
-        x: 1859
+        x: 1763
         y: 877
         width: 6
         height: 11
@@ -5648,7 +5649,7 @@ TextureImporter:
       name: BG1_121
       rect:
         serializedVersion: 2
-        x: 1883
+        x: 1787
         y: 866
         width: 15
         height: 24
@@ -5670,7 +5671,7 @@ TextureImporter:
       name: BG1_122
       rect:
         serializedVersion: 2
-        x: 1888
+        x: 1792
         y: 860
         width: 15
         height: 28
@@ -5692,7 +5693,7 @@ TextureImporter:
       name: BG1_123
       rect:
         serializedVersion: 2
-        x: 1903
+        x: 1807
         y: 861
         width: 15
         height: 33
@@ -5714,7 +5715,7 @@ TextureImporter:
       name: BG1_124
       rect:
         serializedVersion: 2
-        x: 1915
+        x: 1819
         y: 868
         width: 23
         height: 19
@@ -5736,7 +5737,7 @@ TextureImporter:
       name: BG1_125
       rect:
         serializedVersion: 2
-        x: 417
+        x: 321
         y: 866
         width: 6
         height: 12
@@ -5758,7 +5759,7 @@ TextureImporter:
       name: BG1_126
       rect:
         serializedVersion: 2
-        x: 721
+        x: 625
         y: 847
         width: 49
         height: 35
@@ -5780,7 +5781,7 @@ TextureImporter:
       name: BG1_127
       rect:
         serializedVersion: 2
-        x: 768
+        x: 672
         y: 858
         width: 12
         height: 15
@@ -5802,7 +5803,7 @@ TextureImporter:
       name: BG1_128
       rect:
         serializedVersion: 2
-        x: 886
+        x: 790
         y: 868
         width: 15
         height: 9
@@ -5824,7 +5825,7 @@ TextureImporter:
       name: BG1_129
       rect:
         serializedVersion: 2
-        x: 1386
+        x: 1290
         y: 856
         width: 6
         height: 20
@@ -5846,7 +5847,7 @@ TextureImporter:
       name: BG1_130
       rect:
         serializedVersion: 2
-        x: 1409
+        x: 1313
         y: 837
         width: 21
         height: 43
@@ -5868,7 +5869,7 @@ TextureImporter:
       name: BG1_131
       rect:
         serializedVersion: 2
-        x: 1428
+        x: 1332
         y: 863
         width: 6
         height: 20
@@ -5890,7 +5891,7 @@ TextureImporter:
       name: BG1_132
       rect:
         serializedVersion: 2
-        x: 1433
+        x: 1337
         y: 858
         width: 11
         height: 16
@@ -5912,7 +5913,7 @@ TextureImporter:
       name: BG1_133
       rect:
         serializedVersion: 2
-        x: 1452
+        x: 1356
         y: 851
         width: 9
         height: 22
@@ -5934,7 +5935,7 @@ TextureImporter:
       name: BG1_134
       rect:
         serializedVersion: 2
-        x: 1877
+        x: 1781
         y: 872
         width: 9
         height: 11
@@ -5956,7 +5957,7 @@ TextureImporter:
       name: BG1_135
       rect:
         serializedVersion: 2
-        x: 1880
+        x: 1784
         y: 852
         width: 8
         height: 21
@@ -5978,7 +5979,7 @@ TextureImporter:
       name: BG1_136
       rect:
         serializedVersion: 2
-        x: 707
+        x: 611
         y: 853
         width: 12
         height: 15
@@ -6000,7 +6001,7 @@ TextureImporter:
       name: BG1_137
       rect:
         serializedVersion: 2
-        x: 780
+        x: 684
         y: 855
         width: 13
         height: 16
@@ -6022,7 +6023,7 @@ TextureImporter:
       name: BG1_138
       rect:
         serializedVersion: 2
-        x: 871
+        x: 775
         y: 856
         width: 18
         height: 13
@@ -6044,7 +6045,7 @@ TextureImporter:
       name: BG1_139
       rect:
         serializedVersion: 2
-        x: 909
+        x: 813
         y: 860
         width: 6
         height: 8
@@ -6066,7 +6067,7 @@ TextureImporter:
       name: BG1_140
       rect:
         serializedVersion: 2
-        x: 1421
+        x: 1325
         y: 522
         width: 112
         height: 345
@@ -6088,7 +6089,7 @@ TextureImporter:
       name: BG1_141
       rect:
         serializedVersion: 2
-        x: 1441
+        x: 1345
         y: 857
         width: 11
         height: 14
@@ -6110,7 +6111,7 @@ TextureImporter:
       name: BG1_142
       rect:
         serializedVersion: 2
-        x: 1462
+        x: 1366
         y: 855
         width: 14
         height: 12
@@ -6132,7 +6133,7 @@ TextureImporter:
       name: BG1_143
       rect:
         serializedVersion: 2
-        x: 1492
+        x: 1396
         y: 853
         width: 8
         height: 12
@@ -6154,7 +6155,7 @@ TextureImporter:
       name: BG1_144
       rect:
         serializedVersion: 2
-        x: 1501
+        x: 1405
         y: 840
         width: 13
         height: 27
@@ -6176,7 +6177,7 @@ TextureImporter:
       name: BG1_145
       rect:
         serializedVersion: 2
-        x: 1512
+        x: 1416
         y: 849
         width: 11
         height: 16
@@ -6198,7 +6199,7 @@ TextureImporter:
       name: BG1_146
       rect:
         serializedVersion: 2
-        x: 1521
+        x: 1425
         y: 831
         width: 24
         height: 37
@@ -6220,7 +6221,7 @@ TextureImporter:
       name: BG1_147
       rect:
         serializedVersion: 2
-        x: 1564
+        x: 1468
         y: 819
         width: 46
         height: 49
@@ -6242,7 +6243,7 @@ TextureImporter:
       name: BG1_148
       rect:
         serializedVersion: 2
-        x: 1874
+        x: 1778
         y: 859
         width: 6
         height: 12
@@ -6264,7 +6265,7 @@ TextureImporter:
       name: BG1_149
       rect:
         serializedVersion: 2
-        x: 1916
+        x: 1820
         y: 831
         width: 20
         height: 40
@@ -6286,7 +6287,7 @@ TextureImporter:
       name: BG1_150
       rect:
         serializedVersion: 2
-        x: 1919
+        x: 1823
         y: 865
         width: 6
         height: 6
@@ -6308,7 +6309,7 @@ TextureImporter:
       name: BG1_151
       rect:
         serializedVersion: 2
-        x: 750
+        x: 654
         y: 826
         width: 26
         height: 33
@@ -6330,7 +6331,7 @@ TextureImporter:
       name: BG1_152
       rect:
         serializedVersion: 2
-        x: 900
+        x: 804
         y: 846
         width: 12
         height: 13
@@ -6352,7 +6353,7 @@ TextureImporter:
       name: BG1_153
       rect:
         serializedVersion: 2
-        x: 1852
+        x: 1756
         y: 858
         width: 7
         height: 6
@@ -6374,7 +6375,7 @@ TextureImporter:
       name: BG1_154
       rect:
         serializedVersion: 2
-        x: 1856
+        x: 1760
         y: 846
         width: 9
         height: 12
@@ -6396,7 +6397,7 @@ TextureImporter:
       name: BG1_155
       rect:
         serializedVersion: 2
-        x: 1869
+        x: 1773
         y: 841
         width: 12
         height: 17
@@ -6418,7 +6419,7 @@ TextureImporter:
       name: BG1_156
       rect:
         serializedVersion: 2
-        x: 1886
+        x: 1790
         y: 844
         width: 14
         height: 17
@@ -6440,7 +6441,7 @@ TextureImporter:
       name: BG1_157
       rect:
         serializedVersion: 2
-        x: 1903
+        x: 1807
         y: 853
         width: 7
         height: 11
@@ -6462,7 +6463,7 @@ TextureImporter:
       name: BG1_158
       rect:
         serializedVersion: 2
-        x: 1910
+        x: 1814
         y: 830
         width: 12
         height: 31
@@ -6484,7 +6485,7 @@ TextureImporter:
       name: BG1_159
       rect:
         serializedVersion: 2
-        x: 1915
+        x: 1819
         y: 848
         width: 9
         height: 11
@@ -6506,7 +6507,7 @@ TextureImporter:
       name: BG1_160
       rect:
         serializedVersion: 2
-        x: 614
+        x: 518
         y: 837
         width: 6
         height: 10
@@ -6528,7 +6529,7 @@ TextureImporter:
       name: BG1_161
       rect:
         serializedVersion: 2
-        x: 668
+        x: 572
         y: 830
         width: 14
         height: 20
@@ -6550,7 +6551,7 @@ TextureImporter:
       name: BG1_162
       rect:
         serializedVersion: 2
-        x: 684
+        x: 588
         y: 751
         width: 49
         height: 98
@@ -6572,7 +6573,7 @@ TextureImporter:
       name: BG1_163
       rect:
         serializedVersion: 2
-        x: 775
+        x: 679
         y: 819
         width: 19
         height: 34
@@ -6594,7 +6595,7 @@ TextureImporter:
       name: BG1_164
       rect:
         serializedVersion: 2
-        x: 794
+        x: 698
         y: 815
         width: 24
         height: 30
@@ -6616,7 +6617,7 @@ TextureImporter:
       name: BG1_165
       rect:
         serializedVersion: 2
-        x: 870
+        x: 774
         y: 829
         width: 15
         height: 14
@@ -6638,7 +6639,7 @@ TextureImporter:
       name: BG1_166
       rect:
         serializedVersion: 2
-        x: 872
+        x: 776
         y: 842
         width: 9
         height: 11
@@ -6660,7 +6661,7 @@ TextureImporter:
       name: BG1_167
       rect:
         serializedVersion: 2
-        x: 884
+        x: 788
         y: 829
         width: 25
         height: 14
@@ -6682,7 +6683,7 @@ TextureImporter:
       name: BG1_168
       rect:
         serializedVersion: 2
-        x: 892
+        x: 796
         y: 835
         width: 11
         height: 15
@@ -6704,7 +6705,7 @@ TextureImporter:
       name: BG1_169
       rect:
         serializedVersion: 2
-        x: 902
+        x: 806
         y: 836
         width: 10
         height: 9
@@ -6726,7 +6727,7 @@ TextureImporter:
       name: BG1_170
       rect:
         serializedVersion: 2
-        x: 1381
+        x: 1285
         y: 828
         width: 9
         height: 28
@@ -6748,7 +6749,7 @@ TextureImporter:
       name: BG1_171
       rect:
         serializedVersion: 2
-        x: 1431
+        x: 1335
         y: 824
         width: 9
         height: 19
@@ -6770,7 +6771,7 @@ TextureImporter:
       name: BG1_172
       rect:
         serializedVersion: 2
-        x: 1434
+        x: 1338
         y: 837
         width: 11
         height: 15
@@ -6792,7 +6793,7 @@ TextureImporter:
       name: BG1_173
       rect:
         serializedVersion: 2
-        x: 1441
+        x: 1345
         y: 843
         width: 6
         height: 13
@@ -6814,7 +6815,7 @@ TextureImporter:
       name: BG1_174
       rect:
         serializedVersion: 2
-        x: 1589
+        x: 1493
         y: 758
         width: 57
         height: 86
@@ -6836,7 +6837,7 @@ TextureImporter:
       name: BG1_175
       rect:
         serializedVersion: 2
-        x: 1831
+        x: 1735
         y: 835
         width: 8
         height: 15
@@ -6858,7 +6859,7 @@ TextureImporter:
       name: BG1_176
       rect:
         serializedVersion: 2
-        x: 1831
+        x: 1735
         y: 805
         width: 22
         height: 38
@@ -6880,7 +6881,7 @@ TextureImporter:
       name: BG1_177
       rect:
         serializedVersion: 2
-        x: 1839
+        x: 1743
         y: 836
         width: 6
         height: 12
@@ -6902,7 +6903,7 @@ TextureImporter:
       name: BG1_178
       rect:
         serializedVersion: 2
-        x: 1844
+        x: 1748
         y: 843
         width: 8
         height: 12
@@ -6924,7 +6925,7 @@ TextureImporter:
       name: BG1_179
       rect:
         serializedVersion: 2
-        x: 1851
+        x: 1755
         y: 828
         width: 13
         height: 16
@@ -6946,7 +6947,7 @@ TextureImporter:
       name: BG1_180
       rect:
         serializedVersion: 2
-        x: 1879
+        x: 1783
         y: 837
         width: 7
         height: 18
@@ -6968,7 +6969,7 @@ TextureImporter:
       name: BG1_181
       rect:
         serializedVersion: 2
-        x: 1889
+        x: 1793
         y: 829
         width: 9
         height: 17
@@ -6990,7 +6991,7 @@ TextureImporter:
       name: BG1_182
       rect:
         serializedVersion: 2
-        x: 1897
+        x: 1801
         y: 836
         width: 15
         height: 21
@@ -7012,7 +7013,7 @@ TextureImporter:
       name: BG1_183
       rect:
         serializedVersion: 2
-        x: 666
+        x: 570
         y: 802
         width: 19
         height: 35
@@ -7034,7 +7035,7 @@ TextureImporter:
       name: BG1_184
       rect:
         serializedVersion: 2
-        x: 795
+        x: 699
         y: 833
         width: 6
         height: 6
@@ -7056,7 +7057,7 @@ TextureImporter:
       name: BG1_185
       rect:
         serializedVersion: 2
-        x: 814
+        x: 718
         y: 809
         width: 25
         height: 30
@@ -7078,7 +7079,7 @@ TextureImporter:
       name: BG1_186
       rect:
         serializedVersion: 2
-        x: 842
+        x: 746
         y: 819
         width: 12
         height: 14
@@ -7100,7 +7101,7 @@ TextureImporter:
       name: BG1_187
       rect:
         serializedVersion: 2
-        x: 846
+        x: 750
         y: 828
         width: 6
         height: 6
@@ -7122,7 +7123,7 @@ TextureImporter:
       name: BG1_188
       rect:
         serializedVersion: 2
-        x: 862
+        x: 766
         y: 815
         width: 7
         height: 18
@@ -7144,7 +7145,7 @@ TextureImporter:
       name: BG1_189
       rect:
         serializedVersion: 2
-        x: 1323
+        x: 1227
         y: 820
         width: 17
         height: 16
@@ -7166,7 +7167,7 @@ TextureImporter:
       name: BG1_190
       rect:
         serializedVersion: 2
-        x: 1413
+        x: 1317
         y: 817
         width: 7
         height: 21
@@ -7188,7 +7189,7 @@ TextureImporter:
       name: BG1_191
       rect:
         serializedVersion: 2
-        x: 1418
+        x: 1322
         y: 816
         width: 9
         height: 21
@@ -7210,7 +7211,7 @@ TextureImporter:
       name: BG1_192
       rect:
         serializedVersion: 2
-        x: 1599
+        x: 1503
         y: 825
         width: 7
         height: 11
@@ -7232,7 +7233,7 @@ TextureImporter:
       name: BG1_193
       rect:
         serializedVersion: 2
-        x: 1652
+        x: 1556
         y: 809
         width: 18
         height: 30
@@ -7254,7 +7255,7 @@ TextureImporter:
       name: BG1_194
       rect:
         serializedVersion: 2
-        x: 1863
+        x: 1767
         y: 828
         width: 7
         height: 8
@@ -7276,7 +7277,7 @@ TextureImporter:
       name: BG1_195
       rect:
         serializedVersion: 2
-        x: 1866
+        x: 1770
         y: 822
         width: 9
         height: 20
@@ -7298,7 +7299,7 @@ TextureImporter:
       name: BG1_196
       rect:
         serializedVersion: 2
-        x: 1872
+        x: 1776
         y: 829
         width: 15
         height: 13
@@ -7320,7 +7321,7 @@ TextureImporter:
       name: BG1_197
       rect:
         serializedVersion: 2
-        x: 1886
+        x: 1790
         y: 829
         width: 6
         height: 9
@@ -7342,7 +7343,7 @@ TextureImporter:
       name: BG1_198
       rect:
         serializedVersion: 2
-        x: 1896
+        x: 1800
         y: 823
         width: 10
         height: 16
@@ -7364,7 +7365,7 @@ TextureImporter:
       name: BG1_199
       rect:
         serializedVersion: 2
-        x: 1906
+        x: 1810
         y: 830
         width: 6
         height: 7
@@ -7386,7 +7387,7 @@ TextureImporter:
       name: BG1_200
       rect:
         serializedVersion: 2
-        x: 548
+        x: 452
         y: 774
         width: 76
         height: 57
@@ -7408,7 +7409,7 @@ TextureImporter:
       name: BG1_201
       rect:
         serializedVersion: 2
-        x: 715
+        x: 619
         y: 817
         width: 14
         height: 14
@@ -7430,7 +7431,7 @@ TextureImporter:
       name: BG1_202
       rect:
         serializedVersion: 2
-        x: 868
+        x: 772
         y: 808
         width: 18
         height: 18
@@ -7452,7 +7453,7 @@ TextureImporter:
       name: BG1_203
       rect:
         serializedVersion: 2
-        x: 877
+        x: 781
         y: 821
         width: 13
         height: 8
@@ -7474,7 +7475,7 @@ TextureImporter:
       name: BG1_204
       rect:
         serializedVersion: 2
-        x: 889
+        x: 793
         y: 816
         width: 15
         height: 13
@@ -7496,7 +7497,7 @@ TextureImporter:
       name: BG1_205
       rect:
         serializedVersion: 2
-        x: 1388
+        x: 1292
         y: 796
         width: 18
         height: 36
@@ -7518,7 +7519,7 @@ TextureImporter:
       name: BG1_206
       rect:
         serializedVersion: 2
-        x: 1427
+        x: 1331
         y: 811
         width: 23
         height: 14
@@ -7540,7 +7541,7 @@ TextureImporter:
       name: BG1_207
       rect:
         serializedVersion: 2
-        x: 1438
+        x: 1342
         y: 823
         width: 10
         height: 8
@@ -7562,7 +7563,7 @@ TextureImporter:
       name: BG1_208
       rect:
         serializedVersion: 2
-        x: 1587
+        x: 1491
         y: 803
         width: 14
         height: 26
@@ -7584,7 +7585,7 @@ TextureImporter:
       name: BG1_209
       rect:
         serializedVersion: 2
-        x: 1669
+        x: 1573
         y: 813
         width: 11
         height: 17
@@ -7606,7 +7607,7 @@ TextureImporter:
       name: BG1_210
       rect:
         serializedVersion: 2
-        x: 1677
+        x: 1581
         y: 819
         width: 7
         height: 12
@@ -7628,7 +7629,7 @@ TextureImporter:
       name: BG1_211
       rect:
         serializedVersion: 2
-        x: 1683
+        x: 1587
         y: 809
         width: 25
         height: 16
@@ -7650,7 +7651,7 @@ TextureImporter:
       name: BG1_212
       rect:
         serializedVersion: 2
-        x: 1818
+        x: 1722
         y: 711
         width: 138
         height: 120
@@ -7672,7 +7673,7 @@ TextureImporter:
       name: BG1_213
       rect:
         serializedVersion: 2
-        x: 678
+        x: 582
         y: 809
         width: 7
         height: 6
@@ -7694,7 +7695,7 @@ TextureImporter:
       name: BG1_214
       rect:
         serializedVersion: 2
-        x: 718
+        x: 622
         y: 805
         width: 12
         height: 12
@@ -7716,7 +7717,7 @@ TextureImporter:
       name: BG1_215
       rect:
         serializedVersion: 2
-        x: 730
+        x: 634
         y: 795
         width: 11
         height: 23
@@ -7738,7 +7739,7 @@ TextureImporter:
       name: BG1_216
       rect:
         serializedVersion: 2
-        x: 744
+        x: 648
         y: 778
         width: 44
         height: 41
@@ -7760,7 +7761,7 @@ TextureImporter:
       name: BG1_217
       rect:
         serializedVersion: 2
-        x: 832
+        x: 736
         y: 787
         width: 24
         height: 28
@@ -7782,7 +7783,7 @@ TextureImporter:
       name: BG1_218
       rect:
         serializedVersion: 2
-        x: 840
+        x: 744
         y: 813
         width: 7
         height: 7
@@ -7804,7 +7805,7 @@ TextureImporter:
       name: BG1_219
       rect:
         serializedVersion: 2
-        x: 848
+        x: 752
         y: 809
         width: 10
         height: 11
@@ -7826,7 +7827,7 @@ TextureImporter:
       name: BG1_220
       rect:
         serializedVersion: 2
-        x: 862
+        x: 766
         y: 789
         width: 14
         height: 25
@@ -7848,7 +7849,7 @@ TextureImporter:
       name: BG1_221
       rect:
         serializedVersion: 2
-        x: 884
+        x: 788
         y: 809
         width: 6
         height: 6
@@ -7870,7 +7871,7 @@ TextureImporter:
       name: BG1_222
       rect:
         serializedVersion: 2
-        x: 894
+        x: 798
         y: 793
         width: 14
         height: 24
@@ -7892,7 +7893,7 @@ TextureImporter:
       name: BG1_223
       rect:
         serializedVersion: 2
-        x: 1081
+        x: 985
         y: 802
         width: 16
         height: 19
@@ -7914,7 +7915,7 @@ TextureImporter:
       name: BG1_224
       rect:
         serializedVersion: 2
-        x: 1357
+        x: 1261
         y: 642
         width: 85
         height: 178
@@ -7936,7 +7937,7 @@ TextureImporter:
       name: BG1_225
       rect:
         serializedVersion: 2
-        x: 1369
+        x: 1273
         y: 810
         width: 6
         height: 7
@@ -7958,7 +7959,7 @@ TextureImporter:
       name: BG1_226
       rect:
         serializedVersion: 2
-        x: 1669
+        x: 1573
         y: 805
         width: 7
         height: 14
@@ -7980,7 +7981,7 @@ TextureImporter:
       name: BG1_227
       rect:
         serializedVersion: 2
-        x: 1673
+        x: 1577
         y: 796
         width: 24
         height: 17
@@ -8002,7 +8003,7 @@ TextureImporter:
       name: BG1_228
       rect:
         serializedVersion: 2
-        x: 580
+        x: 484
         y: 580
         width: 105
         height: 227
@@ -8024,7 +8025,7 @@ TextureImporter:
       name: BG1_229
       rect:
         serializedVersion: 2
-        x: 642
+        x: 546
         y: 775
         width: 29
         height: 23
@@ -8046,7 +8047,7 @@ TextureImporter:
       name: BG1_230
       rect:
         serializedVersion: 2
-        x: 661
+        x: 565
         y: 750
         width: 30
         height: 49
@@ -8068,7 +8069,7 @@ TextureImporter:
       name: BG1_231
       rect:
         serializedVersion: 2
-        x: 682
+        x: 586
         y: 794
         width: 6
         height: 8
@@ -8090,7 +8091,7 @@ TextureImporter:
       name: BG1_232
       rect:
         serializedVersion: 2
-        x: 745
+        x: 649
         y: 798
         width: 8
         height: 7
@@ -8112,7 +8113,7 @@ TextureImporter:
       name: BG1_233
       rect:
         serializedVersion: 2
-        x: 785
+        x: 689
         y: 774
         width: 31
         height: 30
@@ -8134,7 +8135,7 @@ TextureImporter:
       name: BG1_234
       rect:
         serializedVersion: 2
-        x: 837
+        x: 741
         y: 702
         width: 53
         height: 106
@@ -8156,7 +8157,7 @@ TextureImporter:
       name: BG1_235
       rect:
         serializedVersion: 2
-        x: 1424
+        x: 1328
         y: 784
         width: 8
         height: 28
@@ -8178,7 +8179,7 @@ TextureImporter:
       name: BG1_236
       rect:
         serializedVersion: 2
-        x: 1436
+        x: 1340
         y: 775
         width: 12
         height: 37
@@ -8200,7 +8201,7 @@ TextureImporter:
       name: BG1_237
       rect:
         serializedVersion: 2
-        x: 1623
+        x: 1527
         y: 798
         width: 7
         height: 7
@@ -8222,7 +8223,7 @@ TextureImporter:
       name: BG1_238
       rect:
         serializedVersion: 2
-        x: 1627
+        x: 1531
         y: 786
         width: 9
         height: 16
@@ -8244,7 +8245,7 @@ TextureImporter:
       name: BG1_239
       rect:
         serializedVersion: 2
-        x: 1636
+        x: 1540
         y: 798
         width: 8
         height: 7
@@ -8266,7 +8267,7 @@ TextureImporter:
       name: BG1_240
       rect:
         serializedVersion: 2
-        x: 1637
+        x: 1541
         y: 792
         width: 11
         height: 7
@@ -8288,7 +8289,7 @@ TextureImporter:
       name: BG1_241
       rect:
         serializedVersion: 2
-        x: 1644
+        x: 1548
         y: 773
         width: 26
         height: 33
@@ -8310,7 +8311,7 @@ TextureImporter:
       name: BG1_242
       rect:
         serializedVersion: 2
-        x: 1652
+        x: 1556
         y: 738
         width: 75
         height: 71
@@ -8332,7 +8333,7 @@ TextureImporter:
       name: BG1_243
       rect:
         serializedVersion: 2
-        x: 343
+        x: 247
         y: 746
         width: 33
         height: 43
@@ -8354,7 +8355,7 @@ TextureImporter:
       name: BG1_244
       rect:
         serializedVersion: 2
-        x: 399
+        x: 303
         y: 777
         width: 14
         height: 18
@@ -8376,7 +8377,7 @@ TextureImporter:
       name: BG1_245
       rect:
         serializedVersion: 2
-        x: 418
+        x: 322
         y: 773
         width: 13
         height: 19
@@ -8398,7 +8399,7 @@ TextureImporter:
       name: BG1_246
       rect:
         serializedVersion: 2
-        x: 429
+        x: 333
         y: 719
         width: 22
         height: 77
@@ -8420,7 +8421,7 @@ TextureImporter:
       name: BG1_247
       rect:
         serializedVersion: 2
-        x: 717
+        x: 621
         y: 780
         width: 6
         height: 12
@@ -8442,7 +8443,7 @@ TextureImporter:
       name: BG1_248
       rect:
         serializedVersion: 2
-        x: 737
+        x: 641
         y: 769
         width: 7
         height: 22
@@ -8464,7 +8465,7 @@ TextureImporter:
       name: BG1_249
       rect:
         serializedVersion: 2
-        x: 902
+        x: 806
         y: 789
         width: 6
         height: 7
@@ -8486,7 +8487,7 @@ TextureImporter:
       name: BG1_250
       rect:
         serializedVersion: 2
-        x: 1432
+        x: 1336
         y: 784
         width: 6
         height: 11
@@ -8508,7 +8509,7 @@ TextureImporter:
       name: BG1_251
       rect:
         serializedVersion: 2
-        x: 1637
+        x: 1541
         y: 781
         width: 6
         height: 11
@@ -8530,7 +8531,7 @@ TextureImporter:
       name: BG1_252
       rect:
         serializedVersion: 2
-        x: 1648
+        x: 1552
         y: 767
         width: 20
         height: 28
@@ -8552,7 +8553,7 @@ TextureImporter:
       name: BG1_253
       rect:
         serializedVersion: 2
-        x: 1724
+        x: 1628
         y: 777
         width: 18
         height: 16
@@ -8574,7 +8575,7 @@ TextureImporter:
       name: BG1_254
       rect:
         serializedVersion: 2
-        x: 282
+        x: 186
         y: 681
         width: 58
         height: 103
@@ -8596,7 +8597,7 @@ TextureImporter:
       name: BG1_255
       rect:
         serializedVersion: 2
-        x: 338
+        x: 242
         y: 773
         width: 9
         height: 14
@@ -8618,7 +8619,7 @@ TextureImporter:
       name: BG1_256
       rect:
         serializedVersion: 2
-        x: 377
+        x: 281
         y: 698
         width: 22
         height: 90
@@ -8640,7 +8641,7 @@ TextureImporter:
       name: BG1_257
       rect:
         serializedVersion: 2
-        x: 411
+        x: 315
         y: 763
         width: 9
         height: 18
@@ -8662,7 +8663,7 @@ TextureImporter:
       name: BG1_258
       rect:
         serializedVersion: 2
-        x: 431
+        x: 335
         y: 761
         width: 7
         height: 25
@@ -8684,7 +8685,7 @@ TextureImporter:
       name: BG1_259
       rect:
         serializedVersion: 2
-        x: 1616
+        x: 1520
         y: 781
         width: 6
         height: 6
@@ -8706,7 +8707,7 @@ TextureImporter:
       name: BG1_260
       rect:
         serializedVersion: 2
-        x: 1727
+        x: 1631
         y: 767
         width: 7
         height: 14
@@ -8728,7 +8729,7 @@ TextureImporter:
       name: BG1_261
       rect:
         serializedVersion: 2
-        x: 1738
+        x: 1642
         y: 761
         width: 12
         height: 23
@@ -8750,7 +8751,7 @@ TextureImporter:
       name: BG1_262
       rect:
         serializedVersion: 2
-        x: 1749
+        x: 1653
         y: 750
         width: 44
         height: 34
@@ -8772,7 +8773,7 @@ TextureImporter:
       name: BG1_263
       rect:
         serializedVersion: 2
-        x: 238
+        x: 142
         y: 766
         width: 10
         height: 10
@@ -8794,7 +8795,7 @@ TextureImporter:
       name: BG1_264
       rect:
         serializedVersion: 2
-        x: 248
+        x: 152
         y: 730
         width: 21
         height: 43
@@ -8816,7 +8817,7 @@ TextureImporter:
       name: BG1_265
       rect:
         serializedVersion: 2
-        x: 268
+        x: 172
         y: 733
         width: 21
         height: 40
@@ -8838,7 +8839,7 @@ TextureImporter:
       name: BG1_266
       rect:
         serializedVersion: 2
-        x: 336
+        x: 240
         y: 756
         width: 9
         height: 19
@@ -8860,7 +8861,7 @@ TextureImporter:
       name: BG1_267
       rect:
         serializedVersion: 2
-        x: 374
+        x: 278
         y: 770
         width: 6
         height: 6
@@ -8882,7 +8883,7 @@ TextureImporter:
       name: BG1_268
       rect:
         serializedVersion: 2
-        x: 397
+        x: 301
         y: 764
         width: 7
         height: 12
@@ -8904,7 +8905,7 @@ TextureImporter:
       name: BG1_269
       rect:
         serializedVersion: 2
-        x: 404
+        x: 308
         y: 769
         width: 9
         height: 7
@@ -8926,7 +8927,7 @@ TextureImporter:
       name: BG1_270
       rect:
         serializedVersion: 2
-        x: 450
+        x: 354
         y: 754
         width: 17
         height: 26
@@ -8948,7 +8949,7 @@ TextureImporter:
       name: BG1_271
       rect:
         serializedVersion: 2
-        x: 734
+        x: 638
         y: 760
         width: 16
         height: 14
@@ -8970,7 +8971,7 @@ TextureImporter:
       name: BG1_272
       rect:
         serializedVersion: 2
-        x: 740
+        x: 644
         y: 743
         width: 22
         height: 34
@@ -8992,7 +8993,7 @@ TextureImporter:
       name: BG1_273
       rect:
         serializedVersion: 2
-        x: 761
+        x: 665
         y: 734
         width: 50
         height: 39
@@ -9014,7 +9015,7 @@ TextureImporter:
       name: BG1_274
       rect:
         serializedVersion: 2
-        x: 1676
+        x: 1580
         y: 759
         width: 18
         height: 21
@@ -9036,7 +9037,7 @@ TextureImporter:
       name: BG1_275
       rect:
         serializedVersion: 2
-        x: 1702
+        x: 1606
         y: 761
         width: 9
         height: 13
@@ -9058,7 +9059,7 @@ TextureImporter:
       name: BG1_276
       rect:
         serializedVersion: 2
-        x: 1732
+        x: 1636
         y: 762
         width: 9
         height: 14
@@ -9080,7 +9081,7 @@ TextureImporter:
       name: BG1_277
       rect:
         serializedVersion: 2
-        x: 1848
+        x: 1752
         y: 773
         width: 9
         height: 7
@@ -9102,7 +9103,7 @@ TextureImporter:
       name: BG1_278
       rect:
         serializedVersion: 2
-        x: 1876
+        x: 1780
         y: 762
         width: 13
         height: 14
@@ -9124,7 +9125,7 @@ TextureImporter:
       name: BG1_279
       rect:
         serializedVersion: 2
-        x: 1899
+        x: 1803
         y: 765
         width: 6
         height: 8
@@ -9146,7 +9147,7 @@ TextureImporter:
       name: BG1_280
       rect:
         serializedVersion: 2
-        x: 1911
+        x: 1815
         y: 768
         width: 9
         height: 8
@@ -9168,7 +9169,7 @@ TextureImporter:
       name: BG1_281
       rect:
         serializedVersion: 2
-        x: 332
+        x: 236
         y: 760
         width: 6
         height: 11
@@ -9190,7 +9191,7 @@ TextureImporter:
       name: BG1_282
       rect:
         serializedVersion: 2
-        x: 365
+        x: 269
         y: 734
         width: 18
         height: 30
@@ -9212,7 +9213,7 @@ TextureImporter:
       name: BG1_283
       rect:
         serializedVersion: 2
-        x: 393
+        x: 297
         y: 749
         width: 10
         height: 15
@@ -9234,7 +9235,7 @@ TextureImporter:
       name: BG1_284
       rect:
         serializedVersion: 2
-        x: 404
+        x: 308
         y: 762
         width: 6
         height: 7
@@ -9256,7 +9257,7 @@ TextureImporter:
       name: BG1_285
       rect:
         serializedVersion: 2
-        x: 408
+        x: 312
         y: 744
         width: 9
         height: 19
@@ -9278,7 +9279,7 @@ TextureImporter:
       name: BG1_286
       rect:
         serializedVersion: 2
-        x: 412
+        x: 316
         y: 711
         width: 16
         height: 53
@@ -9300,7 +9301,7 @@ TextureImporter:
       name: BG1_287
       rect:
         serializedVersion: 2
-        x: 421
+        x: 325
         y: 758
         width: 7
         height: 11
@@ -9322,7 +9323,7 @@ TextureImporter:
       name: BG1_288
       rect:
         serializedVersion: 2
-        x: 673
+        x: 577
         y: 685
         width: 33
         height: 84
@@ -9344,7 +9345,7 @@ TextureImporter:
       name: BG1_289
       rect:
         serializedVersion: 2
-        x: 723
+        x: 627
         y: 754
         width: 9
         height: 11
@@ -9366,7 +9367,7 @@ TextureImporter:
       name: BG1_290
       rect:
         serializedVersion: 2
-        x: 733
+        x: 637
         y: 755
         width: 9
         height: 7
@@ -9388,7 +9389,7 @@ TextureImporter:
       name: BG1_291
       rect:
         serializedVersion: 2
-        x: 1628
+        x: 1532
         y: 762
         width: 6
         height: 7
@@ -9410,7 +9411,7 @@ TextureImporter:
       name: BG1_292
       rect:
         serializedVersion: 2
-        x: 1679
+        x: 1583
         y: 747
         width: 10
         height: 18
@@ -9432,7 +9433,7 @@ TextureImporter:
       name: BG1_293
       rect:
         serializedVersion: 2
-        x: 1693
+        x: 1597
         y: 760
         width: 9
         height: 7
@@ -9454,7 +9455,7 @@ TextureImporter:
       name: BG1_294
       rect:
         serializedVersion: 2
-        x: 1730
+        x: 1634
         y: 736
         width: 27
         height: 31
@@ -9476,7 +9477,7 @@ TextureImporter:
       name: BG1_295
       rect:
         serializedVersion: 2
-        x: 1861
+        x: 1765
         y: 758
         width: 14
         height: 12
@@ -9498,7 +9499,7 @@ TextureImporter:
       name: BG1_296
       rect:
         serializedVersion: 2
-        x: 1870
+        x: 1774
         y: 693
         width: 54
         height: 75
@@ -9520,7 +9521,7 @@ TextureImporter:
       name: BG1_297
       rect:
         serializedVersion: 2
-        x: 1889
+        x: 1793
         y: 761
         width: 11
         height: 10
@@ -9542,7 +9543,7 @@ TextureImporter:
       name: BG1_298
       rect:
         serializedVersion: 2
-        x: 1898
+        x: 1802
         y: 754
         width: 10
         height: 10
@@ -9564,7 +9565,7 @@ TextureImporter:
       name: BG1_299
       rect:
         serializedVersion: 2
-        x: 1926
+        x: 1830
         y: 745
         width: 25
         height: 22
@@ -9586,7 +9587,7 @@ TextureImporter:
       name: BG1_300
       rect:
         serializedVersion: 2
-        x: 1931
+        x: 1835
         y: 759
         width: 7
         height: 9
@@ -9608,7 +9609,7 @@ TextureImporter:
       name: BG1_301
       rect:
         serializedVersion: 2
-        x: 1952
+        x: 1856
         y: 726
         width: 23
         height: 36
@@ -9630,7 +9631,7 @@ TextureImporter:
       name: BG1_302
       rect:
         serializedVersion: 2
-        x: 338
+        x: 242
         y: 749
         width: 6
         height: 8
@@ -9652,7 +9653,7 @@ TextureImporter:
       name: BG1_303
       rect:
         serializedVersion: 2
-        x: 343
+        x: 247
         y: 730
         width: 9
         height: 22
@@ -9674,7 +9675,7 @@ TextureImporter:
       name: BG1_304
       rect:
         serializedVersion: 2
-        x: 398
+        x: 302
         y: 749
         width: 6
         height: 7
@@ -9696,7 +9697,7 @@ TextureImporter:
       name: BG1_305
       rect:
         serializedVersion: 2
-        x: 403
+        x: 307
         y: 749
         width: 7
         height: 12
@@ -9718,7 +9719,7 @@ TextureImporter:
       name: BG1_306
       rect:
         serializedVersion: 2
-        x: 642
+        x: 546
         y: 740
         width: 11
         height: 16
@@ -9740,7 +9741,7 @@ TextureImporter:
       name: BG1_307
       rect:
         serializedVersion: 2
-        x: 706
+        x: 610
         y: 702
         width: 23
         height: 52
@@ -9762,7 +9763,7 @@ TextureImporter:
       name: BG1_308
       rect:
         serializedVersion: 2
-        x: 718
+        x: 622
         y: 723
         width: 23
         height: 33
@@ -9784,7 +9785,7 @@ TextureImporter:
       name: BG1_309
       rect:
         serializedVersion: 2
-        x: 725
+        x: 629
         y: 744
         width: 6
         height: 12
@@ -9806,7 +9807,7 @@ TextureImporter:
       name: BG1_310
       rect:
         serializedVersion: 2
-        x: 1086
+        x: 990
         y: 747
         width: 6
         height: 7
@@ -9828,7 +9829,7 @@ TextureImporter:
       name: BG1_311
       rect:
         serializedVersion: 2
-        x: 1544
+        x: 1448
         y: 709
         width: 17
         height: 47
@@ -9850,7 +9851,7 @@ TextureImporter:
       name: BG1_312
       rect:
         serializedVersion: 2
-        x: 1689
+        x: 1593
         y: 750
         width: 9
         height: 10
@@ -9872,7 +9873,7 @@ TextureImporter:
       name: BG1_313
       rect:
         serializedVersion: 2
-        x: 1697
+        x: 1601
         y: 750
         width: 18
         height: 10
@@ -9894,7 +9895,7 @@ TextureImporter:
       name: BG1_314
       rect:
         serializedVersion: 2
-        x: 1701
+        x: 1605
         y: 745
         width: 6
         height: 7
@@ -9916,7 +9917,7 @@ TextureImporter:
       name: BG1_315
       rect:
         serializedVersion: 2
-        x: 1708
+        x: 1612
         y: 743
         width: 7
         height: 9
@@ -9938,7 +9939,7 @@ TextureImporter:
       name: BG1_316
       rect:
         serializedVersion: 2
-        x: 1715
+        x: 1619
         y: 747
         width: 8
         height: 11
@@ -9960,7 +9961,7 @@ TextureImporter:
       name: BG1_317
       rect:
         serializedVersion: 2
-        x: 1722
+        x: 1626
         y: 742
         width: 10
         height: 19
@@ -9982,7 +9983,7 @@ TextureImporter:
       name: BG1_318
       rect:
         serializedVersion: 2
-        x: 1752
+        x: 1656
         y: 743
         width: 15
         height: 17
@@ -10004,7 +10005,7 @@ TextureImporter:
       name: BG1_319
       rect:
         serializedVersion: 2
-        x: 1843
+        x: 1747
         y: 752
         width: 7
         height: 8
@@ -10026,7 +10027,7 @@ TextureImporter:
       name: BG1_320
       rect:
         serializedVersion: 2
-        x: 1844
+        x: 1748
         y: 671
         width: 44
         height: 89
@@ -10048,9 +10049,9 @@ TextureImporter:
       name: BG1_321
       rect:
         serializedVersion: 2
-        x: 95
+        x: 0
         y: 706
-        width: 80
+        width: 79
         height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -10070,7 +10071,7 @@ TextureImporter:
       name: BG1_322
       rect:
         serializedVersion: 2
-        x: 210
+        x: 114
         y: 718
         width: 43
         height: 33
@@ -10092,7 +10093,7 @@ TextureImporter:
       name: BG1_323
       rect:
         serializedVersion: 2
-        x: 337
+        x: 241
         y: 742
         width: 6
         height: 7
@@ -10114,7 +10115,7 @@ TextureImporter:
       name: BG1_324
       rect:
         serializedVersion: 2
-        x: 337
+        x: 241
         y: 735
         width: 6
         height: 8
@@ -10136,7 +10137,7 @@ TextureImporter:
       name: BG1_325
       rect:
         serializedVersion: 2
-        x: 351
+        x: 255
         y: 722
         width: 20
         height: 29
@@ -10158,7 +10159,7 @@ TextureImporter:
       name: BG1_326
       rect:
         serializedVersion: 2
-        x: 398
+        x: 302
         y: 722
         width: 6
         height: 27
@@ -10180,7 +10181,7 @@ TextureImporter:
       name: BG1_327
       rect:
         serializedVersion: 2
-        x: 404
+        x: 308
         y: 731
         width: 8
         height: 17
@@ -10202,7 +10203,7 @@ TextureImporter:
       name: BG1_328
       rect:
         serializedVersion: 2
-        x: 675
+        x: 579
         y: 742
         width: 9
         height: 8
@@ -10224,7 +10225,7 @@ TextureImporter:
       name: BG1_329
       rect:
         serializedVersion: 2
-        x: 876
+        x: 780
         y: 742
         width: 7
         height: 6
@@ -10246,7 +10247,7 @@ TextureImporter:
       name: BG1_330
       rect:
         serializedVersion: 2
-        x: 890
+        x: 794
         y: 655
         width: 61
         height: 95
@@ -10268,7 +10269,7 @@ TextureImporter:
       name: BG1_331
       rect:
         serializedVersion: 2
-        x: 1080
+        x: 984
         y: 734
         width: 6
         height: 11
@@ -10290,7 +10291,7 @@ TextureImporter:
       name: BG1_332
       rect:
         serializedVersion: 2
-        x: 1523
+        x: 1427
         y: 736
         width: 6
         height: 8
@@ -10312,7 +10313,7 @@ TextureImporter:
       name: BG1_333
       rect:
         serializedVersion: 2
-        x: 1530
+        x: 1434
         y: 735
         width: 9
         height: 13
@@ -10334,7 +10335,7 @@ TextureImporter:
       name: BG1_334
       rect:
         serializedVersion: 2
-        x: 1567
+        x: 1471
         y: 693
         width: 19
         height: 56
@@ -10356,7 +10357,7 @@ TextureImporter:
       name: BG1_335
       rect:
         serializedVersion: 2
-        x: 1693
+        x: 1597
         y: 733
         width: 10
         height: 17
@@ -10378,7 +10379,7 @@ TextureImporter:
       name: BG1_336
       rect:
         serializedVersion: 2
-        x: 1708
+        x: 1612
         y: 731
         width: 8
         height: 11
@@ -10400,7 +10401,7 @@ TextureImporter:
       name: BG1_337
       rect:
         serializedVersion: 2
-        x: 1746
+        x: 1650
         y: 706
         width: 49
         height: 38
@@ -10422,7 +10423,7 @@ TextureImporter:
       name: BG1_338
       rect:
         serializedVersion: 2
-        x: 1766
+        x: 1670
         y: 741
         width: 14
         height: 10
@@ -10444,7 +10445,7 @@ TextureImporter:
       name: BG1_339
       rect:
         serializedVersion: 2
-        x: 1794
+        x: 1698
         y: 730
         width: 9
         height: 14
@@ -10466,7 +10467,7 @@ TextureImporter:
       name: BG1_340
       rect:
         serializedVersion: 2
-        x: 262
+        x: 166
         y: 731
         width: 8
         height: 8
@@ -10488,7 +10489,7 @@ TextureImporter:
       name: BG1_341
       rect:
         serializedVersion: 2
-        x: 319
+        x: 223
         y: 683
         width: 50
         height: 50
@@ -10510,7 +10511,7 @@ TextureImporter:
       name: BG1_342
       rect:
         serializedVersion: 2
-        x: 340
+        x: 244
         y: 700
         width: 14
         height: 32
@@ -10532,7 +10533,7 @@ TextureImporter:
       name: BG1_343
       rect:
         serializedVersion: 2
-        x: 361
+        x: 265
         y: 696
         width: 21
         height: 40
@@ -10554,7 +10555,7 @@ TextureImporter:
       name: BG1_344
       rect:
         serializedVersion: 2
-        x: 400
+        x: 304
         y: 702
         width: 11
         height: 30
@@ -10576,7 +10577,7 @@ TextureImporter:
       name: BG1_345
       rect:
         serializedVersion: 2
-        x: 702
+        x: 606
         y: 725
         width: 9
         height: 12
@@ -10598,7 +10599,7 @@ TextureImporter:
       name: BG1_346
       rect:
         serializedVersion: 2
-        x: 738
+        x: 642
         y: 728
         width: 7
         height: 8
@@ -10620,7 +10621,7 @@ TextureImporter:
       name: BG1_347
       rect:
         serializedVersion: 2
-        x: 745
+        x: 649
         y: 704
         width: 26
         height: 28
@@ -10642,7 +10643,7 @@ TextureImporter:
       name: BG1_348
       rect:
         serializedVersion: 2
-        x: 944
+        x: 848
         y: 671
         width: 56
         height: 64
@@ -10664,7 +10665,7 @@ TextureImporter:
       name: BG1_349
       rect:
         serializedVersion: 2
-        x: 997
+        x: 901
         y: 721
         width: 6
         height: 12
@@ -10686,7 +10687,7 @@ TextureImporter:
       name: BG1_350
       rect:
         serializedVersion: 2
-        x: 1796
+        x: 1700
         y: 674
         width: 82
         height: 64
@@ -10708,7 +10709,7 @@ TextureImporter:
       name: BG1_351
       rect:
         serializedVersion: 2
-        x: 1933
+        x: 1837
         y: 729
         width: 8
         height: 9
@@ -10730,10 +10731,10 @@ TextureImporter:
       name: BG1_352
       rect:
         serializedVersion: 2
-        x: 12
-        y: 133
-        width: 619
-        height: 587
+        x: 0
+        y: 138
+        width: 535
+        height: 582
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10752,7 +10753,7 @@ TextureImporter:
       name: BG1_353
       rect:
         serializedVersion: 2
-        x: 256
+        x: 160
         y: 709
         width: 17
         height: 19
@@ -10774,7 +10775,7 @@ TextureImporter:
       name: BG1_354
       rect:
         serializedVersion: 2
-        x: 274
+        x: 178
         y: 710
         width: 11
         height: 9
@@ -10796,7 +10797,7 @@ TextureImporter:
       name: BG1_355
       rect:
         serializedVersion: 2
-        x: 420
+        x: 324
         y: 711
         width: 6
         height: 14
@@ -10818,7 +10819,7 @@ TextureImporter:
       name: BG1_356
       rect:
         serializedVersion: 2
-        x: 734
+        x: 638
         y: 710
         width: 11
         height: 19
@@ -10840,7 +10841,7 @@ TextureImporter:
       name: BG1_357
       rect:
         serializedVersion: 2
-        x: 738
+        x: 642
         y: 542
         width: 107
         height: 169
@@ -10862,7 +10863,7 @@ TextureImporter:
       name: BG1_358
       rect:
         serializedVersion: 2
-        x: 772
+        x: 676
         y: 709
         width: 11
         height: 16
@@ -10884,7 +10885,7 @@ TextureImporter:
       name: BG1_359
       rect:
         serializedVersion: 2
-        x: 783
+        x: 687
         y: 710
         width: 8
         height: 12
@@ -10906,7 +10907,7 @@ TextureImporter:
       name: BG1_360
       rect:
         serializedVersion: 2
-        x: 787
+        x: 691
         y: 697
         width: 25
         height: 21
@@ -10928,7 +10929,7 @@ TextureImporter:
       name: BG1_361
       rect:
         serializedVersion: 2
-        x: 815
+        x: 719
         y: 705
         width: 6
         height: 6
@@ -10950,7 +10951,7 @@ TextureImporter:
       name: BG1_362
       rect:
         serializedVersion: 2
-        x: 848
+        x: 752
         y: 706
         width: 7
         height: 7
@@ -10972,7 +10973,7 @@ TextureImporter:
       name: BG1_363
       rect:
         serializedVersion: 2
-        x: 866
+        x: 770
         y: 709
         width: 10
         height: 14
@@ -10994,7 +10995,7 @@ TextureImporter:
       name: BG1_364
       rect:
         serializedVersion: 2
-        x: 912
+        x: 816
         y: 700
         width: 7
         height: 10
@@ -11016,7 +11017,7 @@ TextureImporter:
       name: BG1_365
       rect:
         serializedVersion: 2
-        x: 940
+        x: 844
         y: 696
         width: 11
         height: 15
@@ -11038,7 +11039,7 @@ TextureImporter:
       name: BG1_366
       rect:
         serializedVersion: 2
-        x: 995
+        x: 899
         y: 699
         width: 10
         height: 21
@@ -11060,7 +11061,7 @@ TextureImporter:
       name: BG1_367
       rect:
         serializedVersion: 2
-        x: 1003
+        x: 907
         y: 689
         width: 6
         height: 21
@@ -11082,7 +11083,7 @@ TextureImporter:
       name: BG1_368
       rect:
         serializedVersion: 2
-        x: 1007
+        x: 911
         y: 706
         width: 12
         height: 13
@@ -11104,7 +11105,7 @@ TextureImporter:
       name: BG1_369
       rect:
         serializedVersion: 2
-        x: 1017
+        x: 921
         y: 712
         width: 8
         height: 14
@@ -11126,7 +11127,7 @@ TextureImporter:
       name: BG1_370
       rect:
         serializedVersion: 2
-        x: 1039
+        x: 943
         y: 700
         width: 7
         height: 13
@@ -11148,7 +11149,7 @@ TextureImporter:
       name: BG1_371
       rect:
         serializedVersion: 2
-        x: 1044
+        x: 948
         y: 711
         width: 7
         height: 12
@@ -11170,7 +11171,7 @@ TextureImporter:
       name: BG1_372
       rect:
         serializedVersion: 2
-        x: 1754
+        x: 1658
         y: 717
         width: 8
         height: 12
@@ -11192,7 +11193,7 @@ TextureImporter:
       name: BG1_373
       rect:
         serializedVersion: 2
-        x: 1782
+        x: 1686
         y: 703
         width: 6
         height: 9
@@ -11214,7 +11215,7 @@ TextureImporter:
       name: BG1_374
       rect:
         serializedVersion: 2
-        x: 1784
+        x: 1688
         y: 715
         width: 6
         height: 12
@@ -11236,7 +11237,7 @@ TextureImporter:
       name: BG1_375
       rect:
         serializedVersion: 2
-        x: 1924
+        x: 1828
         y: 698
         width: 13
         height: 16
@@ -11258,7 +11259,7 @@ TextureImporter:
       name: BG1_376
       rect:
         serializedVersion: 2
-        x: 1956
+        x: 1860
         y: 700
         width: 18
         height: 24
@@ -11280,7 +11281,7 @@ TextureImporter:
       name: BG1_377
       rect:
         serializedVersion: 2
-        x: 112
+        x: 16
         y: 699
         width: 6
         height: 6
@@ -11302,7 +11303,7 @@ TextureImporter:
       name: BG1_378
       rect:
         serializedVersion: 2
-        x: 253
+        x: 157
         y: 691
         width: 7
         height: 11
@@ -11324,7 +11325,7 @@ TextureImporter:
       name: BG1_379
       rect:
         serializedVersion: 2
-        x: 261
+        x: 165
         y: 697
         width: 6
         height: 12
@@ -11346,7 +11347,7 @@ TextureImporter:
       name: BG1_380
       rect:
         serializedVersion: 2
-        x: 265
+        x: 169
         y: 687
         width: 8
         height: 14
@@ -11368,7 +11369,7 @@ TextureImporter:
       name: BG1_381
       rect:
         serializedVersion: 2
-        x: 733
+        x: 637
         y: 691
         width: 19
         height: 16
@@ -11390,7 +11391,7 @@ TextureImporter:
       name: BG1_382
       rect:
         serializedVersion: 2
-        x: 752
+        x: 656
         y: 684
         width: 20
         height: 17
@@ -11412,7 +11413,7 @@ TextureImporter:
       name: BG1_383
       rect:
         serializedVersion: 2
-        x: 817
+        x: 721
         y: 699
         width: 10
         height: 8
@@ -11434,7 +11435,7 @@ TextureImporter:
       name: BG1_384
       rect:
         serializedVersion: 2
-        x: 843
+        x: 747
         y: 622
         width: 39
         height: 78
@@ -11456,7 +11457,7 @@ TextureImporter:
       name: BG1_385
       rect:
         serializedVersion: 2
-        x: 991
+        x: 895
         y: 685
         width: 10
         height: 15
@@ -11478,7 +11479,7 @@ TextureImporter:
       name: BG1_386
       rect:
         serializedVersion: 2
-        x: 1011
+        x: 915
         y: 694
         width: 11
         height: 13
@@ -11500,7 +11501,7 @@ TextureImporter:
       name: BG1_387
       rect:
         serializedVersion: 2
-        x: 1032
+        x: 936
         y: 700
         width: 7
         height: 7
@@ -11522,7 +11523,7 @@ TextureImporter:
       name: BG1_388
       rect:
         serializedVersion: 2
-        x: 1926
+        x: 1830
         y: 685
         width: 14
         height: 16
@@ -11544,7 +11545,7 @@ TextureImporter:
       name: BG1_389
       rect:
         serializedVersion: 2
-        x: 1935
+        x: 1839
         y: 699
         width: 6
         height: 10
@@ -11566,7 +11567,7 @@ TextureImporter:
       name: BG1_390
       rect:
         serializedVersion: 2
-        x: 1940
+        x: 1844
         y: 687
         width: 23
         height: 21
@@ -11588,7 +11589,7 @@ TextureImporter:
       name: BG1_391
       rect:
         serializedVersion: 2
-        x: 827
+        x: 731
         y: 681
         width: 11
         height: 12
@@ -11610,7 +11611,7 @@ TextureImporter:
       name: BG1_392
       rect:
         serializedVersion: 2
-        x: 836
+        x: 740
         y: 688
         width: 9
         height: 11
@@ -11632,7 +11633,7 @@ TextureImporter:
       name: BG1_393
       rect:
         serializedVersion: 2
-        x: 906
+        x: 810
         y: 674
         width: 11
         height: 20
@@ -11654,7 +11655,7 @@ TextureImporter:
       name: BG1_394
       rect:
         serializedVersion: 2
-        x: 939
+        x: 843
         y: 671
         width: 13
         height: 17
@@ -11676,7 +11677,7 @@ TextureImporter:
       name: BG1_395
       rect:
         serializedVersion: 2
-        x: 1564
+        x: 1468
         y: 684
         width: 18
         height: 9
@@ -11698,7 +11699,7 @@ TextureImporter:
       name: BG1_396
       rect:
         serializedVersion: 2
-        x: 1916
+        x: 1820
         y: 684
         width: 6
         height: 9
@@ -11720,7 +11721,7 @@ TextureImporter:
       name: BG1_397
       rect:
         serializedVersion: 2
-        x: 1947
+        x: 1851
         y: 678
         width: 11
         height: 10
@@ -11742,7 +11743,7 @@ TextureImporter:
       name: BG1_398
       rect:
         serializedVersion: 2
-        x: 1958
+        x: 1862
         y: 677
         width: 19
         height: 19
@@ -11764,7 +11765,7 @@ TextureImporter:
       name: BG1_399
       rect:
         serializedVersion: 2
-        x: 1973
+        x: 1877
         y: 678
         width: 6
         height: 10
@@ -11786,7 +11787,7 @@ TextureImporter:
       name: BG1_400
       rect:
         serializedVersion: 2
-        x: 834
+        x: 738
         y: 673
         width: 13
         height: 13
@@ -11808,7 +11809,7 @@ TextureImporter:
       name: BG1_401
       rect:
         serializedVersion: 2
-        x: 835
+        x: 739
         y: 660
         width: 14
         height: 13
@@ -11830,7 +11831,7 @@ TextureImporter:
       name: BG1_402
       rect:
         serializedVersion: 2
-        x: 876
+        x: 780
         y: 673
         width: 6
         height: 8
@@ -11852,7 +11853,7 @@ TextureImporter:
       name: BG1_403
       rect:
         serializedVersion: 2
-        x: 965
+        x: 869
         y: 672
         width: 8
         height: 9
@@ -11874,7 +11875,7 @@ TextureImporter:
       name: BG1_404
       rect:
         serializedVersion: 2
-        x: 1542
+        x: 1446
         y: 662
         width: 15
         height: 18
@@ -11896,7 +11897,7 @@ TextureImporter:
       name: BG1_405
       rect:
         serializedVersion: 2
-        x: 1554
+        x: 1458
         y: 572
         width: 67
         height: 115
@@ -11918,7 +11919,7 @@ TextureImporter:
       name: BG1_406
       rect:
         serializedVersion: 2
-        x: 1577
+        x: 1481
         y: 674
         width: 8
         height: 6
@@ -11940,10 +11941,10 @@ TextureImporter:
       name: BG1_407
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 132
-        width: 532
-        height: 554
+        x: 1500
+        y: 138
+        width: 420
+        height: 548
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -11962,7 +11963,7 @@ TextureImporter:
       name: BG1_408
       rect:
         serializedVersion: 2
-        x: 1654
+        x: 1558
         y: 669
         width: 20
         height: 13
@@ -11984,7 +11985,7 @@ TextureImporter:
       name: BG1_409
       rect:
         serializedVersion: 2
-        x: 1681
+        x: 1585
         y: 661
         width: 9
         height: 22
@@ -12006,7 +12007,7 @@ TextureImporter:
       name: BG1_410
       rect:
         serializedVersion: 2
-        x: 1691
+        x: 1595
         y: 662
         width: 9
         height: 17
@@ -12028,7 +12029,7 @@ TextureImporter:
       name: BG1_411
       rect:
         serializedVersion: 2
-        x: 1940
+        x: 1844
         y: 672
         width: 7
         height: 8
@@ -12050,7 +12051,7 @@ TextureImporter:
       name: BG1_412
       rect:
         serializedVersion: 2
-        x: 1947
+        x: 1851
         y: 667
         width: 7
         height: 14
@@ -12072,7 +12073,7 @@ TextureImporter:
       name: BG1_413
       rect:
         serializedVersion: 2
-        x: 1965
+        x: 1869
         y: 663
         width: 6
         height: 19
@@ -12094,7 +12095,7 @@ TextureImporter:
       name: BG1_414
       rect:
         serializedVersion: 2
-        x: 826
+        x: 730
         y: 655
         width: 6
         height: 9
@@ -12116,7 +12117,7 @@ TextureImporter:
       name: BG1_415
       rect:
         serializedVersion: 2
-        x: 900
+        x: 804
         y: 650
         width: 14
         height: 18
@@ -12138,7 +12139,7 @@ TextureImporter:
       name: BG1_416
       rect:
         serializedVersion: 2
-        x: 910
+        x: 814
         y: 655
         width: 7
         height: 7
@@ -12160,7 +12161,7 @@ TextureImporter:
       name: BG1_417
       rect:
         serializedVersion: 2
-        x: 916
+        x: 820
         y: 649
         width: 13
         height: 7
@@ -12182,7 +12183,7 @@ TextureImporter:
       name: BG1_418
       rect:
         serializedVersion: 2
-        x: 928
+        x: 832
         y: 637
         width: 19
         height: 19
@@ -12204,7 +12205,7 @@ TextureImporter:
       name: BG1_419
       rect:
         serializedVersion: 2
-        x: 931
+        x: 835
         y: 656
         width: 6
         height: 7
@@ -12226,7 +12227,7 @@ TextureImporter:
       name: BG1_420
       rect:
         serializedVersion: 2
-        x: 1545
+        x: 1449
         y: 648
         width: 9
         height: 16
@@ -12248,7 +12249,7 @@ TextureImporter:
       name: BG1_421
       rect:
         serializedVersion: 2
-        x: 1551
+        x: 1455
         y: 614
         width: 11
         height: 44
@@ -12270,7 +12271,7 @@ TextureImporter:
       name: BG1_422
       rect:
         serializedVersion: 2
-        x: 1595
+        x: 1499
         y: 614
         width: 13
         height: 47
@@ -12292,7 +12293,7 @@ TextureImporter:
       name: BG1_423
       rect:
         serializedVersion: 2
-        x: 1607
+        x: 1511
         y: 654
         width: 6
         height: 6
@@ -12314,7 +12315,7 @@ TextureImporter:
       name: BG1_424
       rect:
         serializedVersion: 2
-        x: 1614
+        x: 1518
         y: 648
         width: 7
         height: 13
@@ -12336,7 +12337,7 @@ TextureImporter:
       name: BG1_425
       rect:
         serializedVersion: 2
-        x: 815
+        x: 719
         y: 644
         width: 6
         height: 6
@@ -12358,7 +12359,7 @@ TextureImporter:
       name: BG1_426
       rect:
         serializedVersion: 2
-        x: 836
+        x: 740
         y: 639
         width: 6
         height: 6
@@ -12380,7 +12381,7 @@ TextureImporter:
       name: BG1_427
       rect:
         serializedVersion: 2
-        x: 836
+        x: 740
         y: 631
         width: 6
         height: 8
@@ -12402,7 +12403,7 @@ TextureImporter:
       name: BG1_428
       rect:
         serializedVersion: 2
-        x: 840
+        x: 744
         y: 624
         width: 9
         height: 14
@@ -12424,7 +12425,7 @@ TextureImporter:
       name: BG1_429
       rect:
         serializedVersion: 2
-        x: 854
+        x: 758
         y: 638
         width: 6
         height: 7
@@ -12446,7 +12447,7 @@ TextureImporter:
       name: BG1_430
       rect:
         serializedVersion: 2
-        x: 869
+        x: 773
         y: 621
         width: 12
         height: 17
@@ -12468,7 +12469,7 @@ TextureImporter:
       name: BG1_431
       rect:
         serializedVersion: 2
-        x: 880
+        x: 784
         y: 617
         width: 9
         height: 23
@@ -12490,7 +12491,7 @@ TextureImporter:
       name: BG1_432
       rect:
         serializedVersion: 2
-        x: 889
+        x: 793
         y: 637
         width: 8
         height: 18
@@ -12512,7 +12513,7 @@ TextureImporter:
       name: BG1_433
       rect:
         serializedVersion: 2
-        x: 900
+        x: 804
         y: 628
         width: 11
         height: 10
@@ -12534,7 +12535,7 @@ TextureImporter:
       name: BG1_434
       rect:
         serializedVersion: 2
-        x: 901
+        x: 805
         y: 637
         width: 10
         height: 14
@@ -12556,7 +12557,7 @@ TextureImporter:
       name: BG1_435
       rect:
         serializedVersion: 2
-        x: 907
+        x: 811
         y: 626
         width: 29
         height: 24
@@ -12578,7 +12579,7 @@ TextureImporter:
       name: BG1_436
       rect:
         serializedVersion: 2
-        x: 1157
+        x: 1061
         y: 220
         width: 218
         height: 434
@@ -12600,7 +12601,7 @@ TextureImporter:
       name: BG1_437
       rect:
         serializedVersion: 2
-        x: 1472
+        x: 1376
         y: 643
         width: 6
         height: 12
@@ -12622,7 +12623,7 @@ TextureImporter:
       name: BG1_438
       rect:
         serializedVersion: 2
-        x: 1531
+        x: 1435
         y: 618
         width: 7
         height: 32
@@ -12644,7 +12645,7 @@ TextureImporter:
       name: BG1_439
       rect:
         serializedVersion: 2
-        x: 1538
+        x: 1442
         y: 631
         width: 17
         height: 24
@@ -12666,7 +12667,7 @@ TextureImporter:
       name: BG1_440
       rect:
         serializedVersion: 2
-        x: 1579
+        x: 1483
         y: 620
         width: 10
         height: 24
@@ -12688,7 +12689,7 @@ TextureImporter:
       name: BG1_441
       rect:
         serializedVersion: 2
-        x: 1589
+        x: 1493
         y: 632
         width: 8
         height: 8
@@ -12710,7 +12711,7 @@ TextureImporter:
       name: BG1_442
       rect:
         serializedVersion: 2
-        x: 1591
+        x: 1495
         y: 646
         width: 6
         height: 8
@@ -12732,7 +12733,7 @@ TextureImporter:
       name: BG1_443
       rect:
         serializedVersion: 2
-        x: 1610
+        x: 1514
         y: 621
         width: 8
         height: 19
@@ -12754,7 +12755,7 @@ TextureImporter:
       name: BG1_444
       rect:
         serializedVersion: 2
-        x: 1619
+        x: 1523
         y: 622
         width: 6
         height: 17
@@ -12776,7 +12777,7 @@ TextureImporter:
       name: BG1_445
       rect:
         serializedVersion: 2
-        x: 1621
+        x: 1525
         y: 644
         width: 7
         height: 11
@@ -12798,7 +12799,7 @@ TextureImporter:
       name: BG1_446
       rect:
         serializedVersion: 2
-        x: 1624
+        x: 1528
         y: 623
         width: 9
         height: 14
@@ -12820,7 +12821,7 @@ TextureImporter:
       name: BG1_447
       rect:
         serializedVersion: 2
-        x: 1625
+        x: 1529
         y: 642
         width: 8
         height: 10
@@ -12842,7 +12843,7 @@ TextureImporter:
       name: BG1_448
       rect:
         serializedVersion: 2
-        x: 822
+        x: 726
         y: 624
         width: 7
         height: 8
@@ -12864,7 +12865,7 @@ TextureImporter:
       name: BG1_449
       rect:
         serializedVersion: 2
-        x: 830
+        x: 734
         y: 618
         width: 7
         height: 16
@@ -12886,7 +12887,7 @@ TextureImporter:
       name: BG1_450
       rect:
         serializedVersion: 2
-        x: 832
+        x: 736
         y: 602
         width: 17
         height: 23
@@ -12908,7 +12909,7 @@ TextureImporter:
       name: BG1_451
       rect:
         serializedVersion: 2
-        x: 862
+        x: 766
         y: 615
         width: 11
         height: 17
@@ -12930,7 +12931,7 @@ TextureImporter:
       name: BG1_452
       rect:
         serializedVersion: 2
-        x: 871
+        x: 775
         y: 598
         width: 29
         height: 33
@@ -12952,7 +12953,7 @@ TextureImporter:
       name: BG1_453
       rect:
         serializedVersion: 2
-        x: 896
+        x: 800
         y: 621
         width: 9
         height: 9
@@ -12974,7 +12975,7 @@ TextureImporter:
       name: BG1_454
       rect:
         serializedVersion: 2
-        x: 898
+        x: 802
         y: 589
         width: 25
         height: 38
@@ -12996,7 +12997,7 @@ TextureImporter:
       name: BG1_455
       rect:
         serializedVersion: 2
-        x: 908
+        x: 812
         y: 619
         width: 7
         height: 10
@@ -13018,7 +13019,7 @@ TextureImporter:
       name: BG1_456
       rect:
         serializedVersion: 2
-        x: 918
+        x: 822
         y: 625
         width: 9
         height: 10
@@ -13040,7 +13041,7 @@ TextureImporter:
       name: BG1_457
       rect:
         serializedVersion: 2
-        x: 921
+        x: 825
         y: 606
         width: 13
         height: 20
@@ -13062,7 +13063,7 @@ TextureImporter:
       name: BG1_458
       rect:
         serializedVersion: 2
-        x: 1458
+        x: 1362
         y: 165
         width: 144
         height: 467
@@ -13084,7 +13085,7 @@ TextureImporter:
       name: BG1_459
       rect:
         serializedVersion: 2
-        x: 1606
+        x: 1510
         y: 621
         width: 6
         height: 6
@@ -13106,7 +13107,7 @@ TextureImporter:
       name: BG1_460
       rect:
         serializedVersion: 2
-        x: 1616
+        x: 1520
         y: 470
         width: 68
         height: 156
@@ -13128,7 +13129,7 @@ TextureImporter:
       name: BG1_461
       rect:
         serializedVersion: 2
-        x: 1632
+        x: 1536
         y: 622
         width: 12
         height: 13
@@ -13150,7 +13151,7 @@ TextureImporter:
       name: BG1_462
       rect:
         serializedVersion: 2
-        x: 1658
+        x: 1562
         y: 621
         width: 6
         height: 13
@@ -13172,7 +13173,7 @@ TextureImporter:
       name: BG1_463
       rect:
         serializedVersion: 2
-        x: 1667
+        x: 1571
         y: 600
         width: 6
         height: 31
@@ -13194,7 +13195,7 @@ TextureImporter:
       name: BG1_464
       rect:
         serializedVersion: 2
-        x: 849
+        x: 753
         y: 611
         width: 8
         height: 12
@@ -13216,7 +13217,7 @@ TextureImporter:
       name: BG1_465
       rect:
         serializedVersion: 2
-        x: 855
+        x: 759
         y: 608
         width: 16
         height: 10
@@ -13238,7 +13239,7 @@ TextureImporter:
       name: BG1_466
       rect:
         serializedVersion: 2
-        x: 930
+        x: 834
         y: 609
         width: 14
         height: 15
@@ -13260,7 +13261,7 @@ TextureImporter:
       name: BG1_467
       rect:
         serializedVersion: 2
-        x: 1595
+        x: 1499
         y: 598
         width: 9
         height: 17
@@ -13282,7 +13283,7 @@ TextureImporter:
       name: BG1_468
       rect:
         serializedVersion: 2
-        x: 1605
+        x: 1509
         y: 594
         width: 13
         height: 26
@@ -13304,7 +13305,7 @@ TextureImporter:
       name: BG1_469
       rect:
         serializedVersion: 2
-        x: 1621
+        x: 1525
         y: 615
         width: 6
         height: 6
@@ -13326,7 +13327,7 @@ TextureImporter:
       name: BG1_470
       rect:
         serializedVersion: 2
-        x: 1626
+        x: 1530
         y: 607
         width: 10
         height: 17
@@ -13348,7 +13349,7 @@ TextureImporter:
       name: BG1_471
       rect:
         serializedVersion: 2
-        x: 849
+        x: 753
         y: 573
         width: 16
         height: 35
@@ -13370,7 +13371,7 @@ TextureImporter:
       name: BG1_472
       rect:
         serializedVersion: 2
-        x: 852
+        x: 756
         y: 604
         width: 6
         height: 7
@@ -13392,7 +13393,7 @@ TextureImporter:
       name: BG1_473
       rect:
         serializedVersion: 2
-        x: 921
+        x: 825
         y: 600
         width: 6
         height: 10
@@ -13414,7 +13415,7 @@ TextureImporter:
       name: BG1_474
       rect:
         serializedVersion: 2
-        x: 921
+        x: 825
         y: 587
         width: 19
         height: 20
@@ -13436,7 +13437,7 @@ TextureImporter:
       name: BG1_475
       rect:
         serializedVersion: 2
-        x: 1366
+        x: 1270
         y: 572
         width: 19
         height: 33
@@ -13458,7 +13459,7 @@ TextureImporter:
       name: BG1_476
       rect:
         serializedVersion: 2
-        x: 1511
+        x: 1415
         y: 600
         width: 6
         height: 10
@@ -13480,7 +13481,7 @@ TextureImporter:
       name: BG1_477
       rect:
         serializedVersion: 2
-        x: 1620
+        x: 1524
         y: 586
         width: 11
         height: 22
@@ -13502,7 +13503,7 @@ TextureImporter:
       name: BG1_478
       rect:
         serializedVersion: 2
-        x: 817
+        x: 721
         y: 580
         width: 7
         height: 12
@@ -13524,7 +13525,7 @@ TextureImporter:
       name: BG1_479
       rect:
         serializedVersion: 2
-        x: 1388
+        x: 1292
         y: 567
         width: 11
         height: 13
@@ -13546,7 +13547,7 @@ TextureImporter:
       name: BG1_480
       rect:
         serializedVersion: 2
-        x: 1593
+        x: 1497
         y: 577
         width: 9
         height: 23
@@ -13568,7 +13569,7 @@ TextureImporter:
       name: BG1_481
       rect:
         serializedVersion: 2
-        x: 1593
+        x: 1497
         y: 572
         width: 6
         height: 8
@@ -13590,7 +13591,7 @@ TextureImporter:
       name: BG1_482
       rect:
         serializedVersion: 2
-        x: 1602
+        x: 1506
         y: 575
         width: 6
         height: 23
@@ -13612,7 +13613,7 @@ TextureImporter:
       name: BG1_483
       rect:
         serializedVersion: 2
-        x: 1605
+        x: 1509
         y: 572
         width: 7
         height: 16
@@ -13634,7 +13635,7 @@ TextureImporter:
       name: BG1_484
       rect:
         serializedVersion: 2
-        x: 1612
+        x: 1516
         y: 559
         width: 9
         height: 29
@@ -13656,7 +13657,7 @@ TextureImporter:
       name: BG1_485
       rect:
         serializedVersion: 2
-        x: 1623
+        x: 1527
         y: 577
         width: 15
         height: 13
@@ -13678,7 +13679,7 @@ TextureImporter:
       name: BG1_486
       rect:
         serializedVersion: 2
-        x: 801
+        x: 705
         y: 558
         width: 14
         height: 16
@@ -13700,7 +13701,7 @@ TextureImporter:
       name: BG1_487
       rect:
         serializedVersion: 2
-        x: 1358
+        x: 1262
         y: 467
         width: 64
         height: 106
@@ -13722,7 +13723,7 @@ TextureImporter:
       name: BG1_488
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 1286
         y: 572
         width: 6
         height: 7
@@ -13744,7 +13745,7 @@ TextureImporter:
       name: BG1_489
       rect:
         serializedVersion: 2
-        x: 1598
+        x: 1502
         y: 558
         width: 6
         height: 16
@@ -13766,7 +13767,7 @@ TextureImporter:
       name: BG1_490
       rect:
         serializedVersion: 2
-        x: 841
+        x: 745
         y: 553
         width: 9
         height: 8
@@ -13788,7 +13789,7 @@ TextureImporter:
       name: BG1_491
       rect:
         serializedVersion: 2
-        x: 1341
+        x: 1245
         y: 546
         width: 22
         height: 18
@@ -13810,7 +13811,7 @@ TextureImporter:
       name: BG1_492
       rect:
         serializedVersion: 2
-        x: 1346
+        x: 1250
         y: 557
         width: 6
         height: 6
@@ -13832,7 +13833,7 @@ TextureImporter:
       name: BG1_493
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 1504
         y: 506
         width: 21
         height: 51
@@ -13854,7 +13855,7 @@ TextureImporter:
       name: BG1_494
       rect:
         serializedVersion: 2
-        x: 789
+        x: 693
         y: 527
         width: 29
         height: 22
@@ -13876,7 +13877,7 @@ TextureImporter:
       name: BG1_495
       rect:
         serializedVersion: 2
-        x: 1372
+        x: 1276
         y: 546
         width: 11
         height: 8
@@ -13898,7 +13899,7 @@ TextureImporter:
       name: BG1_496
       rect:
         serializedVersion: 2
-        x: 749
+        x: 653
         y: 517
         width: 38
         height: 18
@@ -13920,7 +13921,7 @@ TextureImporter:
       name: BG1_497
       rect:
         serializedVersion: 2
-        x: 800
+        x: 704
         y: 525
         width: 7
         height: 7
@@ -13942,7 +13943,7 @@ TextureImporter:
       name: BG1_498
       rect:
         serializedVersion: 2
-        x: 800
+        x: 704
         y: 512
         width: 7
         height: 12
@@ -13964,7 +13965,7 @@ TextureImporter:
       name: BG1_499
       rect:
         serializedVersion: 2
-        x: 802
+        x: 706
         y: 486
         width: 19
         height: 39
@@ -13986,7 +13987,7 @@ TextureImporter:
       name: BG1_500
       rect:
         serializedVersion: 2
-        x: 1110
+        x: 1014
         y: 450
         width: 79
         height: 82
@@ -14008,7 +14009,7 @@ TextureImporter:
       name: BG1_501
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 1286
         y: 514
         width: 9
         height: 6
@@ -14030,7 +14031,7 @@ TextureImporter:
       name: BG1_502
       rect:
         serializedVersion: 2
-        x: 1635
+        x: 1539
         y: 510
         width: 9
         height: 8
@@ -14052,7 +14053,7 @@ TextureImporter:
       name: BG1_503
       rect:
         serializedVersion: 2
-        x: 733
+        x: 637
         y: 489
         width: 37
         height: 21
@@ -14074,7 +14075,7 @@ TextureImporter:
       name: BG1_504
       rect:
         serializedVersion: 2
-        x: 1348
+        x: 1252
         y: 487
         width: 11
         height: 18
@@ -14096,7 +14097,7 @@ TextureImporter:
       name: BG1_505
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 500
         width: 6
         height: 6
@@ -14118,7 +14119,7 @@ TextureImporter:
       name: BG1_506
       rect:
         serializedVersion: 2
-        x: 1375
+        x: 1279
         y: 481
         width: 19
         height: 24
@@ -14140,7 +14141,7 @@ TextureImporter:
       name: BG1_507
       rect:
         serializedVersion: 2
-        x: 1383
+        x: 1287
         y: 501
         width: 10
         height: 13
@@ -14162,7 +14163,7 @@ TextureImporter:
       name: BG1_508
       rect:
         serializedVersion: 2
-        x: 1395
+        x: 1299
         y: 481
         width: 14
         height: 26
@@ -14184,7 +14185,7 @@ TextureImporter:
       name: BG1_509
       rect:
         serializedVersion: 2
-        x: 1586
+        x: 1490
         y: 486
         width: 11
         height: 15
@@ -14206,7 +14207,7 @@ TextureImporter:
       name: BG1_510
       rect:
         serializedVersion: 2
-        x: 1634
+        x: 1538
         y: 490
         width: 7
         height: 12
@@ -14228,7 +14229,7 @@ TextureImporter:
       name: BG1_511
       rect:
         serializedVersion: 2
-        x: 761
+        x: 665
         y: 485
         width: 17
         height: 9
@@ -14250,7 +14251,7 @@ TextureImporter:
       name: BG1_512
       rect:
         serializedVersion: 2
-        x: 1368
+        x: 1272
         y: 494
         width: 8
         height: 6
@@ -14272,7 +14273,7 @@ TextureImporter:
       name: BG1_513
       rect:
         serializedVersion: 2
-        x: 1629
+        x: 1533
         y: 475
         width: 17
         height: 21
@@ -14294,7 +14295,7 @@ TextureImporter:
       name: BG1_514
       rect:
         serializedVersion: 2
-        x: 782
+        x: 686
         y: 465
         width: 14
         height: 24
@@ -14316,7 +14317,7 @@ TextureImporter:
       name: BG1_515
       rect:
         serializedVersion: 2
-        x: 799
+        x: 703
         y: 473
         width: 14
         height: 14
@@ -14338,7 +14339,7 @@ TextureImporter:
       name: BG1_516
       rect:
         serializedVersion: 2
-        x: 804
+        x: 708
         y: 459
         width: 25
         height: 33
@@ -14360,7 +14361,7 @@ TextureImporter:
       name: BG1_517
       rect:
         serializedVersion: 2
-        x: 1057
+        x: 961
         y: 420
         width: 46
         height: 73
@@ -14382,7 +14383,7 @@ TextureImporter:
       name: BG1_518
       rect:
         serializedVersion: 2
-        x: 1339
+        x: 1243
         y: 481
         width: 6
         height: 6
@@ -14404,7 +14405,7 @@ TextureImporter:
       name: BG1_519
       rect:
         serializedVersion: 2
-        x: 1347
+        x: 1251
         y: 480
         width: 6
         height: 7
@@ -14426,7 +14427,7 @@ TextureImporter:
       name: BG1_520
       rect:
         serializedVersion: 2
-        x: 1366
+        x: 1270
         y: 481
         width: 7
         height: 6
@@ -14448,7 +14449,7 @@ TextureImporter:
       name: BG1_521
       rect:
         serializedVersion: 2
-        x: 1369
+        x: 1273
         y: 487
         width: 7
         height: 6
@@ -14470,7 +14471,7 @@ TextureImporter:
       name: BG1_522
       rect:
         serializedVersion: 2
-        x: 1376
+        x: 1280
         y: 481
         width: 6
         height: 6
@@ -14492,7 +14493,7 @@ TextureImporter:
       name: BG1_523
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 1504
         y: 474
         width: 19
         height: 17
@@ -14514,7 +14515,7 @@ TextureImporter:
       name: BG1_524
       rect:
         serializedVersion: 2
-        x: 1663
+        x: 1567
         y: 465
         width: 17
         height: 23
@@ -14536,7 +14537,7 @@ TextureImporter:
       name: BG1_525
       rect:
         serializedVersion: 2
-        x: 541
+        x: 445
         y: 234
         width: 13
         height: 8
@@ -14558,7 +14559,7 @@ TextureImporter:
       name: BG1_526
       rect:
         serializedVersion: 2
-        x: 542
+        x: 446
         y: 255
         width: 6
         height: 6
@@ -14580,7 +14581,7 @@ TextureImporter:
       name: BG1_527
       rect:
         serializedVersion: 2
-        x: 542
+        x: 446
         y: 151
         width: 12
         height: 17
@@ -14602,7 +14603,7 @@ TextureImporter:
       name: BG1_528
       rect:
         serializedVersion: 2
-        x: 543
+        x: 447
         y: 260
         width: 6
         height: 7
@@ -14624,7 +14625,7 @@ TextureImporter:
       name: BG1_529
       rect:
         serializedVersion: 2
-        x: 544
+        x: 448
         y: 280
         width: 7
         height: 7
@@ -14646,7 +14647,7 @@ TextureImporter:
       name: BG1_530
       rect:
         serializedVersion: 2
-        x: 544
+        x: 448
         y: 242
         width: 12
         height: 7
@@ -14668,7 +14669,7 @@ TextureImporter:
       name: BG1_531
       rect:
         serializedVersion: 2
-        x: 545
+        x: 449
         y: 266
         width: 6
         height: 7
@@ -14690,7 +14691,7 @@ TextureImporter:
       name: BG1_532
       rect:
         serializedVersion: 2
-        x: 545
+        x: 449
         y: 167
         width: 9
         height: 12
@@ -14712,7 +14713,7 @@ TextureImporter:
       name: BG1_533
       rect:
         serializedVersion: 2
-        x: 546
+        x: 450
         y: 248
         width: 11
         height: 7
@@ -14734,7 +14735,7 @@ TextureImporter:
       name: BG1_534
       rect:
         serializedVersion: 2
-        x: 547
+        x: 451
         y: 273
         width: 8
         height: 8
@@ -14756,7 +14757,7 @@ TextureImporter:
       name: BG1_535
       rect:
         serializedVersion: 2
-        x: 547
+        x: 451
         y: 254
         width: 23
         height: 14
@@ -14778,7 +14779,7 @@ TextureImporter:
       name: BG1_536
       rect:
         serializedVersion: 2
-        x: 547
+        x: 451
         y: 222
         width: 7
         height: 6
@@ -14800,7 +14801,7 @@ TextureImporter:
       name: BG1_537
       rect:
         serializedVersion: 2
-        x: 551
+        x: 455
         y: 281
         width: 6
         height: 7
@@ -14822,7 +14823,7 @@ TextureImporter:
       name: BG1_538
       rect:
         serializedVersion: 2
-        x: 551
+        x: 455
         y: 266
         width: 25
         height: 15
@@ -14844,7 +14845,7 @@ TextureImporter:
       name: BG1_539
       rect:
         serializedVersion: 2
-        x: 554
+        x: 458
         y: 287
         width: 8
         height: 7
@@ -14866,7 +14867,7 @@ TextureImporter:
       name: BG1_540
       rect:
         serializedVersion: 2
-        x: 554
+        x: 458
         y: 168
         width: 7
         height: 8
@@ -14888,7 +14889,7 @@ TextureImporter:
       name: BG1_541
       rect:
         serializedVersion: 2
-        x: 555
+        x: 459
         y: 236
         width: 10
         height: 13
@@ -14910,7 +14911,7 @@ TextureImporter:
       name: BG1_542
       rect:
         serializedVersion: 2
-        x: 555
+        x: 459
         y: 175
         width: 6
         height: 10
@@ -14932,7 +14933,7 @@ TextureImporter:
       name: BG1_543
       rect:
         serializedVersion: 2
-        x: 556
+        x: 460
         y: 247
         width: 7
         height: 8
@@ -14954,7 +14955,7 @@ TextureImporter:
       name: BG1_544
       rect:
         serializedVersion: 2
-        x: 557
+        x: 461
         y: 280
         width: 8
         height: 7
@@ -14976,7 +14977,7 @@ TextureImporter:
       name: BG1_545
       rect:
         serializedVersion: 2
-        x: 557
+        x: 461
         y: 209
         width: 6
         height: 7
@@ -14998,7 +14999,7 @@ TextureImporter:
       name: BG1_546
       rect:
         serializedVersion: 2
-        x: 562
+        x: 466
         y: 287
         width: 19
         height: 8
@@ -15020,7 +15021,7 @@ TextureImporter:
       name: BG1_547
       rect:
         serializedVersion: 2
-        x: 563
+        x: 467
         y: 242
         width: 14
         height: 26
@@ -15042,7 +15043,7 @@ TextureImporter:
       name: BG1_548
       rect:
         serializedVersion: 2
-        x: 564
+        x: 468
         y: 236
         width: 6
         height: 6
@@ -15064,7 +15065,7 @@ TextureImporter:
       name: BG1_549
       rect:
         serializedVersion: 2
-        x: 567
+        x: 471
         y: 229
         width: 6
         height: 6
@@ -15086,7 +15087,7 @@ TextureImporter:
       name: BG1_550
       rect:
         serializedVersion: 2
-        x: 569
+        x: 473
         y: 235
         width: 7
         height: 7
@@ -15108,7 +15109,7 @@ TextureImporter:
       name: BG1_551
       rect:
         serializedVersion: 2
-        x: 572
+        x: 476
         y: 348
         width: 7
         height: 6
@@ -15130,7 +15131,7 @@ TextureImporter:
       name: BG1_552
       rect:
         serializedVersion: 2
-        x: 573
+        x: 477
         y: 245
         width: 8
         height: 9
@@ -15152,7 +15153,7 @@ TextureImporter:
       name: BG1_553
       rect:
         serializedVersion: 2
-        x: 576
+        x: 480
         y: 269
         width: 6
         height: 12
@@ -15174,7 +15175,7 @@ TextureImporter:
       name: BG1_554
       rect:
         serializedVersion: 2
-        x: 578
+        x: 482
         y: 262
         width: 10
         height: 13
@@ -15196,7 +15197,7 @@ TextureImporter:
       name: BG1_555
       rect:
         serializedVersion: 2
-        x: 584
+        x: 488
         y: 211
         width: 9
         height: 6
@@ -15218,7 +15219,7 @@ TextureImporter:
       name: BG1_556
       rect:
         serializedVersion: 2
-        x: 601
+        x: 505
         y: 191
         width: 6
         height: 11
@@ -15240,7 +15241,7 @@ TextureImporter:
       name: BG1_557
       rect:
         serializedVersion: 2
-        x: 607
+        x: 511
         y: 154
         width: 7
         height: 10
@@ -15262,7 +15263,7 @@ TextureImporter:
       name: BG1_558
       rect:
         serializedVersion: 2
-        x: 614
+        x: 518
         y: 171
         width: 6
         height: 16
@@ -15284,7 +15285,7 @@ TextureImporter:
       name: BG1_559
       rect:
         serializedVersion: 2
-        x: 618
+        x: 522
         y: 181
         width: 7
         height: 8
@@ -15306,7 +15307,7 @@ TextureImporter:
       name: BG1_560
       rect:
         serializedVersion: 2
-        x: 629
+        x: 533
         y: 158
         width: 129
         height: 325
@@ -15328,7 +15329,7 @@ TextureImporter:
       name: BG1_561
       rect:
         serializedVersion: 2
-        x: 631
+        x: 535
         y: 383
         width: 7
         height: 8
@@ -15350,7 +15351,7 @@ TextureImporter:
       name: BG1_562
       rect:
         serializedVersion: 2
-        x: 636
+        x: 540
         y: 170
         width: 6
         height: 7
@@ -15372,7 +15373,7 @@ TextureImporter:
       name: BG1_563
       rect:
         serializedVersion: 2
-        x: 638
+        x: 542
         y: 425
         width: 7
         height: 6
@@ -15394,7 +15395,7 @@ TextureImporter:
       name: BG1_564
       rect:
         serializedVersion: 2
-        x: 639
+        x: 543
         y: 378
         width: 9
         height: 7
@@ -15416,7 +15417,7 @@ TextureImporter:
       name: BG1_565
       rect:
         serializedVersion: 2
-        x: 659
+        x: 563
         y: 191
         width: 10
         height: 9
@@ -15438,7 +15439,7 @@ TextureImporter:
       name: BG1_566
       rect:
         serializedVersion: 2
-        x: 662
+        x: 566
         y: 205
         width: 6
         height: 6
@@ -15460,7 +15461,7 @@ TextureImporter:
       name: BG1_567
       rect:
         serializedVersion: 2
-        x: 664
+        x: 568
         y: 195
         width: 12
         height: 17
@@ -15482,7 +15483,7 @@ TextureImporter:
       name: BG1_568
       rect:
         serializedVersion: 2
-        x: 666
+        x: 570
         y: 367
         width: 6
         height: 8
@@ -15504,7 +15505,7 @@ TextureImporter:
       name: BG1_569
       rect:
         serializedVersion: 2
-        x: 667
+        x: 571
         y: 356
         width: 11
         height: 8
@@ -15526,7 +15527,7 @@ TextureImporter:
       name: BG1_570
       rect:
         serializedVersion: 2
-        x: 672
+        x: 576
         y: 374
         width: 12
         height: 12
@@ -15548,7 +15549,7 @@ TextureImporter:
       name: BG1_571
       rect:
         serializedVersion: 2
-        x: 675
+        x: 579
         y: 191
         width: 6
         height: 9
@@ -15570,7 +15571,7 @@ TextureImporter:
       name: BG1_572
       rect:
         serializedVersion: 2
-        x: 678
+        x: 582
         y: 354
         width: 6
         height: 6
@@ -15592,7 +15593,7 @@ TextureImporter:
       name: BG1_573
       rect:
         serializedVersion: 2
-        x: 678
+        x: 582
         y: 286
         width: 6
         height: 6
@@ -15614,7 +15615,7 @@ TextureImporter:
       name: BG1_574
       rect:
         serializedVersion: 2
-        x: 678
+        x: 582
         y: 241
         width: 11
         height: 7
@@ -15636,7 +15637,7 @@ TextureImporter:
       name: BG1_575
       rect:
         serializedVersion: 2
-        x: 681
+        x: 585
         y: 202
         width: 7
         height: 8
@@ -15658,7 +15659,7 @@ TextureImporter:
       name: BG1_576
       rect:
         serializedVersion: 2
-        x: 684
+        x: 588
         y: 371
         width: 7
         height: 12
@@ -15680,7 +15681,7 @@ TextureImporter:
       name: BG1_577
       rect:
         serializedVersion: 2
-        x: 688
+        x: 592
         y: 229
         width: 7
         height: 7
@@ -15702,7 +15703,7 @@ TextureImporter:
       name: BG1_578
       rect:
         serializedVersion: 2
-        x: 693
+        x: 597
         y: 342
         width: 6
         height: 6
@@ -15724,7 +15725,7 @@ TextureImporter:
       name: BG1_579
       rect:
         serializedVersion: 2
-        x: 693
+        x: 597
         y: 215
         width: 10
         height: 17
@@ -15746,7 +15747,7 @@ TextureImporter:
       name: BG1_580
       rect:
         serializedVersion: 2
-        x: 697
+        x: 601
         y: 361
         width: 8
         height: 12
@@ -15768,7 +15769,7 @@ TextureImporter:
       name: BG1_581
       rect:
         serializedVersion: 2
-        x: 698
+        x: 602
         y: 367
         width: 10
         height: 15
@@ -15790,7 +15791,7 @@ TextureImporter:
       name: BG1_582
       rect:
         serializedVersion: 2
-        x: 698
+        x: 602
         y: 243
         width: 12
         height: 17
@@ -15812,7 +15813,7 @@ TextureImporter:
       name: BG1_583
       rect:
         serializedVersion: 2
-        x: 704
+        x: 608
         y: 183
         width: 33
         height: 91
@@ -15834,7 +15835,7 @@ TextureImporter:
       name: BG1_584
       rect:
         serializedVersion: 2
-        x: 707
+        x: 611
         y: 235
         width: 7
         height: 6
@@ -15856,7 +15857,7 @@ TextureImporter:
       name: BG1_585
       rect:
         serializedVersion: 2
-        x: 710
+        x: 614
         y: 373
         width: 6
         height: 7
@@ -15878,7 +15879,7 @@ TextureImporter:
       name: BG1_586
       rect:
         serializedVersion: 2
-        x: 714
+        x: 618
         y: 386
         width: 7
         height: 9
@@ -15900,7 +15901,7 @@ TextureImporter:
       name: BG1_587
       rect:
         serializedVersion: 2
-        x: 714
+        x: 618
         y: 350
         width: 6
         height: 13
@@ -15922,7 +15923,7 @@ TextureImporter:
       name: BG1_588
       rect:
         serializedVersion: 2
-        x: 716
+        x: 620
         y: 373
         width: 7
         height: 7
@@ -15944,7 +15945,7 @@ TextureImporter:
       name: BG1_589
       rect:
         serializedVersion: 2
-        x: 724
+        x: 628
         y: 355
         width: 6
         height: 6
@@ -15966,7 +15967,7 @@ TextureImporter:
       name: BG1_590
       rect:
         serializedVersion: 2
-        x: 726
+        x: 630
         y: 360
         width: 9
         height: 9
@@ -15988,7 +15989,7 @@ TextureImporter:
       name: BG1_591
       rect:
         serializedVersion: 2
-        x: 732
+        x: 636
         y: 243
         width: 8
         height: 8
@@ -16010,7 +16011,7 @@ TextureImporter:
       name: BG1_592
       rect:
         serializedVersion: 2
-        x: 735
+        x: 639
         y: 361
         width: 9
         height: 10
@@ -16032,7 +16033,7 @@ TextureImporter:
       name: BG1_593
       rect:
         serializedVersion: 2
-        x: 736
+        x: 640
         y: 214
         width: 12
         height: 15
@@ -16054,7 +16055,7 @@ TextureImporter:
       name: BG1_594
       rect:
         serializedVersion: 2
-        x: 737
+        x: 641
         y: 262
         width: 6
         height: 6
@@ -16076,7 +16077,7 @@ TextureImporter:
       name: BG1_595
       rect:
         serializedVersion: 2
-        x: 741
+        x: 645
         y: 179
         width: 24
         height: 28
@@ -16098,7 +16099,7 @@ TextureImporter:
       name: BG1_596
       rect:
         serializedVersion: 2
-        x: 742
+        x: 646
         y: 367
         width: 23
         height: 48
@@ -16120,7 +16121,7 @@ TextureImporter:
       name: BG1_597
       rect:
         serializedVersion: 2
-        x: 742
+        x: 646
         y: 208
         width: 7
         height: 10
@@ -16142,7 +16143,7 @@ TextureImporter:
       name: BG1_598
       rect:
         serializedVersion: 2
-        x: 743
+        x: 647
         y: 436
         width: 17
         height: 14
@@ -16164,7 +16165,7 @@ TextureImporter:
       name: BG1_599
       rect:
         serializedVersion: 2
-        x: 743
+        x: 647
         y: 417
         width: 17
         height: 16
@@ -16186,7 +16187,7 @@ TextureImporter:
       name: BG1_600
       rect:
         serializedVersion: 2
-        x: 743
+        x: 647
         y: 221
         width: 24
         height: 42
@@ -16208,7 +16209,7 @@ TextureImporter:
       name: BG1_601
       rect:
         serializedVersion: 2
-        x: 745
+        x: 649
         y: 356
         width: 12
         height: 21
@@ -16230,7 +16231,7 @@ TextureImporter:
       name: BG1_602
       rect:
         serializedVersion: 2
-        x: 750
+        x: 654
         y: 212
         width: 11
         height: 10
@@ -16252,7 +16253,7 @@ TextureImporter:
       name: BG1_603
       rect:
         serializedVersion: 2
-        x: 751
+        x: 655
         y: 342
         width: 17
         height: 32
@@ -16274,7 +16275,7 @@ TextureImporter:
       name: BG1_604
       rect:
         serializedVersion: 2
-        x: 757
+        x: 661
         y: 185
         width: 125
         height: 179
@@ -16296,7 +16297,7 @@ TextureImporter:
       name: BG1_605
       rect:
         serializedVersion: 2
-        x: 759
+        x: 663
         y: 410
         width: 6
         height: 7
@@ -16318,7 +16319,7 @@ TextureImporter:
       name: BG1_606
       rect:
         serializedVersion: 2
-        x: 760
+        x: 664
         y: 403
         width: 27
         height: 46
@@ -16340,7 +16341,7 @@ TextureImporter:
       name: BG1_607
       rect:
         serializedVersion: 2
-        x: 764
+        x: 668
         y: 397
         width: 8
         height: 14
@@ -16362,7 +16363,7 @@ TextureImporter:
       name: BG1_608
       rect:
         serializedVersion: 2
-        x: 764
+        x: 668
         y: 223
         width: 6
         height: 6
@@ -16384,7 +16385,7 @@ TextureImporter:
       name: BG1_609
       rect:
         serializedVersion: 2
-        x: 765
+        x: 669
         y: 190
         width: 11
         height: 9
@@ -16406,7 +16407,7 @@ TextureImporter:
       name: BG1_610
       rect:
         serializedVersion: 2
-        x: 768
+        x: 672
         y: 381
         width: 22
         height: 23
@@ -16428,7 +16429,7 @@ TextureImporter:
       name: BG1_611
       rect:
         serializedVersion: 2
-        x: 768
+        x: 672
         y: 334
         width: 32
         height: 51
@@ -16450,7 +16451,7 @@ TextureImporter:
       name: BG1_612
       rect:
         serializedVersion: 2
-        x: 771
+        x: 675
         y: 397
         width: 9
         height: 14
@@ -16472,7 +16473,7 @@ TextureImporter:
       name: BG1_613
       rect:
         serializedVersion: 2
-        x: 777
+        x: 681
         y: 343
         width: 6
         height: 7
@@ -16494,7 +16495,7 @@ TextureImporter:
       name: BG1_614
       rect:
         serializedVersion: 2
-        x: 777
+        x: 681
         y: 217
         width: 9
         height: 12
@@ -16516,7 +16517,7 @@ TextureImporter:
       name: BG1_615
       rect:
         serializedVersion: 2
-        x: 777
+        x: 681
         y: 211
         width: 8
         height: 8
@@ -16538,7 +16539,7 @@ TextureImporter:
       name: BG1_616
       rect:
         serializedVersion: 2
-        x: 778
+        x: 682
         y: 280
         width: 6
         height: 14
@@ -16560,7 +16561,7 @@ TextureImporter:
       name: BG1_617
       rect:
         serializedVersion: 2
-        x: 778
+        x: 682
         y: 189
         width: 13
         height: 10
@@ -16582,7 +16583,7 @@ TextureImporter:
       name: BG1_618
       rect:
         serializedVersion: 2
-        x: 780
+        x: 684
         y: 364
         width: 6
         height: 7
@@ -16604,7 +16605,7 @@ TextureImporter:
       name: BG1_619
       rect:
         serializedVersion: 2
-        x: 782
+        x: 686
         y: 422
         width: 12
         height: 21
@@ -16626,7 +16627,7 @@ TextureImporter:
       name: BG1_620
       rect:
         serializedVersion: 2
-        x: 783
+        x: 687
         y: 393
         width: 10
         height: 41
@@ -16648,7 +16649,7 @@ TextureImporter:
       name: BG1_621
       rect:
         serializedVersion: 2
-        x: 785
+        x: 689
         y: 280
         width: 7
         height: 6
@@ -16670,7 +16671,7 @@ TextureImporter:
       name: BG1_622
       rect:
         serializedVersion: 2
-        x: 791
+        x: 695
         y: 255
         width: 7
         height: 7
@@ -16692,7 +16693,7 @@ TextureImporter:
       name: BG1_623
       rect:
         serializedVersion: 2
-        x: 792
+        x: 696
         y: 365
         width: 40
         height: 47
@@ -16714,7 +16715,7 @@ TextureImporter:
       name: BG1_624
       rect:
         serializedVersion: 2
-        x: 793
+        x: 697
         y: 346
         width: 7
         height: 11
@@ -16736,7 +16737,7 @@ TextureImporter:
       name: BG1_625
       rect:
         serializedVersion: 2
-        x: 793
+        x: 697
         y: 191
         width: 6
         height: 7
@@ -16758,7 +16759,7 @@ TextureImporter:
       name: BG1_626
       rect:
         serializedVersion: 2
-        x: 794
+        x: 698
         y: 216
         width: 6
         height: 7
@@ -16780,7 +16781,7 @@ TextureImporter:
       name: BG1_627
       rect:
         serializedVersion: 2
-        x: 795
+        x: 699
         y: 412
         width: 7
         height: 31
@@ -16802,7 +16803,7 @@ TextureImporter:
       name: BG1_628
       rect:
         serializedVersion: 2
-        x: 796
+        x: 700
         y: 265
         width: 8
         height: 10
@@ -16824,7 +16825,7 @@ TextureImporter:
       name: BG1_629
       rect:
         serializedVersion: 2
-        x: 797
+        x: 701
         y: 237
         width: 6
         height: 8
@@ -16846,7 +16847,7 @@ TextureImporter:
       name: BG1_630
       rect:
         serializedVersion: 2
-        x: 798
+        x: 702
         y: 250
         width: 13
         height: 9
@@ -16868,7 +16869,7 @@ TextureImporter:
       name: BG1_631
       rect:
         serializedVersion: 2
-        x: 800
+        x: 704
         y: 431
         width: 7
         height: 10
@@ -16890,7 +16891,7 @@ TextureImporter:
       name: BG1_632
       rect:
         serializedVersion: 2
-        x: 800
+        x: 704
         y: 271
         width: 16
         height: 8
@@ -16912,7 +16913,7 @@ TextureImporter:
       name: BG1_633
       rect:
         serializedVersion: 2
-        x: 801
+        x: 705
         y: 418
         width: 6
         height: 7
@@ -16934,7 +16935,7 @@ TextureImporter:
       name: BG1_634
       rect:
         serializedVersion: 2
-        x: 801
+        x: 705
         y: 324
         width: 8
         height: 14
@@ -16956,7 +16957,7 @@ TextureImporter:
       name: BG1_635
       rect:
         serializedVersion: 2
-        x: 803
+        x: 707
         y: 412
         width: 6
         height: 7
@@ -16978,7 +16979,7 @@ TextureImporter:
       name: BG1_636
       rect:
         serializedVersion: 2
-        x: 803
+        x: 707
         y: 311
         width: 9
         height: 7
@@ -17000,7 +17001,7 @@ TextureImporter:
       name: BG1_637
       rect:
         serializedVersion: 2
-        x: 803
+        x: 707
         y: 205
         width: 6
         height: 8
@@ -17022,7 +17023,7 @@ TextureImporter:
       name: BG1_638
       rect:
         serializedVersion: 2
-        x: 804
+        x: 708
         y: 405
         width: 6
         height: 7
@@ -17044,7 +17045,7 @@ TextureImporter:
       name: BG1_639
       rect:
         serializedVersion: 2
-        x: 804
+        x: 708
         y: 318
         width: 6
         height: 7
@@ -17066,7 +17067,7 @@ TextureImporter:
       name: BG1_640
       rect:
         serializedVersion: 2
-        x: 804
+        x: 708
         y: 279
         width: 8
         height: 7
@@ -17088,7 +17089,7 @@ TextureImporter:
       name: BG1_641
       rect:
         serializedVersion: 2
-        x: 804
+        x: 708
         y: 219
         width: 11
         height: 7
@@ -17110,7 +17111,7 @@ TextureImporter:
       name: BG1_642
       rect:
         serializedVersion: 2
-        x: 807
+        x: 711
         y: 259
         width: 11
         height: 7
@@ -17132,7 +17133,7 @@ TextureImporter:
       name: BG1_643
       rect:
         serializedVersion: 2
-        x: 808
+        x: 712
         y: 433
         width: 14
         height: 6
@@ -17154,7 +17155,7 @@ TextureImporter:
       name: BG1_644
       rect:
         serializedVersion: 2
-        x: 812
+        x: 716
         y: 199
         width: 6
         height: 7
@@ -17176,7 +17177,7 @@ TextureImporter:
       name: BG1_645
       rect:
         serializedVersion: 2
-        x: 813
+        x: 717
         y: 421
         width: 9
         height: 6
@@ -17198,7 +17199,7 @@ TextureImporter:
       name: BG1_646
       rect:
         serializedVersion: 2
-        x: 815
+        x: 719
         y: 427
         width: 14
         height: 14
@@ -17220,7 +17221,7 @@ TextureImporter:
       name: BG1_647
       rect:
         serializedVersion: 2
-        x: 815
+        x: 719
         y: 405
         width: 7
         height: 14
@@ -17242,7 +17243,7 @@ TextureImporter:
       name: BG1_648
       rect:
         serializedVersion: 2
-        x: 816
+        x: 720
         y: 241
         width: 10
         height: 13
@@ -17264,7 +17265,7 @@ TextureImporter:
       name: BG1_649
       rect:
         serializedVersion: 2
-        x: 817
+        x: 721
         y: 200
         width: 6
         height: 12
@@ -17286,7 +17287,7 @@ TextureImporter:
       name: BG1_650
       rect:
         serializedVersion: 2
-        x: 820
+        x: 724
         y: 225
         width: 11
         height: 8
@@ -17308,7 +17309,7 @@ TextureImporter:
       name: BG1_651
       rect:
         serializedVersion: 2
-        x: 820
+        x: 724
         y: 193
         width: 8
         height: 6
@@ -17330,7 +17331,7 @@ TextureImporter:
       name: BG1_652
       rect:
         serializedVersion: 2
-        x: 822
+        x: 726
         y: 392
         width: 31
         height: 39
@@ -17352,7 +17353,7 @@ TextureImporter:
       name: BG1_653
       rect:
         serializedVersion: 2
-        x: 822
+        x: 726
         y: 412
         width: 6
         height: 7
@@ -17374,7 +17375,7 @@ TextureImporter:
       name: BG1_654
       rect:
         serializedVersion: 2
-        x: 822
+        x: 726
         y: 206
         width: 6
         height: 7
@@ -17396,7 +17397,7 @@ TextureImporter:
       name: BG1_655
       rect:
         serializedVersion: 2
-        x: 823
+        x: 727
         y: 466
         width: 18
         height: 13
@@ -17418,7 +17419,7 @@ TextureImporter:
       name: BG1_656
       rect:
         serializedVersion: 2
-        x: 823
+        x: 727
         y: 374
         width: 19
         height: 21
@@ -17440,7 +17441,7 @@ TextureImporter:
       name: BG1_657
       rect:
         serializedVersion: 2
-        x: 823
+        x: 727
         y: 199
         width: 6
         height: 7
@@ -17462,7 +17463,7 @@ TextureImporter:
       name: BG1_658
       rect:
         serializedVersion: 2
-        x: 832
+        x: 736
         y: 430
         width: 20
         height: 11
@@ -17484,7 +17485,7 @@ TextureImporter:
       name: BG1_659
       rect:
         serializedVersion: 2
-        x: 833
+        x: 737
         y: 460
         width: 8
         height: 8
@@ -17506,7 +17507,7 @@ TextureImporter:
       name: BG1_660
       rect:
         serializedVersion: 2
-        x: 838
+        x: 742
         y: 206
         width: 7
         height: 12
@@ -17528,7 +17529,7 @@ TextureImporter:
       name: BG1_661
       rect:
         serializedVersion: 2
-        x: 840
+        x: 744
         y: 456
         width: 15
         height: 18
@@ -17550,7 +17551,7 @@ TextureImporter:
       name: BG1_662
       rect:
         serializedVersion: 2
-        x: 888
+        x: 792
         y: 270
         width: 92
         height: 57
@@ -17572,7 +17573,7 @@ TextureImporter:
       name: BG1_663
       rect:
         serializedVersion: 2
-        x: 896
+        x: 800
         y: 216
         width: 34
         height: 13
@@ -17594,7 +17595,7 @@ TextureImporter:
       name: BG1_664
       rect:
         serializedVersion: 2
-        x: 931
+        x: 835
         y: 224
         width: 6
         height: 6
@@ -17616,7 +17617,7 @@ TextureImporter:
       name: BG1_665
       rect:
         serializedVersion: 2
-        x: 935
+        x: 839
         y: 217
         width: 11
         height: 18
@@ -17638,7 +17639,7 @@ TextureImporter:
       name: BG1_666
       rect:
         serializedVersion: 2
-        x: 947
+        x: 851
         y: 222
         width: 17
         height: 8
@@ -17660,7 +17661,7 @@ TextureImporter:
       name: BG1_667
       rect:
         serializedVersion: 2
-        x: 959
+        x: 863
         y: 460
         width: 55
         height: 20
@@ -17682,7 +17683,7 @@ TextureImporter:
       name: BG1_668
       rect:
         serializedVersion: 2
-        x: 978
+        x: 882
         y: 292
         width: 16
         height: 13
@@ -17704,7 +17705,7 @@ TextureImporter:
       name: BG1_669
       rect:
         serializedVersion: 2
-        x: 993
+        x: 897
         y: 273
         width: 32
         height: 44
@@ -17726,7 +17727,7 @@ TextureImporter:
       name: BG1_670
       rect:
         serializedVersion: 2
-        x: 995
+        x: 899
         y: 395
         width: 16
         height: 16
@@ -17748,7 +17749,7 @@ TextureImporter:
       name: BG1_671
       rect:
         serializedVersion: 2
-        x: 997
+        x: 901
         y: 353
         width: 40
         height: 106
@@ -17770,7 +17771,7 @@ TextureImporter:
       name: BG1_672
       rect:
         serializedVersion: 2
-        x: 1000
+        x: 904
         y: 454
         width: 9
         height: 13
@@ -17792,7 +17793,7 @@ TextureImporter:
       name: BG1_673
       rect:
         serializedVersion: 2
-        x: 1001
+        x: 905
         y: 333
         width: 19
         height: 21
@@ -17814,7 +17815,7 @@ TextureImporter:
       name: BG1_674
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 908
         y: 386
         width: 6
         height: 9
@@ -17836,7 +17837,7 @@ TextureImporter:
       name: BG1_675
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 908
         y: 327
         width: 11
         height: 15
@@ -17858,7 +17859,7 @@ TextureImporter:
       name: BG1_676
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 908
         y: 0
         width: 880
         height: 169
@@ -17880,7 +17881,7 @@ TextureImporter:
       name: BG1_677
       rect:
         serializedVersion: 2
-        x: 1005
+        x: 909
         y: 374
         width: 6
         height: 7
@@ -17902,7 +17903,7 @@ TextureImporter:
       name: BG1_678
       rect:
         serializedVersion: 2
-        x: 1010
+        x: 914
         y: 354
         width: 6
         height: 6
@@ -17924,7 +17925,7 @@ TextureImporter:
       name: BG1_679
       rect:
         serializedVersion: 2
-        x: 1014
+        x: 918
         y: 454
         width: 17
         height: 13
@@ -17946,7 +17947,7 @@ TextureImporter:
       name: BG1_680
       rect:
         serializedVersion: 2
-        x: 1021
+        x: 925
         y: 321
         width: 13
         height: 33
@@ -17968,7 +17969,7 @@ TextureImporter:
       name: BG1_681
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 928
         y: 287
         width: 6
         height: 20
@@ -17990,7 +17991,7 @@ TextureImporter:
       name: BG1_682
       rect:
         serializedVersion: 2
-        x: 1026
+        x: 930
         y: 383
         width: 11
         height: 17
@@ -18012,7 +18013,7 @@ TextureImporter:
       name: BG1_683
       rect:
         serializedVersion: 2
-        x: 1027
+        x: 931
         y: 284
         width: 22
         height: 40
@@ -18034,7 +18035,7 @@ TextureImporter:
       name: BG1_684
       rect:
         serializedVersion: 2
-        x: 1031
+        x: 935
         y: 448
         width: 13
         height: 19
@@ -18056,7 +18057,7 @@ TextureImporter:
       name: BG1_685
       rect:
         serializedVersion: 2
-        x: 1031
+        x: 935
         y: 321
         width: 18
         height: 21
@@ -18078,7 +18079,7 @@ TextureImporter:
       name: BG1_686
       rect:
         serializedVersion: 2
-        x: 1034
+        x: 938
         y: 446
         width: 6
         height: 9
@@ -18100,7 +18101,7 @@ TextureImporter:
       name: BG1_687
       rect:
         serializedVersion: 2
-        x: 1036
+        x: 940
         y: 342
         width: 20
         height: 12
@@ -18122,7 +18123,7 @@ TextureImporter:
       name: BG1_688
       rect:
         serializedVersion: 2
-        x: 1037
+        x: 941
         y: 355
         width: 13
         height: 12
@@ -18144,7 +18145,7 @@ TextureImporter:
       name: BG1_689
       rect:
         serializedVersion: 2
-        x: 1038
+        x: 942
         y: 430
         width: 23
         height: 41
@@ -18166,7 +18167,7 @@ TextureImporter:
       name: BG1_690
       rect:
         serializedVersion: 2
-        x: 1038
+        x: 942
         y: 381
         width: 16
         height: 26
@@ -18188,7 +18189,7 @@ TextureImporter:
       name: BG1_691
       rect:
         serializedVersion: 2
-        x: 1038
+        x: 942
         y: 373
         width: 11
         height: 7
@@ -18210,7 +18211,7 @@ TextureImporter:
       name: BG1_692
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 944
         y: 312
         width: 13
         height: 29
@@ -18232,7 +18233,7 @@ TextureImporter:
       name: BG1_693
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 944
         y: 280
         width: 7
         height: 7
@@ -18254,7 +18255,7 @@ TextureImporter:
       name: BG1_694
       rect:
         serializedVersion: 2
-        x: 1041
+        x: 945
         y: 368
         width: 7
         height: 6
@@ -18276,7 +18277,7 @@ TextureImporter:
       name: BG1_695
       rect:
         serializedVersion: 2
-        x: 1043
+        x: 947
         y: 448
         width: 8
         height: 19
@@ -18298,7 +18299,7 @@ TextureImporter:
       name: BG1_696
       rect:
         serializedVersion: 2
-        x: 1043
+        x: 947
         y: 268
         width: 10
         height: 19
@@ -18320,7 +18321,7 @@ TextureImporter:
       name: BG1_697
       rect:
         serializedVersion: 2
-        x: 1046
+        x: 950
         y: 289
         width: 8
         height: 18
@@ -18342,7 +18343,7 @@ TextureImporter:
       name: BG1_698
       rect:
         serializedVersion: 2
-        x: 1048
+        x: 952
         y: 402
         width: 18
         height: 14
@@ -18364,7 +18365,7 @@ TextureImporter:
       name: BG1_699
       rect:
         serializedVersion: 2
-        x: 1048
+        x: 952
         y: 368
         width: 13
         height: 18
@@ -18386,7 +18387,7 @@ TextureImporter:
       name: BG1_700
       rect:
         serializedVersion: 2
-        x: 1049
+        x: 953
         y: 355
         width: 11
         height: 12
@@ -18408,7 +18409,7 @@ TextureImporter:
       name: BG1_701
       rect:
         serializedVersion: 2
-        x: 1049
+        x: 953
         y: 235
         width: 113
         height: 91
@@ -18430,7 +18431,7 @@ TextureImporter:
       name: BG1_702
       rect:
         serializedVersion: 2
-        x: 1053
+        x: 957
         y: 389
         width: 6
         height: 7
@@ -18452,7 +18453,7 @@ TextureImporter:
       name: BG1_703
       rect:
         serializedVersion: 2
-        x: 1054
+        x: 958
         y: 321
         width: 7
         height: 15
@@ -18474,7 +18475,7 @@ TextureImporter:
       name: BG1_704
       rect:
         serializedVersion: 2
-        x: 1055
+        x: 959
         y: 452
         width: 7
         height: 6
@@ -18496,7 +18497,7 @@ TextureImporter:
       name: BG1_705
       rect:
         serializedVersion: 2
-        x: 1055
+        x: 959
         y: 396
         width: 9
         height: 8
@@ -18518,7 +18519,7 @@ TextureImporter:
       name: BG1_706
       rect:
         serializedVersion: 2
-        x: 1056
+        x: 960
         y: 457
         width: 6
         height: 8
@@ -18540,7 +18541,7 @@ TextureImporter:
       name: BG1_707
       rect:
         serializedVersion: 2
-        x: 1057
+        x: 961
         y: 321
         width: 15
         height: 26
@@ -18562,7 +18563,7 @@ TextureImporter:
       name: BG1_708
       rect:
         serializedVersion: 2
-        x: 1057
+        x: 961
         y: 301
         width: 7
         height: 12
@@ -18584,7 +18585,7 @@ TextureImporter:
       name: BG1_709
       rect:
         serializedVersion: 2
-        x: 1061
+        x: 965
         y: 355
         width: 21
         height: 36
@@ -18606,7 +18607,7 @@ TextureImporter:
       name: BG1_710
       rect:
         serializedVersion: 2
-        x: 1066
+        x: 970
         y: 315
         width: 7
         height: 6
@@ -18628,7 +18629,7 @@ TextureImporter:
       name: BG1_711
       rect:
         serializedVersion: 2
-        x: 1072
+        x: 976
         y: 313
         width: 18
         height: 16
@@ -18650,7 +18651,7 @@ TextureImporter:
       name: BG1_712
       rect:
         serializedVersion: 2
-        x: 1076
+        x: 980
         y: 328
         width: 19
         height: 14
@@ -18672,7 +18673,7 @@ TextureImporter:
       name: BG1_713
       rect:
         serializedVersion: 2
-        x: 1076
+        x: 980
         y: 304
         width: 6
         height: 10
@@ -18694,7 +18695,7 @@ TextureImporter:
       name: BG1_714
       rect:
         serializedVersion: 2
-        x: 1083
+        x: 987
         y: 342
         width: 6
         height: 6
@@ -18716,7 +18717,7 @@ TextureImporter:
       name: BG1_715
       rect:
         serializedVersion: 2
-        x: 1083
+        x: 987
         y: 304
         width: 7
         height: 10
@@ -18738,7 +18739,7 @@ TextureImporter:
       name: BG1_716
       rect:
         serializedVersion: 2
-        x: 1084
+        x: 988
         y: 355
         width: 25
         height: 31
@@ -18760,7 +18761,7 @@ TextureImporter:
       name: BG1_717
       rect:
         serializedVersion: 2
-        x: 1084
+        x: 988
         y: 237
         width: 20
         height: 19
@@ -18782,7 +18783,7 @@ TextureImporter:
       name: BG1_718
       rect:
         serializedVersion: 2
-        x: 1089
+        x: 993
         y: 348
         width: 15
         height: 15
@@ -18804,7 +18805,7 @@ TextureImporter:
       name: BG1_719
       rect:
         serializedVersion: 2
-        x: 1089
+        x: 993
         y: 312
         width: 12
         height: 9
@@ -18826,7 +18827,7 @@ TextureImporter:
       name: BG1_720
       rect:
         serializedVersion: 2
-        x: 1092
+        x: 996
         y: 326
         width: 20
         height: 21
@@ -18848,7 +18849,7 @@ TextureImporter:
       name: BG1_721
       rect:
         serializedVersion: 2
-        x: 1094
+        x: 998
         y: 361
         width: 7
         height: 7
@@ -18870,7 +18871,7 @@ TextureImporter:
       name: BG1_722
       rect:
         serializedVersion: 2
-        x: 1095
+        x: 999
         y: 349
         width: 6
         height: 6
@@ -18892,7 +18893,7 @@ TextureImporter:
       name: BG1_723
       rect:
         serializedVersion: 2
-        x: 1099
+        x: 1003
         y: 341
         width: 9
         height: 9
@@ -18914,7 +18915,7 @@ TextureImporter:
       name: BG1_724
       rect:
         serializedVersion: 2
-        x: 1102
+        x: 1006
         y: 388
         width: 17
         height: 60
@@ -18936,7 +18937,7 @@ TextureImporter:
       name: BG1_725
       rect:
         serializedVersion: 2
-        x: 1102
+        x: 1006
         y: 343
         width: 21
         height: 25
@@ -18958,7 +18959,7 @@ TextureImporter:
       name: BG1_726
       rect:
         serializedVersion: 2
-        x: 1103
+        x: 1007
         y: 383
         width: 6
         height: 13
@@ -18980,7 +18981,7 @@ TextureImporter:
       name: BG1_727
       rect:
         serializedVersion: 2
-        x: 1104
+        x: 1008
         y: 304
         width: 9
         height: 9
@@ -19002,7 +19003,7 @@ TextureImporter:
       name: BG1_728
       rect:
         serializedVersion: 2
-        x: 1105
+        x: 1009
         y: 375
         width: 8
         height: 9
@@ -19024,7 +19025,7 @@ TextureImporter:
       name: BG1_729
       rect:
         serializedVersion: 2
-        x: 1106
+        x: 1010
         y: 314
         width: 7
         height: 9
@@ -19046,7 +19047,7 @@ TextureImporter:
       name: BG1_730
       rect:
         serializedVersion: 2
-        x: 1112
+        x: 1016
         y: 311
         width: 6
         height: 15
@@ -19068,7 +19069,7 @@ TextureImporter:
       name: BG1_731
       rect:
         serializedVersion: 2
-        x: 1118
+        x: 1022
         y: 321
         width: 13
         height: 15
@@ -19090,7 +19091,7 @@ TextureImporter:
       name: BG1_732
       rect:
         serializedVersion: 2
-        x: 1131
+        x: 1035
         y: 229
         width: 20
         height: 32
@@ -19112,7 +19113,7 @@ TextureImporter:
       name: BG1_733
       rect:
         serializedVersion: 2
-        x: 1144
+        x: 1048
         y: 259
         width: 27
         height: 32
@@ -19134,7 +19135,7 @@ TextureImporter:
       name: BG1_734
       rect:
         serializedVersion: 2
-        x: 1149
+        x: 1053
         y: 247
         width: 16
         height: 13
@@ -19156,7 +19157,7 @@ TextureImporter:
       name: BG1_735
       rect:
         serializedVersion: 2
-        x: 1150
+        x: 1054
         y: 229
         width: 7
         height: 12
@@ -19178,7 +19179,7 @@ TextureImporter:
       name: BG1_736
       rect:
         serializedVersion: 2
-        x: 1155
+        x: 1059
         y: 284
         width: 8
         height: 9
@@ -19200,7 +19201,7 @@ TextureImporter:
       name: BG1_737
       rect:
         serializedVersion: 2
-        x: 1157
+        x: 1061
         y: 305
         width: 7
         height: 6
@@ -19222,7 +19223,7 @@ TextureImporter:
       name: BG1_738
       rect:
         serializedVersion: 2
-        x: 1160
+        x: 1064
         y: 312
         width: 8
         height: 6
@@ -19244,7 +19245,7 @@ TextureImporter:
       name: BG1_739
       rect:
         serializedVersion: 2
-        x: 1160
+        x: 1064
         y: 298
         width: 6
         height: 6
@@ -19266,7 +19267,7 @@ TextureImporter:
       name: BG1_740
       rect:
         serializedVersion: 2
-        x: 1161
+        x: 1065
         y: 318
         width: 7
         height: 7
@@ -19288,7 +19289,7 @@ TextureImporter:
       name: BG1_741
       rect:
         serializedVersion: 2
-        x: 1161
+        x: 1065
         y: 292
         width: 11
         height: 6
@@ -19310,7 +19311,7 @@ TextureImporter:
       name: BG1_742
       rect:
         serializedVersion: 2
-        x: 1167
+        x: 1071
         y: 271
         width: 6
         height: 9
@@ -19332,7 +19333,7 @@ TextureImporter:
       name: BG1_743
       rect:
         serializedVersion: 2
-        x: 1168
+        x: 1072
         y: 286
         width: 7
         height: 6
@@ -19354,7 +19355,7 @@ TextureImporter:
       name: BG1_744
       rect:
         serializedVersion: 2
-        x: 1168
+        x: 1072
         y: 253
         width: 6
         height: 13
@@ -19376,7 +19377,7 @@ TextureImporter:
       name: BG1_745
       rect:
         serializedVersion: 2
-        x: 1171
+        x: 1075
         y: 291
         width: 12
         height: 7
@@ -19398,7 +19399,7 @@ TextureImporter:
       name: BG1_746
       rect:
         serializedVersion: 2
-        x: 1171
+        x: 1075
         y: 247
         width: 6
         height: 6
@@ -19420,7 +19421,7 @@ TextureImporter:
       name: BG1_747
       rect:
         serializedVersion: 2
-        x: 1171
+        x: 1075
         y: 241
         width: 6
         height: 6
@@ -19442,7 +19443,7 @@ TextureImporter:
       name: BG1_748
       rect:
         serializedVersion: 2
-        x: 1174
+        x: 1078
         y: 273
         width: 9
         height: 6
@@ -19464,7 +19465,7 @@ TextureImporter:
       name: BG1_749
       rect:
         serializedVersion: 2
-        x: 1178
+        x: 1082
         y: 280
         width: 7
         height: 6
@@ -19486,7 +19487,7 @@ TextureImporter:
       name: BG1_750
       rect:
         serializedVersion: 2
-        x: 1180
+        x: 1084
         y: 371
         width: 6
         height: 11
@@ -19508,7 +19509,7 @@ TextureImporter:
       name: BG1_751
       rect:
         serializedVersion: 2
-        x: 1181
+        x: 1085
         y: 267
         width: 9
         height: 6
@@ -19530,7 +19531,7 @@ TextureImporter:
       name: BG1_752
       rect:
         serializedVersion: 2
-        x: 1183
+        x: 1087
         y: 305
         width: 7
         height: 7
@@ -19552,7 +19553,7 @@ TextureImporter:
       name: BG1_753
       rect:
         serializedVersion: 2
-        x: 1183
+        x: 1087
         y: 273
         width: 8
         height: 6
@@ -19574,7 +19575,7 @@ TextureImporter:
       name: BG1_754
       rect:
         serializedVersion: 2
-        x: 1185
+        x: 1089
         y: 377
         width: 8
         height: 15
@@ -19596,7 +19597,7 @@ TextureImporter:
       name: BG1_755
       rect:
         serializedVersion: 2
-        x: 1190
+        x: 1094
         y: 306
         width: 6
         height: 7
@@ -19618,7 +19619,7 @@ TextureImporter:
       name: BG1_756
       rect:
         serializedVersion: 2
-        x: 1192
+        x: 1096
         y: 370
         width: 11
         height: 19
@@ -19640,7 +19641,7 @@ TextureImporter:
       name: BG1_757
       rect:
         serializedVersion: 2
-        x: 1193
+        x: 1097
         y: 321
         width: 6
         height: 8
@@ -19662,7 +19663,7 @@ TextureImporter:
       name: BG1_758
       rect:
         serializedVersion: 2
-        x: 1195
+        x: 1099
         y: 240
         width: 10
         height: 6
@@ -19684,7 +19685,7 @@ TextureImporter:
       name: BG1_759
       rect:
         serializedVersion: 2
-        x: 1196
+        x: 1100
         y: 260
         width: 8
         height: 7
@@ -19706,7 +19707,7 @@ TextureImporter:
       name: BG1_760
       rect:
         serializedVersion: 2
-        x: 1205
+        x: 1109
         y: 254
         width: 10
         height: 7
@@ -19728,7 +19729,7 @@ TextureImporter:
       name: BG1_761
       rect:
         serializedVersion: 2
-        x: 1228
+        x: 1132
         y: 229
         width: 6
         height: 7
@@ -19750,7 +19751,7 @@ TextureImporter:
       name: BG1_762
       rect:
         serializedVersion: 2
-        x: 1231
+        x: 1135
         y: 256
         width: 7
         height: 6
@@ -19772,7 +19773,7 @@ TextureImporter:
       name: BG1_763
       rect:
         serializedVersion: 2
-        x: 1232
+        x: 1136
         y: 235
         width: 6
         height: 7
@@ -19794,7 +19795,7 @@ TextureImporter:
       name: BG1_764
       rect:
         serializedVersion: 2
-        x: 1233
+        x: 1137
         y: 248
         width: 9
         height: 6
@@ -19816,7 +19817,7 @@ TextureImporter:
       name: BG1_765
       rect:
         serializedVersion: 2
-        x: 1233
+        x: 1137
         y: 228
         width: 15
         height: 7
@@ -19838,7 +19839,7 @@ TextureImporter:
       name: BG1_766
       rect:
         serializedVersion: 2
-        x: 1239
+        x: 1143
         y: 234
         width: 6
         height: 8
@@ -19860,7 +19861,7 @@ TextureImporter:
       name: BG1_767
       rect:
         serializedVersion: 2
-        x: 1241
+        x: 1145
         y: 241
         width: 17
         height: 8
@@ -19882,7 +19883,7 @@ TextureImporter:
       name: BG1_768
       rect:
         serializedVersion: 2
-        x: 1247
+        x: 1151
         y: 229
         width: 6
         height: 7
@@ -19904,7 +19905,7 @@ TextureImporter:
       name: BG1_769
       rect:
         serializedVersion: 2
-        x: 1248
+        x: 1152
         y: 236
         width: 7
         height: 6
@@ -19926,7 +19927,7 @@ TextureImporter:
       name: BG1_770
       rect:
         serializedVersion: 2
-        x: 1252
+        x: 1156
         y: 255
         width: 24
         height: 7
@@ -19948,7 +19949,7 @@ TextureImporter:
       name: BG1_771
       rect:
         serializedVersion: 2
-        x: 1262
+        x: 1166
         y: 456
         width: 6
         height: 7
@@ -19970,7 +19971,7 @@ TextureImporter:
       name: BG1_772
       rect:
         serializedVersion: 2
-        x: 1263
+        x: 1167
         y: 242
         width: 6
         height: 8
@@ -19992,7 +19993,7 @@ TextureImporter:
       name: BG1_773
       rect:
         serializedVersion: 2
-        x: 1274
+        x: 1178
         y: 237
         width: 8
         height: 12
@@ -20014,7 +20015,7 @@ TextureImporter:
       name: BG1_774
       rect:
         serializedVersion: 2
-        x: 1279
+        x: 1183
         y: 224
         width: 9
         height: 7
@@ -20036,7 +20037,7 @@ TextureImporter:
       name: BG1_775
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 1184
         y: 243
         width: 6
         height: 6
@@ -20058,7 +20059,7 @@ TextureImporter:
       name: BG1_776
       rect:
         serializedVersion: 2
-        x: 1294
+        x: 1198
         y: 365
         width: 7
         height: 11
@@ -20080,7 +20081,7 @@ TextureImporter:
       name: BG1_777
       rect:
         serializedVersion: 2
-        x: 1295
+        x: 1199
         y: 430
         width: 7
         height: 11
@@ -20102,7 +20103,7 @@ TextureImporter:
       name: BG1_778
       rect:
         serializedVersion: 2
-        x: 1295
+        x: 1199
         y: 391
         width: 6
         height: 8
@@ -20124,7 +20125,7 @@ TextureImporter:
       name: BG1_779
       rect:
         serializedVersion: 2
-        x: 1295
+        x: 1199
         y: 379
         width: 6
         height: 9
@@ -20146,7 +20147,7 @@ TextureImporter:
       name: BG1_780
       rect:
         serializedVersion: 2
-        x: 1297
+        x: 1201
         y: 398
         width: 6
         height: 8
@@ -20168,7 +20169,7 @@ TextureImporter:
       name: BG1_781
       rect:
         serializedVersion: 2
-        x: 1298
+        x: 1202
         y: 452
         width: 8
         height: 6
@@ -20190,7 +20191,7 @@ TextureImporter:
       name: BG1_782
       rect:
         serializedVersion: 2
-        x: 1298
+        x: 1202
         y: 439
         width: 6
         height: 12
@@ -20212,7 +20213,7 @@ TextureImporter:
       name: BG1_783
       rect:
         serializedVersion: 2
-        x: 1299
+        x: 1203
         y: 224
         width: 13
         height: 8
@@ -20234,7 +20235,7 @@ TextureImporter:
       name: BG1_784
       rect:
         serializedVersion: 2
-        x: 1301
+        x: 1205
         y: 366
         width: 11
         height: 13
@@ -20256,7 +20257,7 @@ TextureImporter:
       name: BG1_785
       rect:
         serializedVersion: 2
-        x: 1301
+        x: 1205
         y: 231
         width: 7
         height: 13
@@ -20278,7 +20279,7 @@ TextureImporter:
       name: BG1_786
       rect:
         serializedVersion: 2
-        x: 1302
+        x: 1206
         y: 245
         width: 6
         height: 7
@@ -20300,7 +20301,7 @@ TextureImporter:
       name: BG1_787
       rect:
         serializedVersion: 2
-        x: 1304
+        x: 1208
         y: 264
         width: 7
         height: 7
@@ -20322,7 +20323,7 @@ TextureImporter:
       name: BG1_788
       rect:
         serializedVersion: 2
-        x: 1306
+        x: 1210
         y: 245
         width: 10
         height: 12
@@ -20344,7 +20345,7 @@ TextureImporter:
       name: BG1_789
       rect:
         serializedVersion: 2
-        x: 1307
+        x: 1211
         y: 239
         width: 12
         height: 7
@@ -20366,7 +20367,7 @@ TextureImporter:
       name: BG1_790
       rect:
         serializedVersion: 2
-        x: 1308
+        x: 1212
         y: 255
         width: 6
         height: 10
@@ -20388,7 +20389,7 @@ TextureImporter:
       name: BG1_791
       rect:
         serializedVersion: 2
-        x: 1308
+        x: 1212
         y: 227
         width: 21
         height: 12
@@ -20410,7 +20411,7 @@ TextureImporter:
       name: BG1_792
       rect:
         serializedVersion: 2
-        x: 1309
+        x: 1213
         y: 220
         width: 8
         height: 6
@@ -20432,7 +20433,7 @@ TextureImporter:
       name: BG1_793
       rect:
         serializedVersion: 2
-        x: 1310
+        x: 1214
         y: 266
         width: 9
         height: 6
@@ -20454,7 +20455,7 @@ TextureImporter:
       name: BG1_794
       rect:
         serializedVersion: 2
-        x: 1311
+        x: 1215
         y: 201
         width: 14
         height: 19
@@ -20476,7 +20477,7 @@ TextureImporter:
       name: BG1_795
       rect:
         serializedVersion: 2
-        x: 1313
+        x: 1217
         y: 225
         width: 6
         height: 7
@@ -20498,7 +20499,7 @@ TextureImporter:
       name: BG1_796
       rect:
         serializedVersion: 2
-        x: 1316
+        x: 1220
         y: 246
         width: 12
         height: 6
@@ -20520,7 +20521,7 @@ TextureImporter:
       name: BG1_797
       rect:
         serializedVersion: 2
-        x: 1316
+        x: 1220
         y: 219
         width: 8
         height: 7
@@ -20542,7 +20543,7 @@ TextureImporter:
       name: BG1_798
       rect:
         serializedVersion: 2
-        x: 1318
+        x: 1222
         y: 239
         width: 9
         height: 8
@@ -20564,7 +20565,7 @@ TextureImporter:
       name: BG1_799
       rect:
         serializedVersion: 2
-        x: 1329
+        x: 1233
         y: 233
         width: 6
         height: 14
@@ -20586,7 +20587,7 @@ TextureImporter:
       name: BG1_800
       rect:
         serializedVersion: 2
-        x: 1329
+        x: 1233
         y: 221
         width: 8
         height: 11
@@ -20608,7 +20609,7 @@ TextureImporter:
       name: BG1_801
       rect:
         serializedVersion: 2
-        x: 1329
+        x: 1233
         y: 209
         width: 15
         height: 22
@@ -20630,7 +20631,7 @@ TextureImporter:
       name: BG1_802
       rect:
         serializedVersion: 2
-        x: 1332
+        x: 1236
         y: 392
         width: 9
         height: 6
@@ -20652,7 +20653,7 @@ TextureImporter:
       name: BG1_803
       rect:
         serializedVersion: 2
-        x: 1333
+        x: 1237
         y: 419
         width: 6
         height: 7
@@ -20674,7 +20675,7 @@ TextureImporter:
       name: BG1_804
       rect:
         serializedVersion: 2
-        x: 1334
+        x: 1238
         y: 233
         width: 13
         height: 19
@@ -20696,7 +20697,7 @@ TextureImporter:
       name: BG1_805
       rect:
         serializedVersion: 2
-        x: 1339
+        x: 1243
         y: 399
         width: 8
         height: 13
@@ -20718,7 +20719,7 @@ TextureImporter:
       name: BG1_806
       rect:
         serializedVersion: 2
-        x: 1340
+        x: 1244
         y: 466
         width: 9
         height: 14
@@ -20740,7 +20741,7 @@ TextureImporter:
       name: BG1_807
       rect:
         serializedVersion: 2
-        x: 1340
+        x: 1244
         y: 433
         width: 6
         height: 13
@@ -20762,7 +20763,7 @@ TextureImporter:
       name: BG1_808
       rect:
         serializedVersion: 2
-        x: 1340
+        x: 1244
         y: 372
         width: 7
         height: 10
@@ -20784,7 +20785,7 @@ TextureImporter:
       name: BG1_809
       rect:
         serializedVersion: 2
-        x: 1340
+        x: 1244
         y: 220
         width: 28
         height: 20
@@ -20806,7 +20807,7 @@ TextureImporter:
       name: BG1_810
       rect:
         serializedVersion: 2
-        x: 1343
+        x: 1247
         y: 350
         width: 9
         height: 7
@@ -20828,7 +20829,7 @@ TextureImporter:
       name: BG1_811
       rect:
         serializedVersion: 2
-        x: 1343
+        x: 1247
         y: 345
         width: 7
         height: 6
@@ -20850,7 +20851,7 @@ TextureImporter:
       name: BG1_812
       rect:
         serializedVersion: 2
-        x: 1344
+        x: 1248
         y: 180
         width: 25
         height: 46
@@ -20872,7 +20873,7 @@ TextureImporter:
       name: BG1_813
       rect:
         serializedVersion: 2
-        x: 1346
+        x: 1250
         y: 379
         width: 6
         height: 6
@@ -20894,7 +20895,7 @@ TextureImporter:
       name: BG1_814
       rect:
         serializedVersion: 2
-        x: 1348
+        x: 1252
         y: 239
         width: 6
         height: 8
@@ -20916,7 +20917,7 @@ TextureImporter:
       name: BG1_815
       rect:
         serializedVersion: 2
-        x: 1351
+        x: 1255
         y: 273
         width: 7
         height: 6
@@ -20938,7 +20939,7 @@ TextureImporter:
       name: BG1_816
       rect:
         serializedVersion: 2
-        x: 1352
+        x: 1256
         y: 286
         width: 6
         height: 12
@@ -20960,7 +20961,7 @@ TextureImporter:
       name: BG1_817
       rect:
         serializedVersion: 2
-        x: 1353
+        x: 1257
         y: 346
         width: 17
         height: 18
@@ -20982,7 +20983,7 @@ TextureImporter:
       name: BG1_818
       rect:
         serializedVersion: 2
-        x: 1354
+        x: 1258
         y: 248
         width: 10
         height: 6
@@ -21004,7 +21005,7 @@ TextureImporter:
       name: BG1_819
       rect:
         serializedVersion: 2
-        x: 1355
+        x: 1259
         y: 162
         width: 75
         height: 192
@@ -21026,7 +21027,7 @@ TextureImporter:
       name: BG1_820
       rect:
         serializedVersion: 2
-        x: 1356
+        x: 1260
         y: 299
         width: 7
         height: 6
@@ -21048,7 +21049,7 @@ TextureImporter:
       name: BG1_821
       rect:
         serializedVersion: 2
-        x: 1359
+        x: 1263
         y: 427
         width: 11
         height: 28
@@ -21070,7 +21071,7 @@ TextureImporter:
       name: BG1_822
       rect:
         serializedVersion: 2
-        x: 1359
+        x: 1263
         y: 362
         width: 11
         height: 24
@@ -21092,7 +21093,7 @@ TextureImporter:
       name: BG1_823
       rect:
         serializedVersion: 2
-        x: 1360
+        x: 1264
         y: 400
         width: 9
         height: 32
@@ -21114,7 +21115,7 @@ TextureImporter:
       name: BG1_824
       rect:
         serializedVersion: 2
-        x: 1360
+        x: 1264
         y: 214
         width: 6
         height: 7
@@ -21136,7 +21137,7 @@ TextureImporter:
       name: BG1_825
       rect:
         serializedVersion: 2
-        x: 1361
+        x: 1265
         y: 454
         width: 10
         height: 6
@@ -21158,7 +21159,7 @@ TextureImporter:
       name: BG1_826
       rect:
         serializedVersion: 2
-        x: 1361
+        x: 1265
         y: 386
         width: 8
         height: 13
@@ -21180,7 +21181,7 @@ TextureImporter:
       name: BG1_827
       rect:
         serializedVersion: 2
-        x: 1362
+        x: 1266
         y: 460
         width: 7
         height: 6
@@ -21202,7 +21203,7 @@ TextureImporter:
       name: BG1_828
       rect:
         serializedVersion: 2
-        x: 1362
+        x: 1266
         y: 286
         width: 6
         height: 6
@@ -21224,7 +21225,7 @@ TextureImporter:
       name: BG1_829
       rect:
         serializedVersion: 2
-        x: 1363
+        x: 1267
         y: 272
         width: 19
         height: 14
@@ -21246,7 +21247,7 @@ TextureImporter:
       name: BG1_830
       rect:
         serializedVersion: 2
-        x: 1363
+        x: 1267
         y: 258
         width: 6
         height: 8
@@ -21268,7 +21269,7 @@ TextureImporter:
       name: BG1_831
       rect:
         serializedVersion: 2
-        x: 1366
+        x: 1270
         y: 474
         width: 7
         height: 6
@@ -21290,7 +21291,7 @@ TextureImporter:
       name: BG1_832
       rect:
         serializedVersion: 2
-        x: 1368
+        x: 1272
         y: 220
         width: 6
         height: 6
@@ -21312,7 +21313,7 @@ TextureImporter:
       name: BG1_833
       rect:
         serializedVersion: 2
-        x: 1368
+        x: 1272
         y: 211
         width: 12
         height: 7
@@ -21334,7 +21335,7 @@ TextureImporter:
       name: BG1_834
       rect:
         serializedVersion: 2
-        x: 1368
+        x: 1272
         y: 206
         width: 7
         height: 6
@@ -21356,7 +21357,7 @@ TextureImporter:
       name: BG1_835
       rect:
         serializedVersion: 2
-        x: 1370
+        x: 1274
         y: 386
         width: 8
         height: 6
@@ -21378,7 +21379,7 @@ TextureImporter:
       name: BG1_836
       rect:
         serializedVersion: 2
-        x: 1370
+        x: 1274
         y: 340
         width: 40
         height: 47
@@ -21400,7 +21401,7 @@ TextureImporter:
       name: BG1_837
       rect:
         serializedVersion: 2
-        x: 1370
+        x: 1274
         y: 353
         width: 7
         height: 13
@@ -21422,7 +21423,7 @@ TextureImporter:
       name: BG1_838
       rect:
         serializedVersion: 2
-        x: 1370
+        x: 1274
         y: 286
         width: 12
         height: 13
@@ -21444,7 +21445,7 @@ TextureImporter:
       name: BG1_839
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 437
         width: 32
         height: 30
@@ -21466,7 +21467,7 @@ TextureImporter:
       name: BG1_840
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 396
         width: 38
         height: 46
@@ -21488,7 +21489,7 @@ TextureImporter:
       name: BG1_841
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 434
         width: 6
         height: 6
@@ -21510,7 +21511,7 @@ TextureImporter:
       name: BG1_842
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 259
         width: 7
         height: 13
@@ -21532,7 +21533,7 @@ TextureImporter:
       name: BG1_843
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 239
         width: 8
         height: 6
@@ -21554,7 +21555,7 @@ TextureImporter:
       name: BG1_844
       rect:
         serializedVersion: 2
-        x: 1371
+        x: 1275
         y: 225
         width: 10
         height: 7
@@ -21576,7 +21577,7 @@ TextureImporter:
       name: BG1_845
       rect:
         serializedVersion: 2
-        x: 1372
+        x: 1276
         y: 247
         width: 8
         height: 11
@@ -21598,7 +21599,7 @@ TextureImporter:
       name: BG1_846
       rect:
         serializedVersion: 2
-        x: 1374
+        x: 1278
         y: 474
         width: 8
         height: 7
@@ -21620,7 +21621,7 @@ TextureImporter:
       name: BG1_847
       rect:
         serializedVersion: 2
-        x: 1376
+        x: 1280
         y: 379
         width: 26
         height: 21
@@ -21642,7 +21643,7 @@ TextureImporter:
       name: BG1_848
       rect:
         serializedVersion: 2
-        x: 1376
+        x: 1280
         y: 232
         width: 6
         height: 6
@@ -21664,7 +21665,7 @@ TextureImporter:
       name: BG1_849
       rect:
         serializedVersion: 2
-        x: 1377
+        x: 1281
         y: 466
         width: 9
         height: 9
@@ -21686,7 +21687,7 @@ TextureImporter:
       name: BG1_850
       rect:
         serializedVersion: 2
-        x: 1377
+        x: 1281
         y: 428
         width: 12
         height: 13
@@ -21708,7 +21709,7 @@ TextureImporter:
       name: BG1_851
       rect:
         serializedVersion: 2
-        x: 1378
+        x: 1282
         y: 447
         width: 12
         height: 8
@@ -21730,7 +21731,7 @@ TextureImporter:
       name: BG1_852
       rect:
         serializedVersion: 2
-        x: 1378
+        x: 1282
         y: 440
         width: 12
         height: 8
@@ -21752,7 +21753,7 @@ TextureImporter:
       name: BG1_853
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 1286
         y: 466
         width: 19
         height: 16
@@ -21774,7 +21775,7 @@ TextureImporter:
       name: BG1_854
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 1286
         y: 460
         width: 8
         height: 7
@@ -21796,7 +21797,7 @@ TextureImporter:
       name: BG1_855
       rect:
         serializedVersion: 2
-        x: 1384
+        x: 1288
         y: 329
         width: 15
         height: 23
@@ -21818,7 +21819,7 @@ TextureImporter:
       name: BG1_856
       rect:
         serializedVersion: 2
-        x: 1387
+        x: 1291
         y: 266
         width: 7
         height: 6
@@ -21840,7 +21841,7 @@ TextureImporter:
       name: BG1_857
       rect:
         serializedVersion: 2
-        x: 1389
+        x: 1293
         y: 448
         width: 9
         height: 7
@@ -21862,7 +21863,7 @@ TextureImporter:
       name: BG1_858
       rect:
         serializedVersion: 2
-        x: 1389
+        x: 1293
         y: 440
         width: 7
         height: 9
@@ -21884,7 +21885,7 @@ TextureImporter:
       name: BG1_859
       rect:
         serializedVersion: 2
-        x: 1390
+        x: 1294
         y: 461
         width: 6
         height: 6
@@ -21906,7 +21907,7 @@ TextureImporter:
       name: BG1_860
       rect:
         serializedVersion: 2
-        x: 1390
+        x: 1294
         y: 435
         width: 7
         height: 6
@@ -21928,7 +21929,7 @@ TextureImporter:
       name: BG1_861
       rect:
         serializedVersion: 2
-        x: 1396
+        x: 1300
         y: 448
         width: 16
         height: 27
@@ -21950,7 +21951,7 @@ TextureImporter:
       name: BG1_862
       rect:
         serializedVersion: 2
-        x: 1400
+        x: 1304
         y: 387
         width: 7
         height: 6
@@ -21972,7 +21973,7 @@ TextureImporter:
       name: BG1_863
       rect:
         serializedVersion: 2
-        x: 1401
+        x: 1305
         y: 468
         width: 6
         height: 14
@@ -21994,7 +21995,7 @@ TextureImporter:
       name: BG1_864
       rect:
         serializedVersion: 2
-        x: 1401
+        x: 1305
         y: 395
         width: 8
         height: 26
@@ -22016,7 +22017,7 @@ TextureImporter:
       name: BG1_865
       rect:
         serializedVersion: 2
-        x: 1403
+        x: 1307
         y: 353
         width: 7
         height: 7
@@ -22038,7 +22039,7 @@ TextureImporter:
       name: BG1_866
       rect:
         serializedVersion: 2
-        x: 1404
+        x: 1308
         y: 360
         width: 8
         height: 7
@@ -22060,7 +22061,7 @@ TextureImporter:
       name: BG1_867
       rect:
         serializedVersion: 2
-        x: 1405
+        x: 1309
         y: 267
         width: 11
         height: 6
@@ -22082,7 +22083,7 @@ TextureImporter:
       name: BG1_868
       rect:
         serializedVersion: 2
-        x: 1405
+        x: 1309
         y: 260
         width: 6
         height: 6
@@ -22104,7 +22105,7 @@ TextureImporter:
       name: BG1_869
       rect:
         serializedVersion: 2
-        x: 1407
+        x: 1311
         y: 389
         width: 18
         height: 32
@@ -22126,7 +22127,7 @@ TextureImporter:
       name: BG1_870
       rect:
         serializedVersion: 2
-        x: 1408
+        x: 1312
         y: 402
         width: 20
         height: 37
@@ -22148,7 +22149,7 @@ TextureImporter:
       name: BG1_871
       rect:
         serializedVersion: 2
-        x: 1408
+        x: 1312
         y: 364
         width: 20
         height: 23
@@ -22170,7 +22171,7 @@ TextureImporter:
       name: BG1_872
       rect:
         serializedVersion: 2
-        x: 1411
+        x: 1315
         y: 455
         width: 15
         height: 13
@@ -22192,7 +22193,7 @@ TextureImporter:
       name: BG1_873
       rect:
         serializedVersion: 2
-        x: 1411
+        x: 1315
         y: 346
         width: 18
         height: 25
@@ -22214,7 +22215,7 @@ TextureImporter:
       name: BG1_874
       rect:
         serializedVersion: 2
-        x: 1411
+        x: 1315
         y: 287
         width: 6
         height: 7
@@ -22236,7 +22237,7 @@ TextureImporter:
       name: BG1_875
       rect:
         serializedVersion: 2
-        x: 1547
+        x: 1451
         y: 454
         width: 6
         height: 7
@@ -22258,7 +22259,7 @@ TextureImporter:
       name: BG1_876
       rect:
         serializedVersion: 2
-        x: 1563
+        x: 1467
         y: 311
         width: 9
         height: 6
@@ -22280,7 +22281,7 @@ TextureImporter:
       name: BG1_877
       rect:
         serializedVersion: 2
-        x: 1564
+        x: 1468
         y: 172
         width: 6
         height: 7
@@ -22302,7 +22303,7 @@ TextureImporter:
       name: BG1_878
       rect:
         serializedVersion: 2
-        x: 1575
+        x: 1479
         y: 287
         width: 6
         height: 6
@@ -22324,7 +22325,7 @@ TextureImporter:
       name: BG1_879
       rect:
         serializedVersion: 2
-        x: 1575
+        x: 1479
         y: 279
         width: 8
         height: 8
@@ -22346,7 +22347,7 @@ TextureImporter:
       name: BG1_880
       rect:
         serializedVersion: 2
-        x: 1576
+        x: 1480
         y: 366
         width: 7
         height: 7
@@ -22368,7 +22369,7 @@ TextureImporter:
       name: BG1_881
       rect:
         serializedVersion: 2
-        x: 1577
+        x: 1481
         y: 295
         width: 11
         height: 11
@@ -22390,7 +22391,7 @@ TextureImporter:
       name: BG1_882
       rect:
         serializedVersion: 2
-        x: 1577
+        x: 1481
         y: 268
         width: 6
         height: 6
@@ -22412,7 +22413,7 @@ TextureImporter:
       name: BG1_883
       rect:
         serializedVersion: 2
-        x: 1577
+        x: 1481
         y: 164
         width: 7
         height: 6
@@ -22434,7 +22435,7 @@ TextureImporter:
       name: BG1_884
       rect:
         serializedVersion: 2
-        x: 1578
+        x: 1482
         y: 360
         width: 6
         height: 7
@@ -22456,7 +22457,7 @@ TextureImporter:
       name: BG1_885
       rect:
         serializedVersion: 2
-        x: 1579
+        x: 1483
         y: 327
         width: 6
         height: 6
@@ -22478,7 +22479,7 @@ TextureImporter:
       name: BG1_886
       rect:
         serializedVersion: 2
-        x: 1579
+        x: 1483
         y: 320
         width: 9
         height: 6
@@ -22500,7 +22501,7 @@ TextureImporter:
       name: BG1_887
       rect:
         serializedVersion: 2
-        x: 1580
+        x: 1484
         y: 312
         width: 7
         height: 7
@@ -22522,7 +22523,7 @@ TextureImporter:
       name: BG1_888
       rect:
         serializedVersion: 2
-        x: 1581
+        x: 1485
         y: 420
         width: 15
         height: 35
@@ -22544,7 +22545,7 @@ TextureImporter:
       name: BG1_889
       rect:
         serializedVersion: 2
-        x: 1581
+        x: 1485
         y: 287
         width: 12
         height: 7
@@ -22566,7 +22567,7 @@ TextureImporter:
       name: BG1_890
       rect:
         serializedVersion: 2
-        x: 1585
+        x: 1489
         y: 385
         width: 11
         height: 40
@@ -22588,7 +22589,7 @@ TextureImporter:
       name: BG1_891
       rect:
         serializedVersion: 2
-        x: 1588
+        x: 1492
         y: 373
         width: 11
         height: 9
@@ -22610,7 +22611,7 @@ TextureImporter:
       name: BG1_892
       rect:
         serializedVersion: 2
-        x: 1588
+        x: 1492
         y: 360
         width: 6
         height: 13
@@ -22632,7 +22633,7 @@ TextureImporter:
       name: BG1_893
       rect:
         serializedVersion: 2
-        x: 1594
+        x: 1498
         y: 360
         width: 10
         height: 13
@@ -22654,7 +22655,7 @@ TextureImporter:
       name: BG1_894
       rect:
         serializedVersion: 2
-        x: 1596
+        x: 1500
         y: 428
         width: 18
         height: 28
@@ -22676,7 +22677,7 @@ TextureImporter:
       name: BG1_895
       rect:
         serializedVersion: 2
-        x: 1596
+        x: 1500
         y: 399
         width: 20
         height: 34
@@ -22698,7 +22699,7 @@ TextureImporter:
       name: BG1_896
       rect:
         serializedVersion: 2
-        x: 1596
+        x: 1500
         y: 384
         width: 15
         height: 18
@@ -22720,7 +22721,7 @@ TextureImporter:
       name: BG1_897
       rect:
         serializedVersion: 2
-        x: 1596
+        x: 1500
         y: 353
         width: 9
         height: 8
@@ -22742,7 +22743,7 @@ TextureImporter:
       name: BG1_898
       rect:
         serializedVersion: 2
-        x: 1597
+        x: 1501
         y: 347
         width: 10
         height: 7
@@ -22764,7 +22765,7 @@ TextureImporter:
       name: BG1_899
       rect:
         serializedVersion: 2
-        x: 1598
+        x: 1502
         y: 315
         width: 7
         height: 18
@@ -22786,7 +22787,7 @@ TextureImporter:
       name: BG1_900
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 1504
         y: 373
         width: 6
         height: 8
@@ -22808,7 +22809,7 @@ TextureImporter:
       name: BG1_901
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 1504
         y: 335
         width: 7
         height: 11
@@ -22830,7 +22831,7 @@ TextureImporter:
       name: BG1_902
       rect:
         serializedVersion: 2
-        x: 1601
+        x: 1505
         y: 396
         width: 7
         height: 11
@@ -22852,7 +22853,7 @@ TextureImporter:
       name: BG1_903
       rect:
         serializedVersion: 2
-        x: 1602
+        x: 1506
         y: 379
         width: 7
         height: 7
@@ -22874,7 +22875,7 @@ TextureImporter:
       name: BG1_904
       rect:
         serializedVersion: 2
-        x: 1604
+        x: 1508
         y: 354
         width: 9
         height: 19
@@ -22896,7 +22897,7 @@ TextureImporter:
       name: BG1_905
       rect:
         serializedVersion: 2
-        x: 1604
+        x: 1508
         y: 335
         width: 7
         height: 6
@@ -22918,7 +22919,7 @@ TextureImporter:
       name: BG1_906
       rect:
         serializedVersion: 2
-        x: 1605
+        x: 1509
         y: 328
         width: 6
         height: 7
@@ -22940,7 +22941,7 @@ TextureImporter:
       name: BG1_907
       rect:
         serializedVersion: 2
-        x: 1610
+        x: 1514
         y: 416
         width: 19
         height: 34
@@ -22962,7 +22963,7 @@ TextureImporter:
       name: BG1_908
       rect:
         serializedVersion: 2
-        x: 1610
+        x: 1514
         y: 322
         width: 8
         height: 16
@@ -22984,7 +22985,7 @@ TextureImporter:
       name: BG1_909
       rect:
         serializedVersion: 2
-        x: 1613
+        x: 1517
         y: 355
         width: 8
         height: 14
@@ -23006,7 +23007,7 @@ TextureImporter:
       name: BG1_910
       rect:
         serializedVersion: 2
-        x: 1617
+        x: 1521
         y: 390
         width: 8
         height: 11
@@ -23028,7 +23029,7 @@ TextureImporter:
       name: BG1_911
       rect:
         serializedVersion: 2
-        x: 1618
+        x: 1522
         y: 400
         width: 8
         height: 16
@@ -23050,7 +23051,7 @@ TextureImporter:
       name: BG1_912
       rect:
         serializedVersion: 2
-        x: 1619
+        x: 1523
         y: 465
         width: 7
         height: 10
@@ -23072,7 +23073,7 @@ TextureImporter:
       name: BG1_913
       rect:
         serializedVersion: 2
-        x: 1626
+        x: 1530
         y: 395
         width: 11
         height: 9
@@ -23094,7 +23095,7 @@ TextureImporter:
       name: BG1_914
       rect:
         serializedVersion: 2
-        x: 1637
+        x: 1541
         y: 396
         width: 11
         height: 8
@@ -23116,7 +23117,7 @@ TextureImporter:
       name: BG1_915
       rect:
         serializedVersion: 2
-        x: 1637
+        x: 1541
         y: 362
         width: 8
         height: 13
@@ -23138,7 +23139,7 @@ TextureImporter:
       name: BG1_916
       rect:
         serializedVersion: 2
-        x: 1638
+        x: 1542
         y: 405
         width: 6
         height: 9
@@ -23160,7 +23161,7 @@ TextureImporter:
       name: BG1_917
       rect:
         serializedVersion: 2
-        x: 1638
+        x: 1542
         y: 331
         width: 7
         height: 6
@@ -23182,7 +23183,7 @@ TextureImporter:
       name: BG1_918
       rect:
         serializedVersion: 2
-        x: 1638
+        x: 1542
         y: 227
         width: 6
         height: 18
@@ -23204,7 +23205,7 @@ TextureImporter:
       name: BG1_919
       rect:
         serializedVersion: 2
-        x: 1639
+        x: 1543
         y: 264
         width: 6
         height: 11
@@ -23226,7 +23227,7 @@ TextureImporter:
       name: BG1_920
       rect:
         serializedVersion: 2
-        x: 1639
+        x: 1543
         y: 202
         width: 8
         height: 6
@@ -23248,7 +23249,7 @@ TextureImporter:
       name: BG1_921
       rect:
         serializedVersion: 2
-        x: 1639
+        x: 1543
         y: 195
         width: 8
         height: 7
@@ -23270,7 +23271,7 @@ TextureImporter:
       name: BG1_922
       rect:
         serializedVersion: 2
-        x: 1640
+        x: 1544
         y: 138
         width: 14
         height: 51
@@ -23292,7 +23293,7 @@ TextureImporter:
       name: BG1_923
       rect:
         serializedVersion: 2
-        x: 1642
+        x: 1546
         y: 468
         width: 9
         height: 7
@@ -23314,7 +23315,7 @@ TextureImporter:
       name: BG1_924
       rect:
         serializedVersion: 2
-        x: 1642
+        x: 1546
         y: 221
         width: 8
         height: 12
@@ -23336,7 +23337,7 @@ TextureImporter:
       name: BG1_925
       rect:
         serializedVersion: 2
-        x: 1643
+        x: 1547
         y: 417
         width: 11
         height: 19
@@ -23358,7 +23359,7 @@ TextureImporter:
       name: BG1_926
       rect:
         serializedVersion: 2
-        x: 1643
+        x: 1547
         y: 229
         width: 11
         height: 13
@@ -23380,7 +23381,7 @@ TextureImporter:
       name: BG1_927
       rect:
         serializedVersion: 2
-        x: 1643
+        x: 1547
         y: 208
         width: 10
         height: 12
@@ -23402,7 +23403,7 @@ TextureImporter:
       name: BG1_928
       rect:
         serializedVersion: 2
-        x: 1644
+        x: 1548
         y: 442
         width: 6
         height: 9
@@ -23424,7 +23425,7 @@ TextureImporter:
       name: BG1_929
       rect:
         serializedVersion: 2
-        x: 1644
+        x: 1548
         y: 406
         width: 11
         height: 11
@@ -23446,7 +23447,7 @@ TextureImporter:
       name: BG1_930
       rect:
         serializedVersion: 2
-        x: 1645
+        x: 1549
         y: 329
         width: 7
         height: 13
@@ -23468,7 +23469,7 @@ TextureImporter:
       name: BG1_931
       rect:
         serializedVersion: 2
-        x: 1646
+        x: 1550
         y: 196
         width: 6
         height: 11
@@ -23490,7 +23491,7 @@ TextureImporter:
       name: BG1_932
       rect:
         serializedVersion: 2
-        x: 1648
+        x: 1552
         y: 464
         width: 6
         height: 7
@@ -23512,7 +23513,7 @@ TextureImporter:
       name: BG1_933
       rect:
         serializedVersion: 2
-        x: 1648
+        x: 1552
         y: 378
         width: 7
         height: 11
@@ -23534,7 +23535,7 @@ TextureImporter:
       name: BG1_934
       rect:
         serializedVersion: 2
-        x: 1648
+        x: 1552
         y: 242
         width: 6
         height: 13
@@ -23556,7 +23557,7 @@ TextureImporter:
       name: BG1_935
       rect:
         serializedVersion: 2
-        x: 1649
+        x: 1553
         y: 396
         width: 6
         height: 9
@@ -23578,7 +23579,7 @@ TextureImporter:
       name: BG1_936
       rect:
         serializedVersion: 2
-        x: 1651
+        x: 1555
         y: 317
         width: 8
         height: 6
@@ -23600,7 +23601,7 @@ TextureImporter:
       name: BG1_937
       rect:
         serializedVersion: 2
-        x: 1651
+        x: 1555
         y: 268
         width: 7
         height: 7
@@ -23622,7 +23623,7 @@ TextureImporter:
       name: BG1_938
       rect:
         serializedVersion: 2
-        x: 1654
+        x: 1558
         y: 397
         width: 8
         height: 14
@@ -23644,7 +23645,7 @@ TextureImporter:
       name: BG1_939
       rect:
         serializedVersion: 2
-        x: 1654
+        x: 1558
         y: 375
         width: 13
         height: 13
@@ -23666,7 +23667,7 @@ TextureImporter:
       name: BG1_940
       rect:
         serializedVersion: 2
-        x: 1655
+        x: 1559
         y: 410
         width: 7
         height: 23
@@ -23688,7 +23689,7 @@ TextureImporter:
       name: BG1_941
       rect:
         serializedVersion: 2
-        x: 1657
+        x: 1561
         y: 432
         width: 7
         height: 25
@@ -23710,7 +23711,7 @@ TextureImporter:
       name: BG1_942
       rect:
         serializedVersion: 2
-        x: 1658
+        x: 1562
         y: 384
         width: 12
         height: 42
@@ -23732,7 +23733,7 @@ TextureImporter:
       name: BG1_943
       rect:
         serializedVersion: 2
-        x: 1659
+        x: 1563
         y: 454
         width: 7
         height: 10
@@ -23754,7 +23755,7 @@ TextureImporter:
       name: BG1_944
       rect:
         serializedVersion: 2
-        x: 1664
+        x: 1568
         y: 404
         width: 10
         height: 60
@@ -23776,7 +23777,7 @@ TextureImporter:
       name: BG1_945
       rect:
         serializedVersion: 2
-        x: 1667
+        x: 1571
         y: 377
         width: 6
         height: 6
@@ -23798,7 +23799,7 @@ TextureImporter:
       name: BG1_946
       rect:
         serializedVersion: 2
-        x: 1668
+        x: 1572
         y: 281
         width: 7
         height: 13
@@ -23820,7 +23821,7 @@ TextureImporter:
       name: BG1_947
       rect:
         serializedVersion: 2
-        x: 1668
+        x: 1572
         y: 243
         width: 7
         height: 7
@@ -23842,7 +23843,7 @@ TextureImporter:
       name: BG1_948
       rect:
         serializedVersion: 2
-        x: 1668
+        x: 1572
         y: 237
         width: 6
         height: 7
@@ -23864,7 +23865,7 @@ TextureImporter:
       name: BG1_949
       rect:
         serializedVersion: 2
-        x: 1668
+        x: 1572
         y: 223
         width: 8
         height: 7
@@ -23886,7 +23887,7 @@ TextureImporter:
       name: BG1_950
       rect:
         serializedVersion: 2
-        x: 1670
+        x: 1574
         y: 384
         width: 6
         height: 7
@@ -23908,7 +23909,7 @@ TextureImporter:
       name: BG1_951
       rect:
         serializedVersion: 2
-        x: 1671
+        x: 1575
         y: 264
         width: 8
         height: 11
@@ -23930,7 +23931,7 @@ TextureImporter:
       name: BG1_952
       rect:
         serializedVersion: 2
-        x: 1671
+        x: 1575
         y: 250
         width: 9
         height: 12
@@ -23952,7 +23953,7 @@ TextureImporter:
       name: BG1_953
       rect:
         serializedVersion: 2
-        x: 1672
+        x: 1576
         y: 436
         width: 6
         height: 7
@@ -23974,10 +23975,10 @@ TextureImporter:
       name: BG1_954
       rect:
         serializedVersion: 2
-        x: 2116
-        y: 366
-        width: 12
-        height: 9
+        x: 78
+        y: 0
+        width: 28
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -23996,10 +23997,10 @@ TextureImporter:
       name: BG1_955
       rect:
         serializedVersion: 2
-        x: 2121
-        y: 379
-        width: 7
-        height: 6
+        x: 104
+        y: 0
+        width: 63
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -24018,10 +24019,10 @@ TextureImporter:
       name: BG1_956
       rect:
         serializedVersion: 2
-        x: 37
-        y: 131
-        width: 15
-        height: 9
+        x: 143
+        y: 0
+        width: 784
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -24040,10 +24041,10 @@ TextureImporter:
       name: BG1_957
       rect:
         serializedVersion: 2
-        x: 47
-        y: 128
-        width: 10
-        height: 8
+        x: 1780
+        y: 0
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -24058,99 +24059,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: BG1_958
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 0
-        width: 784
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e337514c459cb9ac0800000000000000
-      internalID: -3847260090753780930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BG1_959
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 0
-        width: 28
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef35eb92ac9e92bc0800000000000000
-      internalID: -3807254955472038914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BG1_960
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 0
-        width: 63
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16abd9ba34903ec90800000000000000
-      internalID: -7141854397832775071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BG1_961
-      rect:
-        serializedVersion: 2
-        x: 1876
-        y: 0
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e321ab1da900a8d60800000000000000
-      internalID: 7893121961863811646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -25114,11 +25027,7 @@ TextureImporter:
       BG1_955: 5310902306266926090
       BG1_956: -6519204459410751622
       BG1_957: 3513350816408654715
-      BG1_958: -3847260090753780930
-      BG1_959: -3807254955472038914
       BG1_96: 9178040485515293890
-      BG1_960: -7141854397832775071
-      BG1_961: 7893121961863811646
       BG1_97: -1542083323721295996
       BG1_98: 1951727504219837064
       BG1_99: -172689498915516081

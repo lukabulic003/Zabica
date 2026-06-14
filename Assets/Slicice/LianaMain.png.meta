@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ae3feb5b2e7c9f4db151f4399f7ffe3
+guid: de085d1d081e8fc448e74cd53c3c4e16
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -32,6 +32,474 @@ TextureImporter:
   - first:
       213: 7030484563499325712
     second: LianaMain_9
+  - first:
+      213: 6932402082432600090
+    second: LianaMain_10
+  - first:
+      213: -7748705111660309482
+    second: LianaMain_11
+  - first:
+      213: -1022518154859540349
+    second: LianaMain_12
+  - first:
+      213: 1813771752288522196
+    second: LianaMain_13
+  - first:
+      213: 1587085199949024732
+    second: LianaMain_14
+  - first:
+      213: 6324269876802143845
+    second: LianaMain_15
+  - first:
+      213: -8931803286546364451
+    second: LianaMain_16
+  - first:
+      213: -7183879392364427805
+    second: LianaMain_17
+  - first:
+      213: 8623010212421014805
+    second: LianaMain_18
+  - first:
+      213: 5894849117704964464
+    second: LianaMain_19
+  - first:
+      213: -5666111973146820954
+    second: LianaMain_20
+  - first:
+      213: 4369688257514672749
+    second: LianaMain_21
+  - first:
+      213: 8164238840483707495
+    second: LianaMain_22
+  - first:
+      213: 2293490998039842765
+    second: LianaMain_23
+  - first:
+      213: 7500467589244317562
+    second: LianaMain_24
+  - first:
+      213: 6108197566327374167
+    second: LianaMain_25
+  - first:
+      213: 8906558098668557351
+    second: LianaMain_26
+  - first:
+      213: 1668313451148624502
+    second: LianaMain_27
+  - first:
+      213: 9179492911017188740
+    second: LianaMain_28
+  - first:
+      213: -6408921968587620752
+    second: LianaMain_29
+  - first:
+      213: -1982021763957674216
+    second: LianaMain_30
+  - first:
+      213: -1511864137101586225
+    second: LianaMain_31
+  - first:
+      213: 7493929062196180562
+    second: LianaMain_32
+  - first:
+      213: 3447553136898654446
+    second: LianaMain_33
+  - first:
+      213: -2679152256177834139
+    second: LianaMain_34
+  - first:
+      213: 3444855915426253742
+    second: LianaMain_35
+  - first:
+      213: 3144186140050179970
+    second: LianaMain_36
+  - first:
+      213: 6589659948176578177
+    second: LianaMain_37
+  - first:
+      213: 4432960052082169860
+    second: LianaMain_38
+  - first:
+      213: -970501181229570325
+    second: LianaMain_39
+  - first:
+      213: 4581375922139226856
+    second: LianaMain_40
+  - first:
+      213: 8741563870485786144
+    second: LianaMain_41
+  - first:
+      213: 4911702411225864777
+    second: LianaMain_42
+  - first:
+      213: 7437762594934360293
+    second: LianaMain_43
+  - first:
+      213: -2344909924431032579
+    second: LianaMain_44
+  - first:
+      213: -4982131777545129176
+    second: LianaMain_45
+  - first:
+      213: 5737967150756540734
+    second: LianaMain_46
+  - first:
+      213: 9117393571629106457
+    second: LianaMain_47
+  - first:
+      213: -2115138160694806663
+    second: LianaMain_48
+  - first:
+      213: -1837020099468839375
+    second: LianaMain_49
+  - first:
+      213: -2327148004577538800
+    second: LianaMain_50
+  - first:
+      213: -17056921565130308
+    second: LianaMain_51
+  - first:
+      213: 1503741155707177108
+    second: LianaMain_52
+  - first:
+      213: 65389109728097676
+    second: LianaMain_53
+  - first:
+      213: -8877455206251674677
+    second: LianaMain_54
+  - first:
+      213: 6702085595124013392
+    second: LianaMain_55
+  - first:
+      213: 8326604685170985344
+    second: LianaMain_56
+  - first:
+      213: -7260372652377042047
+    second: LianaMain_57
+  - first:
+      213: 7241645070242434889
+    second: LianaMain_58
+  - first:
+      213: 3846598773433310025
+    second: LianaMain_59
+  - first:
+      213: 6701400779632150505
+    second: LianaMain_60
+  - first:
+      213: 2604968116012512354
+    second: LianaMain_61
+  - first:
+      213: 677618709293301475
+    second: LianaMain_62
+  - first:
+      213: 4416369421959217871
+    second: LianaMain_63
+  - first:
+      213: 5681630654320100521
+    second: LianaMain_64
+  - first:
+      213: -4001821220278757345
+    second: LianaMain_65
+  - first:
+      213: 5045028976443304458
+    second: LianaMain_66
+  - first:
+      213: 7004336635149403793
+    second: LianaMain_67
+  - first:
+      213: 6582324295154736426
+    second: LianaMain_68
+  - first:
+      213: -1330958990410692000
+    second: LianaMain_69
+  - first:
+      213: 2915566460455052200
+    second: LianaMain_70
+  - first:
+      213: 5540330820715134672
+    second: LianaMain_71
+  - first:
+      213: -1987349692134665718
+    second: LianaMain_72
+  - first:
+      213: 4021362248124867896
+    second: LianaMain_73
+  - first:
+      213: 3125325440710077427
+    second: LianaMain_74
+  - first:
+      213: -955635587859220789
+    second: LianaMain_75
+  - first:
+      213: -7524426818479766964
+    second: LianaMain_76
+  - first:
+      213: -7562523292894754092
+    second: LianaMain_77
+  - first:
+      213: -6154189273114577388
+    second: LianaMain_78
+  - first:
+      213: 63418201175701780
+    second: LianaMain_79
+  - first:
+      213: -5520339909842719346
+    second: LianaMain_80
+  - first:
+      213: -2083545542228792507
+    second: LianaMain_81
+  - first:
+      213: -711983072716400194
+    second: LianaMain_82
+  - first:
+      213: 4323868896368312249
+    second: LianaMain_83
+  - first:
+      213: 2205630254174419305
+    second: LianaMain_84
+  - first:
+      213: -7766536428771011109
+    second: LianaMain_85
+  - first:
+      213: 231948736262770716
+    second: LianaMain_86
+  - first:
+      213: 1497499207193642673
+    second: LianaMain_87
+  - first:
+      213: 2912993279214450799
+    second: LianaMain_88
+  - first:
+      213: -2529402297633686248
+    second: LianaMain_89
+  - first:
+      213: -2064156506634639810
+    second: LianaMain_90
+  - first:
+      213: 4302091567084770908
+    second: LianaMain_91
+  - first:
+      213: 583499613790281568
+    second: LianaMain_92
+  - first:
+      213: -128199943302459092
+    second: LianaMain_93
+  - first:
+      213: -6340240437149913326
+    second: LianaMain_94
+  - first:
+      213: -3295109351819804100
+    second: LianaMain_95
+  - first:
+      213: -9150727584798730259
+    second: LianaMain_96
+  - first:
+      213: 2065077552601914636
+    second: LianaMain_97
+  - first:
+      213: 7667820330519333438
+    second: LianaMain_98
+  - first:
+      213: -6147464924098700426
+    second: LianaMain_99
+  - first:
+      213: 3736927687127132497
+    second: LianaMain_100
+  - first:
+      213: -7890322021139850528
+    second: LianaMain_101
+  - first:
+      213: 7560895797829562893
+    second: LianaMain_102
+  - first:
+      213: -1639942254208549707
+    second: LianaMain_103
+  - first:
+      213: -2572949332015767583
+    second: LianaMain_104
+  - first:
+      213: 4010276989043510092
+    second: LianaMain_105
+  - first:
+      213: -3853548705990674528
+    second: LianaMain_106
+  - first:
+      213: 8348569961449938131
+    second: LianaMain_107
+  - first:
+      213: -6297420158446677831
+    second: LianaMain_108
+  - first:
+      213: -1376867513340534335
+    second: LianaMain_109
+  - first:
+      213: -2259016410697638387
+    second: LianaMain_110
+  - first:
+      213: -5470740029833424156
+    second: LianaMain_111
+  - first:
+      213: -8984940516450589500
+    second: LianaMain_112
+  - first:
+      213: 1232437311535805844
+    second: LianaMain_113
+  - first:
+      213: -8293118992277146369
+    second: LianaMain_114
+  - first:
+      213: -3619970103925677654
+    second: LianaMain_115
+  - first:
+      213: -1288214043199518683
+    second: LianaMain_116
+  - first:
+      213: -8383558394241475066
+    second: LianaMain_117
+  - first:
+      213: 5547412041267219818
+    second: LianaMain_118
+  - first:
+      213: 3989735878894772744
+    second: LianaMain_119
+  - first:
+      213: -5150001354366559373
+    second: LianaMain_120
+  - first:
+      213: -7328811943068467430
+    second: LianaMain_121
+  - first:
+      213: 4995116152218413016
+    second: LianaMain_122
+  - first:
+      213: -1692756441123267178
+    second: LianaMain_123
+  - first:
+      213: 86675547221202814
+    second: LianaMain_124
+  - first:
+      213: 5221228103882094291
+    second: LianaMain_125
+  - first:
+      213: 4781518132644226908
+    second: LianaMain_126
+  - first:
+      213: -6763496871536296188
+    second: LianaMain_127
+  - first:
+      213: 4670746153039528884
+    second: LianaMain_128
+  - first:
+      213: -5614446788014081354
+    second: LianaMain_129
+  - first:
+      213: -4420639658272940855
+    second: LianaMain_130
+  - first:
+      213: -7443547654040185989
+    second: LianaMain_131
+  - first:
+      213: 8412478282268361261
+    second: LianaMain_132
+  - first:
+      213: 8600708882326277039
+    second: LianaMain_133
+  - first:
+      213: 4225068383593103670
+    second: LianaMain_134
+  - first:
+      213: 623988567480177073
+    second: LianaMain_135
+  - first:
+      213: 6676130807070605420
+    second: LianaMain_136
+  - first:
+      213: 527604511529274175
+    second: LianaMain_137
+  - first:
+      213: -3054921526300780574
+    second: LianaMain_138
+  - first:
+      213: -4397338912463301343
+    second: LianaMain_139
+  - first:
+      213: 1288801939340975636
+    second: LianaMain_140
+  - first:
+      213: -4645063099310784302
+    second: LianaMain_141
+  - first:
+      213: -8945071233769475724
+    second: LianaMain_142
+  - first:
+      213: 1948879016499197549
+    second: LianaMain_143
+  - first:
+      213: 5103551371057212438
+    second: LianaMain_144
+  - first:
+      213: 782569669671925854
+    second: LianaMain_145
+  - first:
+      213: -5414089504340177286
+    second: LianaMain_146
+  - first:
+      213: 378099701929915369
+    second: LianaMain_147
+  - first:
+      213: -5475763413680731538
+    second: LianaMain_148
+  - first:
+      213: 8811180807910595933
+    second: LianaMain_149
+  - first:
+      213: 730176332378740426
+    second: LianaMain_150
+  - first:
+      213: -7054928436838801201
+    second: LianaMain_151
+  - first:
+      213: 3447658068169597398
+    second: LianaMain_152
+  - first:
+      213: 625102991434691472
+    second: LianaMain_153
+  - first:
+      213: 4987693060236350347
+    second: LianaMain_154
+  - first:
+      213: -1655020513941237188
+    second: LianaMain_155
+  - first:
+      213: -526829901233483677
+    second: LianaMain_156
+  - first:
+      213: -8892675654533863832
+    second: LianaMain_157
+  - first:
+      213: 6434104724737820175
+    second: LianaMain_158
+  - first:
+      213: 8924393484246048534
+    second: LianaMain_159
+  - first:
+      213: -960383350926615409
+    second: LianaMain_160
+  - first:
+      213: -4727680530514655367
+    second: LianaMain_161
+  - first:
+      213: -1560819001165354770
+    second: LianaMain_162
+  - first:
+      213: 6340195517148304890
+    second: LianaMain_163
+  - first:
+      213: 7867582262621837220
+    second: LianaMain_164
+  - first:
+      213: -8126049249600234279
+    second: LianaMain_165
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -73,7 +541,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -123,6 +591,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -130,10 +611,10 @@ TextureImporter:
       name: LianaMain_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 14
-        width: 201
-        height: 741
+        x: 11
+        y: 661
+        width: 77
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,10 +633,10 @@ TextureImporter:
       name: LianaMain_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 738
-        width: 8
-        height: 6
+        x: 574
+        y: 802
+        width: 26
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +655,10 @@ TextureImporter:
       name: LianaMain_2
       rect:
         serializedVersion: 2
-        x: 196
-        y: 735
-        width: 5
-        height: 9
+        x: 603
+        y: 779
+        width: 35
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +677,10 @@ TextureImporter:
       name: LianaMain_3
       rect:
         serializedVersion: 2
-        x: 5
-        y: 683
-        width: 12
-        height: 7
+        x: 648
+        y: 816
+        width: 26
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +699,10 @@ TextureImporter:
       name: LianaMain_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 666
-        width: 7
-        height: 6
+        x: 745
+        y: 821
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +721,10 @@ TextureImporter:
       name: LianaMain_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 635
-        width: 12
-        height: 19
+        x: 764
+        y: 817
+        width: 6
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,9 +743,9 @@ TextureImporter:
       name: LianaMain_6
       rect:
         serializedVersion: 2
-        x: 6
-        y: 628
-        width: 15
+        x: 802
+        y: 825
+        width: 21
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -284,10 +765,10 @@ TextureImporter:
       name: LianaMain_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 573
-        width: 12
-        height: 10
+        x: 838
+        y: 824
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +787,10 @@ TextureImporter:
       name: LianaMain_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 556
-        width: 13
-        height: 10
+        x: 842
+        y: 821
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +809,10 @@ TextureImporter:
       name: LianaMain_9
       rect:
         serializedVersion: 2
-        x: 7
-        y: 460
-        width: 18
-        height: 15
+        x: 856
+        y: 818
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,11 +827,3443 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: LianaMain_10
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 812
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c29be6f6d43060800000000000000
+      internalID: 6932402082432600090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_11
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 813
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614db3e51c1177490800000000000000
+      internalID: -7748705111660309482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 811
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380953bd7294fc1f0800000000000000
+      internalID: -1022518154859540349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_13
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 818
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8bc68ccfcb2910800000000000000
+      internalID: 1813771752288522196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_14
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 802
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcd33a495760610800000000000000
+      internalID: 1587085199949024732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 810
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ce7e02f154c750800000000000000
+      internalID: 6324269876802143845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_16
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 827
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ccbdcb3cdb0480800000000000000
+      internalID: -8931803286546364451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_17
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 818
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e58ed421cbbd4c90800000000000000
+      internalID: -7183879392364427805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_18
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 801
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159bedf9161ba770800000000000000
+      internalID: 8623010212421014805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_19
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 818
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07944515a06bec150800000000000000
+      internalID: 5894849117704964464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_20
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 818
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aefef64e2ded51b0800000000000000
+      internalID: -5666111973146820954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_21
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 824
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629b50915044ac30800000000000000
+      internalID: 4369688257514672749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_22
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 803
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a7a7c28f33d4170800000000000000
+      internalID: 8164238840483707495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_23
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 827
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf88b949ed14df10800000000000000
+      internalID: 2293490998039842765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_24
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 818
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fec328883071860800000000000000
+      internalID: 7500467589244317562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_25
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 810
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75149dee25da4c450800000000000000
+      internalID: 6108197566327374167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 814
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724948ad6637a9b70800000000000000
+      internalID: 8906558098668557351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_27
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 92
+        width: 211
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67248b5ae3a072710800000000000000
+      internalID: 1668313451148624502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 808
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5563ea2c146f70800000000000000
+      internalID: 9179492911017188740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_29
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 772
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e332dec6fee07a0800000000000000
+      internalID: -6408921968587620752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 816
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa536f4b17e74e0800000000000000
+      internalID: -1982021763957674216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 790
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc05867d397c40be0800000000000000
+      internalID: -1511864137101586225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 800
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256fd2c07c8cff760800000000000000
+      internalID: 7493929062196180562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_33
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 813
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0c025ef4b28df20800000000000000
+      internalID: 3447553136898654446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_34
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 799
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567755fb73db1dad0800000000000000
+      internalID: -2679152256177834139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 798
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab826514369ecf20800000000000000
+      internalID: 3444855915426253742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_36
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 814
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287c561c2a462ab20800000000000000
+      internalID: 3144186140050179970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_37
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1861fa13fcc237b50800000000000000
+      internalID: 6589659948176578177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_38
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 814
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408dad73ea9058d30800000000000000
+      internalID: 4432960052082169860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_39
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 811
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e6be41561882f0800000000000000
+      internalID: -970501181229570325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_40
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 816
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e2a5c021549f30800000000000000
+      internalID: 4581375922139226856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_41
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 813
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ea1b18606405970800000000000000
+      internalID: 8741563870485786144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_42
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 809
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1c87d15fd92440800000000000000
+      internalID: 4911702411225864777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_43
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 803
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e800c25cad383760800000000000000
+      internalID: 7437762594934360293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_44
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 796
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe000cf8d4357fd0800000000000000
+      internalID: -2344909924431032579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 760
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823bc377b89ebdab0800000000000000
+      internalID: -4982131777545129176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 792
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3134b9f8ba51af40800000000000000
+      internalID: 5737967150756540734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_47
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 799
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915026ab52d778e70800000000000000
+      internalID: 9117393571629106457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_48
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 804
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b9e0ac0585a2e0800000000000000
+      internalID: -2115138160694806663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_49
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 766
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13638e5d3f79186e0800000000000000
+      internalID: -1837020099468839375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_50
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 804
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8567383f44bfd0800000000000000
+      internalID: -2327148004577538800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_51
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 802
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11629f1d663cff0800000000000000
+      internalID: -17056921565130308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_52
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 798
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498cf0c2d9c5ed410800000000000000
+      internalID: 1503741155707177108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_53
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 803
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b5818c0f48e000800000000000000
+      internalID: 65389109728097676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_54
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 804
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc34de15681fcc480800000000000000
+      internalID: -8877455206251674677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_55
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 800
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05911afe657920d50800000000000000
+      internalID: 6702085595124013392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 757
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08948bc48da0e8370800000000000000
+      internalID: 8326604685170985344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_57
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 793
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1831b1e2a89fd3b90800000000000000
+      internalID: -7260372652377042047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_58
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 795
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4241d2dd7f7460800000000000000
+      internalID: 7241645070242434889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_59
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 798
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b12fb443dd16530800000000000000
+      internalID: 3846598773433310025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_60
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 766
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e70087e088200d50800000000000000
+      internalID: 6701400779632150505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_61
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 780
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f42623b4b62420800000000000000
+      internalID: 2604968116012512354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 780
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef59c30a2676900800000000000000
+      internalID: 677618709293301475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_63
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 788
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c6c027981a4d30800000000000000
+      internalID: 4416369421959217871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_64
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 781
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a448bf3af439de40800000000000000
+      internalID: 5681630654320100521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_65
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 791
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181aae7dcca678c0800000000000000
+      internalID: -4001821220278757345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_66
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 793
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa476df1b830640800000000000000
+      internalID: 5045028976443304458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_67
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 793
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c5512f07643160800000000000000
+      internalID: 7004336635149403793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_68
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 791
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1f11621d195b50800000000000000
+      internalID: 6582324295154736426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_69
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 766
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a45f599db778de0800000000000000
+      internalID: -1330958990410692000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 779
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3677a9f3c267820800000000000000
+      internalID: 2915566460455052200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_71
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 736
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0debfda078533ec40800000000000000
+      internalID: 5540330820715134672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_72
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 747
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02d4d30cf38b64e0800000000000000
+      internalID: -1987349692134665718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_73
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 777
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83526a898afbec730800000000000000
+      internalID: 4021362248124867896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_74
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 764
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbe30dfde26f5b20800000000000000
+      internalID: 3125325440710077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_75
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 768
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6fdeafe76ecb2f0800000000000000
+      internalID: -955635587859220789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_76
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 783
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42471abcadd39790800000000000000
+      internalID: -7524426818479766964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_77
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 757
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da046112258c0790800000000000000
+      internalID: -7562523292894754092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_78
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 777
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167c7f567de79aa0800000000000000
+      internalID: -6154189273114577388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_79
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 721
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4193f59948e41e000800000000000000
+      internalID: 63418201175701780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_80
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 767
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da96a9910d363b0800000000000000
+      internalID: -5520339909842719346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_81
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 769
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54baa125e52c513e0800000000000000
+      internalID: -2083545542228792507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_82
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 785
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d5a8ea278e16f0800000000000000
+      internalID: -711983072716400194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_83
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 777
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfb4673ad7710c30800000000000000
+      internalID: 4323868896368312249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_84
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 753
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969bbedb709fb9e10800000000000000
+      internalID: 2205630254174419305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_85
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 759
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd519f35448b73490800000000000000
+      internalID: -7766536428771011109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_86
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 771
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c101b0f852c083300800000000000000
+      internalID: 231948736262770716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_87
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 769
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6c438489f28c410800000000000000
+      internalID: 1497499207193642673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_88
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 779
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687da824f70d6820800000000000000
+      internalID: 2912993279214450799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_89
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 765
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dbc7bf202c5ecd0800000000000000
+      internalID: -2529402297633686248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_90
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 759
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e362b35f794aa53e0800000000000000
+      internalID: -2064156506634639810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_91
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 785
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c569a4f9c7914bb30800000000000000
+      internalID: 4302091567084770908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_92
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 769
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f1c86aec1091800800000000000000
+      internalID: 583499613790281568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_93
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 774
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c215b3fa4da883ef0800000000000000
+      internalID: -128199943302459092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_94
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 769
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fac191ae0f208a0800000000000000
+      internalID: -6340240437149913326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_95
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 767
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3286b4b08b6542d0800000000000000
+      internalID: -3295109351819804100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_96
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 765
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de714b78eb5120180800000000000000
+      internalID: -9150727584798730259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_97
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 756
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5874c711a8ac10800000000000000
+      internalID: 2065077552601914636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_98
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8f1af6f1996a60800000000000000
+      internalID: 7667820330519333438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_99
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 757
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5ce1e831dfaaa0800000000000000
+      internalID: -6147464924098700426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_100
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 746
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159e88eaeeb3cd330800000000000000
+      internalID: 3736927687127132497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_101
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 761
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea548e2de1ff7290800000000000000
+      internalID: -7890322021139850528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_102
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 729
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ff553ba2bde860800000000000000
+      internalID: 7560895797829562893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_103
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 738
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcfeb56531cd39e0800000000000000
+      internalID: -1639942254208549707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_104
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 743
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1f10f63c0b4cd0800000000000000
+      internalID: -2572949332015767583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_105
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 746
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b8cd69cad57a730800000000000000
+      internalID: 4010276989043510092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_106
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 748
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a772ce6ed1758ac0800000000000000
+      internalID: -3853548705990674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_107
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 741
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc58b6b5241cd370800000000000000
+      internalID: 8348569961449938131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_108
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 751
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d6662bb11b98a0800000000000000
+      internalID: -6297420158446677831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_109
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 743
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ef84aa4264ece0800000000000000
+      internalID: -1376867513340534335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_110
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 743
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed6921b8c56a0e0800000000000000
+      internalID: -2259016410697638387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_111
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 738
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d4479de60414b0800000000000000
+      internalID: -5470740029833424156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_112
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 694
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a2fc54341f4380800000000000000
+      internalID: -8984940516450589500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_113
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 740
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957702843f7a1110800000000000000
+      internalID: 1232437311535805844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_114
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 734
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff47641273ce8ec80800000000000000
+      internalID: -8293118992277146369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_115
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 733
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1e9f1be5843cdc0800000000000000
+      internalID: -3619970103925677654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_116
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 708
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5284c6827285f1ee0800000000000000
+      internalID: -1288214043199518683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_117
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 697
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1e75fe0e97ab80800000000000000
+      internalID: -8383558394241475066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_118
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 708
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d057e2cdd5cfc40800000000000000
+      internalID: 5547412041267219818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_119
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 715
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026721b4a36e5730800000000000000
+      internalID: 3989735878894772744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_120
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b5338dd058788b0800000000000000
+      internalID: -5150001354366559373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_121
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 709
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f73c31e54da4a90800000000000000
+      internalID: -7328811943068467430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_122
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 700
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76bc8dca7325540800000000000000
+      internalID: 4995116152218413016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_123
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 715
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd7934cfe1288e0800000000000000
+      internalID: -1692756441123267178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_124
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 717
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7715d273fee33100800000000000000
+      internalID: 86675547221202814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_125
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 699
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6bd271c47857840800000000000000
+      internalID: 5221228103882094291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_126
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 713
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c572957786d5b5240800000000000000
+      internalID: 4781518132644226908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_127
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 682
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffc9c0e6b3322a0800000000000000
+      internalID: -6763496871536296188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_128
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 684
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b381f721e2d1d040800000000000000
+      internalID: 4670746153039528884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_129
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 688
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7616946a7512b0800000000000000
+      internalID: -5614446788014081354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_130
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 706
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc13a007abb6a2c0800000000000000
+      internalID: -4420639658272940855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_131
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 656
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731e34a8d433b890800000000000000
+      internalID: -7443547654040185989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_132
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 697
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d224b4f2d602fb470800000000000000
+      internalID: 8412478282268361261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_133
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 687
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabca93f82bdb5770800000000000000
+      internalID: 8600708882326277039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_134
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 682
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6310dcb3f4572aa30800000000000000
+      internalID: 4225068383593103670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_135
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 647
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19f8ccb4ad8a800800000000000000
+      internalID: 623988567480177073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_136
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 665
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604c7de89166ac50800000000000000
+      internalID: 6676130807070605420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_137
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 656
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8893028d625700800000000000000
+      internalID: 527604511529274175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_138
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 666
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d528be0dba95d0800000000000000
+      internalID: -3054921526300780574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_139
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 666
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255f95ae8389f2c0800000000000000
+      internalID: -4397338912463301343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_140
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 667
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed044198eb2e110800000000000000
+      internalID: 1288801939340975636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_141
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 644
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d04e46c8bb698fb0800000000000000
+      internalID: -4645063099310784302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_142
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 676
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471fa9c1b19bcd380800000000000000
+      internalID: -8945071233769475724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_143
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 676
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b5a0d32fcb0b10800000000000000
+      internalID: 1948879016499197549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_144
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 672
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca2d4aee473d640800000000000000
+      internalID: 5103551371057212438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_145
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583ac4e7fe3cda00800000000000000
+      internalID: 782569669671925854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_146
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 648
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e02a7e74a4dd4b0800000000000000
+      internalID: -5414089504340177286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_147
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 642
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b637fca74f3500800000000000000
+      internalID: 378099701929915369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_148
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 644
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aca75ef2e2204b0800000000000000
+      internalID: -5475763413680731538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_149
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 634
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d104bd24a974a70800000000000000
+      internalID: 8811180807910595933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_150
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 619
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac615d2718b122a00800000000000000
+      internalID: 730176332378740426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_151
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 634
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0eb6e17fbd71e90800000000000000
+      internalID: -7054928436838801201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_152
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 605
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1224c1fba88df20800000000000000
+      internalID: 3447658068169597398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_153
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 602
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093bf78dbdfcca800800000000000000
+      internalID: 625102991434691472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_154
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 590
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8391109968d73540800000000000000
+      internalID: 4987693060236350347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_155
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 591
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325c8a7c9f2809e0800000000000000
+      internalID: -1655020513941237188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3609ceffef250b8f0800000000000000
+      internalID: -526829901233483677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_157
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 504
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866aebc8b9ed69480800000000000000
+      internalID: -8892675654533863832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_158
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 576
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0609a568288a4950800000000000000
+      internalID: 6434104724737820175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_159
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 538
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdb482790d9db70800000000000000
+      internalID: 8924393484246048534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd1df3e680ca2f0800000000000000
+      internalID: -960383350926615409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 499
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977c4271b97e36eb0800000000000000
+      internalID: -4727680530514655367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8ebd4536bd65ae0800000000000000
+      internalID: -1560819001165354770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_163
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af516262b36ecf750800000000000000
+      internalID: 6340195517148304890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_164
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 324
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71db432644f2d60800000000000000
+      internalID: 7867582262621837220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LianaMain_165
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9f3ad2497a3f80800000000000000
+      internalID: -8126049249600234279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -362,14 +4275,170 @@ TextureImporter:
     nameFileIdTable:
       LianaMain_0: 5193893429221291219
       LianaMain_1: -1810034596628011084
+      LianaMain_10: 6932402082432600090
+      LianaMain_100: 3736927687127132497
+      LianaMain_101: -7890322021139850528
+      LianaMain_102: 7560895797829562893
+      LianaMain_103: -1639942254208549707
+      LianaMain_104: -2572949332015767583
+      LianaMain_105: 4010276989043510092
+      LianaMain_106: -3853548705990674528
+      LianaMain_107: 8348569961449938131
+      LianaMain_108: -6297420158446677831
+      LianaMain_109: -1376867513340534335
+      LianaMain_11: -7748705111660309482
+      LianaMain_110: -2259016410697638387
+      LianaMain_111: -5470740029833424156
+      LianaMain_112: -8984940516450589500
+      LianaMain_113: 1232437311535805844
+      LianaMain_114: -8293118992277146369
+      LianaMain_115: -3619970103925677654
+      LianaMain_116: -1288214043199518683
+      LianaMain_117: -8383558394241475066
+      LianaMain_118: 5547412041267219818
+      LianaMain_119: 3989735878894772744
+      LianaMain_12: -1022518154859540349
+      LianaMain_120: -5150001354366559373
+      LianaMain_121: -7328811943068467430
+      LianaMain_122: 4995116152218413016
+      LianaMain_123: -1692756441123267178
+      LianaMain_124: 86675547221202814
+      LianaMain_125: 5221228103882094291
+      LianaMain_126: 4781518132644226908
+      LianaMain_127: -6763496871536296188
+      LianaMain_128: 4670746153039528884
+      LianaMain_129: -5614446788014081354
+      LianaMain_13: 1813771752288522196
+      LianaMain_130: -4420639658272940855
+      LianaMain_131: -7443547654040185989
+      LianaMain_132: 8412478282268361261
+      LianaMain_133: 8600708882326277039
+      LianaMain_134: 4225068383593103670
+      LianaMain_135: 623988567480177073
+      LianaMain_136: 6676130807070605420
+      LianaMain_137: 527604511529274175
+      LianaMain_138: -3054921526300780574
+      LianaMain_139: -4397338912463301343
+      LianaMain_14: 1587085199949024732
+      LianaMain_140: 1288801939340975636
+      LianaMain_141: -4645063099310784302
+      LianaMain_142: -8945071233769475724
+      LianaMain_143: 1948879016499197549
+      LianaMain_144: 5103551371057212438
+      LianaMain_145: 782569669671925854
+      LianaMain_146: -5414089504340177286
+      LianaMain_147: 378099701929915369
+      LianaMain_148: -5475763413680731538
+      LianaMain_149: 8811180807910595933
+      LianaMain_15: 6324269876802143845
+      LianaMain_150: 730176332378740426
+      LianaMain_151: -7054928436838801201
+      LianaMain_152: 3447658068169597398
+      LianaMain_153: 625102991434691472
+      LianaMain_154: 4987693060236350347
+      LianaMain_155: -1655020513941237188
+      LianaMain_156: -526829901233483677
+      LianaMain_157: -8892675654533863832
+      LianaMain_158: 6434104724737820175
+      LianaMain_159: 8924393484246048534
+      LianaMain_16: -8931803286546364451
+      LianaMain_160: -960383350926615409
+      LianaMain_161: -4727680530514655367
+      LianaMain_162: -1560819001165354770
+      LianaMain_163: 6340195517148304890
+      LianaMain_164: 7867582262621837220
+      LianaMain_165: -8126049249600234279
+      LianaMain_17: -7183879392364427805
+      LianaMain_18: 8623010212421014805
+      LianaMain_19: 5894849117704964464
       LianaMain_2: 6059778647002693031
+      LianaMain_20: -5666111973146820954
+      LianaMain_21: 4369688257514672749
+      LianaMain_22: 8164238840483707495
+      LianaMain_23: 2293490998039842765
+      LianaMain_24: 7500467589244317562
+      LianaMain_25: 6108197566327374167
+      LianaMain_26: 8906558098668557351
+      LianaMain_27: 1668313451148624502
+      LianaMain_28: 9179492911017188740
+      LianaMain_29: -6408921968587620752
       LianaMain_3: 2439608324062287720
+      LianaMain_30: -1982021763957674216
+      LianaMain_31: -1511864137101586225
+      LianaMain_32: 7493929062196180562
+      LianaMain_33: 3447553136898654446
+      LianaMain_34: -2679152256177834139
+      LianaMain_35: 3444855915426253742
+      LianaMain_36: 3144186140050179970
+      LianaMain_37: 6589659948176578177
+      LianaMain_38: 4432960052082169860
+      LianaMain_39: -970501181229570325
       LianaMain_4: -6158298046200402634
+      LianaMain_40: 4581375922139226856
+      LianaMain_41: 8741563870485786144
+      LianaMain_42: 4911702411225864777
+      LianaMain_43: 7437762594934360293
+      LianaMain_44: -2344909924431032579
+      LianaMain_45: -4982131777545129176
+      LianaMain_46: 5737967150756540734
+      LianaMain_47: 9117393571629106457
+      LianaMain_48: -2115138160694806663
+      LianaMain_49: -1837020099468839375
       LianaMain_5: -5825568976237751328
+      LianaMain_50: -2327148004577538800
+      LianaMain_51: -17056921565130308
+      LianaMain_52: 1503741155707177108
+      LianaMain_53: 65389109728097676
+      LianaMain_54: -8877455206251674677
+      LianaMain_55: 6702085595124013392
+      LianaMain_56: 8326604685170985344
+      LianaMain_57: -7260372652377042047
+      LianaMain_58: 7241645070242434889
+      LianaMain_59: 3846598773433310025
       LianaMain_6: 6005305012006384203
+      LianaMain_60: 6701400779632150505
+      LianaMain_61: 2604968116012512354
+      LianaMain_62: 677618709293301475
+      LianaMain_63: 4416369421959217871
+      LianaMain_64: 5681630654320100521
+      LianaMain_65: -4001821220278757345
+      LianaMain_66: 5045028976443304458
+      LianaMain_67: 7004336635149403793
+      LianaMain_68: 6582324295154736426
+      LianaMain_69: -1330958990410692000
       LianaMain_7: -3858716099450559355
+      LianaMain_70: 2915566460455052200
+      LianaMain_71: 5540330820715134672
+      LianaMain_72: -1987349692134665718
+      LianaMain_73: 4021362248124867896
+      LianaMain_74: 3125325440710077427
+      LianaMain_75: -955635587859220789
+      LianaMain_76: -7524426818479766964
+      LianaMain_77: -7562523292894754092
+      LianaMain_78: -6154189273114577388
+      LianaMain_79: 63418201175701780
       LianaMain_8: -4890200294462754304
+      LianaMain_80: -5520339909842719346
+      LianaMain_81: -2083545542228792507
+      LianaMain_82: -711983072716400194
+      LianaMain_83: 4323868896368312249
+      LianaMain_84: 2205630254174419305
+      LianaMain_85: -7766536428771011109
+      LianaMain_86: 231948736262770716
+      LianaMain_87: 1497499207193642673
+      LianaMain_88: 2912993279214450799
+      LianaMain_89: -2529402297633686248
       LianaMain_9: 7030484563499325712
+      LianaMain_90: -2064156506634639810
+      LianaMain_91: 4302091567084770908
+      LianaMain_92: 583499613790281568
+      LianaMain_93: -128199943302459092
+      LianaMain_94: -6340240437149913326
+      LianaMain_95: -3295109351819804100
+      LianaMain_96: -9150727584798730259
+      LianaMain_97: 2065077552601914636
+      LianaMain_98: 7667820330519333438
+      LianaMain_99: -6147464924098700426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
