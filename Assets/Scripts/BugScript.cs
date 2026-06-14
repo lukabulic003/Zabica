@@ -12,18 +12,33 @@ public class BugScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+
         if (finished) return;
 
         if (other.CompareTag("Jezik"))
         {
+
             finished = true;
+
+            SpriteRenderer sr = GetComponent<SpriteRenderer>();
+            if (sr != null)
+                sr.enabled = false;
+
+            Collider2D col = GetComponent<Collider2D>();
+            if (col != null)
+                col.enabled = false;
+
             StartCoroutine(LoadNextLevel());
         }
     }
 
     private IEnumerator LoadNextLevel()
     {
-        transitionAnimator.SetTrigger("Start");
+
+        if (transitionAnimator != null)
+        {
+            transitionAnimator.SetTrigger("Start");
+        }
 
         yield return new WaitForSeconds(transitionDuration);
 

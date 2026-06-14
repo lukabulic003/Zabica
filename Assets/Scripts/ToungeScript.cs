@@ -48,7 +48,6 @@ public class TongueScript : MonoBehaviour
                 2f);
     }
 
-
     private void UpdateDirection()
     {
         if (playerSprite.flipX)
