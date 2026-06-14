@@ -5,6 +5,7 @@ public class PlayerScript : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 10f;
+    [SerializeField] private float swimSpeed = 2f;
 
     private Rigidbody2D rb;
     private float horizontal;
@@ -25,6 +26,9 @@ public class PlayerScript : MonoBehaviour
 
     private float animationTimer;
     private int currentFrame;
+    public bool isInWater = false;
+    private float vertical;
+ 
 
     private void Awake()
     {
@@ -35,7 +39,16 @@ public class PlayerScript : MonoBehaviour
     {
 
         horizontal = Input.GetAxisRaw("Horizontal");
+        vertical = Input.GetAxisRaw("Vertical");
 
+        if (!isInWater)
+        {
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+        }
+        else { 
 
         if (horizontal > 0)
         {
@@ -63,14 +76,25 @@ public class PlayerScript : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
+        }
     }
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(
-            horizontal * moveSpeed,
-            rb.linearVelocity.y
-        );
+        if (isInWater)
+        {
+            rb.linearVelocity = new Vector2(
+                horizontal * swimSpeed,
+                vertical * swimSpeed
+            );
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(
+                horizontal * moveSpeed,
+                rb.linearVelocity.y
+            );
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
