@@ -7692,6 +7692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4341791369663209421, guid: c391fe50740cf464dac9b078e065181f, type: 3}
+      propertyPath: m_TagString
+      value: Jezik
+      objectReference: {fileID: 0}
     - target: {fileID: 6510268133397986985, guid: c391fe50740cf464dac9b078e065181f, type: 3}
       propertyPath: m_SortingOrder
       value: 250
