@@ -9,7 +9,6 @@ public class PlayerScript : MonoBehaviour
 
     private Rigidbody2D rb;
     private float horizontal;
-    private float vertical;
     private bool isGrounded;
 
     [SerializeField] private SpriteRenderer spriteRenderer;
@@ -27,23 +26,30 @@ public class PlayerScript : MonoBehaviour
 
     private float animationTimer;
     private int currentFrame;
-
     public bool isInWater = false;
-
-    private float originalGravityScale;
+    private float vertical;
+ 
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        originalGravityScale = rb.gravityScale;
     }
 
     private void Update()
     {
+
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
 
-        // Okretanje sprite-a
+        if (!isInWater)
+        {
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+        }
+        else { 
+
         if (horizontal > 0)
         {
             spriteRenderer.flipX = false;
@@ -53,8 +59,7 @@ public class PlayerScript : MonoBehaviour
             spriteRenderer.flipX = true;
         }
 
-        // Animacije
-        if (!isGrounded && !isInWater)
+        if (!isGrounded)
         {
             UpdateJumpSprite();
         }
@@ -67,12 +72,10 @@ public class PlayerScript : MonoBehaviour
             spriteRenderer.sprite = idleSprite;
         }
 
-        // Skok samo van vode
-        if (!isInWater &&
-            Input.GetKeyDown(KeyCode.W) &&
-            isGrounded)
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        }
         }
     }
 
@@ -96,7 +99,7 @@ public class PlayerScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground"))
+        if (collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("Wather"))
         {
             isGrounded = true;
         }
@@ -107,25 +110,6 @@ public class PlayerScript : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
-        }
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Wather"))
-        {
-            isInWater = true;
-            isGrounded = true;
-            rb.gravityScale = 0f;
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("Wather"))
-        {
-            isInWater = false;
-            rb.gravityScale = originalGravityScale;
         }
     }
 
@@ -174,9 +158,7 @@ public class PlayerScript : MonoBehaviour
             currentFrame++;
 
             if (currentFrame > 2)
-            {
                 currentFrame = 0;
-            }
 
             switch (currentFrame)
             {
@@ -191,6 +173,7 @@ public class PlayerScript : MonoBehaviour
                 case 2:
                     spriteRenderer.sprite = walk3;
                     break;
+
             }
         }
     }
